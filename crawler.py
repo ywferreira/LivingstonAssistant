@@ -23,7 +23,7 @@ import urllib.robotparser
 from collections import deque
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urldefrag, urlparse
+from urllib.parse import parse_qsl, urlencode, urljoin, urldefrag, urlparse
 
 import httpx
 from bs4 import BeautifulSoup
@@ -56,12 +56,19 @@ DOMAIN = urlparse(BASE_URL).netloc.lower().removeprefix("www.")
 
 
 def normalize(url: str) -> str:
+    """Canonical URL form. CivicPlus/IIS paths are case-insensitive, the bare
+    domain redirects to www, http redirects to https, and empty query params
+    (?bidId=) are decorative — normalize all of it so aliases dedupe."""
     url, _ = urldefrag(url)
     parsed = urlparse(url)
+    scheme = "https" if parsed.scheme == "http" else parsed.scheme
     netloc = parsed.netloc.lower()
-    path = parsed.path.rstrip("/") or "/"
-    query = f"?{parsed.query}" if parsed.query else ""
-    return f"{parsed.scheme}://{netloc}{path}{query}"
+    if netloc == DOMAIN:
+        netloc = f"www.{DOMAIN}"
+    path = (parsed.path.rstrip("/") or "/").lower()
+    kept = [(k, v) for k, v in parse_qsl(parsed.query, keep_blank_values=True) if v]
+    query = f"?{urlencode(kept)}" if kept else ""
+    return f"{scheme}://{netloc}{path}{query}"
 
 
 def in_domain(url: str) -> bool:
