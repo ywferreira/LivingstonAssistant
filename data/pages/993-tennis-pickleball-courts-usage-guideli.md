@@ -1,6 +1,6 @@
 # Tennis / Pickleball Courts - Usage Guidelines
 
-Source: https://www.livingstonnj.org/993/Tennis-Pickleball-Courts---Usage-Guideli
+Source: https://livingstonnj.org/993/Tennis-Pickleball-Courts---Usage-Guideli
 
 # Tennis / Pickleball Courts - Usage Guidelines
 

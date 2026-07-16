@@ -1,6 +1,6 @@
 # Form Center • eBill Notification Authorization/Cancellation
 
-Source: https://www.livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94
+Source: https://livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94
 
 # Form Center
 
@@ -25,4 +25,4 @@ Select category/categories to filter
 
 Search
 
-By [signing in or creating an account](https://www.livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94), some fields will auto-populate with your information.
+By [signing in or creating an account](https://livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94), some fields will auto-populate with your information.

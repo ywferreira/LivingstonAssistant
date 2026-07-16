@@ -1,6 +1,6 @@
 # Summer Camps
 
-Source: https://www.livingstonnj.org/776/Summer-Camps
+Source: https://livingstonnj.org/776/Summer-Camps
 
 # Summer Camps
 

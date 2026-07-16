@@ -1,35 +1,70 @@
 {
   "https://livingstonnj.org/129/Agendas-Minutes": {
     "file": "pages/129-agendas-minutes.md",
-    "last_crawled": "2026-07-16T03:18:27+00:00",
+    "last_crawled": "2026-07-16T03:31:01+00:00",
     "sha256": "178380ea8245c32c9be600bd9ea33713b871b4cde70e84deb20692a287fefbb2",
     "title": "Agendas & Minutes",
     "type": "page"
   },
+  "https://livingstonnj.org/1350/Community-Surveys": {
+    "file": "pages/1350-community-surveys.md",
+    "last_crawled": "2026-07-16T03:38:04+00:00",
+    "sha256": "1b20463a7c78c4538f73cacfae03e891863a68a180248f31333d9c232dbc79cc",
+    "title": "Community Surveys",
+    "type": "page"
+  },
+  "https://livingstonnj.org/1646/Register-for-My360-Portal": {
+    "file": "pages/1646-register-for-my360-portal.md",
+    "last_crawled": "2026-07-16T03:38:06+00:00",
+    "sha256": "a17909d6105dbaf4f3593fc588511ee9fdec13eb9ac63b763dbc397a797c74e5",
+    "title": "Register for My360 Portal",
+    "type": "page"
+  },
   "https://livingstonnj.org/186/Licenses-Permits": {
     "file": "pages/186-licenses-permits.md",
-    "last_crawled": "2026-07-16T03:24:11+00:00",
+    "last_crawled": "2026-07-16T03:35:51+00:00",
     "sha256": "dc0d3f07498d40e60261e1b4bc04c86c085669582d093eacfc5b18edeae370de",
     "title": "Licenses & Permits",
     "type": "page"
   },
   "https://livingstonnj.org/191/Open-Public-Records-Act-OPRA": {
     "file": "pages/191-open-public-records-act-opra.md",
-    "last_crawled": "2026-07-16T03:24:27+00:00",
+    "last_crawled": "2026-07-16T03:36:07+00:00",
     "sha256": "fb13c20963758faae0f4203c6f7215b9b1376285793fabc03e4f1d6c91fe1340",
     "title": "Open Public Records Act (OPRA)",
     "type": "page"
   },
   "https://livingstonnj.org/2021/Smart-911": {
     "file": "pages/2021-smart-911.md",
-    "last_crawled": "2026-07-16T03:25:05+00:00",
+    "last_crawled": "2026-07-16T03:36:40+00:00",
     "sha256": "5398e790db8ec359bd96179dd271d7bfc6d7bcfe12acadb1e7765273eed15739",
     "title": "Smart 911",
     "type": "page"
   },
+  "https://livingstonnj.org/681/Community-Events": {
+    "file": "pages/681-community-events.md",
+    "last_crawled": "2026-07-16T03:37:54+00:00",
+    "sha256": "52fbb1861fc443c42fce815cd9d4961d5b472dafb3a4b85c479afaa0d224226f",
+    "title": "Community Events",
+    "type": "page"
+  },
+  "https://livingstonnj.org/776/Summer-Camps": {
+    "file": "pages/776-summer-camps.md",
+    "last_crawled": "2026-07-16T03:37:55+00:00",
+    "sha256": "0f6a0828da06555d0a77142fb9f6dc93d96b05a2150be4e42373d4258b9455a0",
+    "title": "Summer Camps",
+    "type": "page"
+  },
+  "https://livingstonnj.org/993/Tennis-Pickleball-Courts---Usage-Guideli": {
+    "file": "pages/993-tennis-pickleball-courts-usage-guideli.md",
+    "last_crawled": "2026-07-16T03:37:56+00:00",
+    "sha256": "69cb5e24e455bdf04faa98f54c9e422860cd9599f4ad08584885776584ebeb64",
+    "title": "Tennis / Pickleball Courts - Usage Guidelines",
+    "type": "page"
+  },
   "https://livingstonnj.org/999/Pool-and-Aquatics": {
     "file": "pages/999-pool-and-aquatics.md",
-    "last_crawled": "2026-07-16T03:24:32+00:00",
+    "last_crawled": "2026-07-16T03:36:11+00:00",
     "sha256": "50dbde0cdbd55bcd8d3f4ca851995a5db05684bf890adc0c2179becc3a20f07b",
     "title": "Pool and Aquatics",
     "type": "page"
@@ -41,198 +76,226 @@
     "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
     "type": "page"
   },
+  "https://livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94": {
+    "file": "pages/formcenter-finance-5-ebill-notification-authorizationcancella-94.md",
+    "last_crawled": "2026-07-16T03:38:05+00:00",
+    "sha256": "77916719c186cf8b7cf27f107df9e0dfbc6728a9becfe11e9e5ad0c68a429e4c",
+    "title": "Form Center \u2022 eBill Notification Authorization/Cancellation",
+    "type": "page"
+  },
   "https://livingstonnj.org/list.aspx": {
     "file": "pages/list-aspx.md",
-    "last_crawled": "2026-07-16T03:25:06+00:00",
+    "last_crawled": "2026-07-16T03:36:41+00:00",
     "sha256": "b8656af8d8e389a1d4bbeb6604226f95af180160ffd1b00ce88e4f49819de720",
     "title": "Notify Me \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
+  "https://livingstonnj.org/m/faq?cat=27": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:36:49+00:00",
+    "sha256": "720e0fe3a03077a9b4cb6643957443c96f6ec62a7c549a776d88cfd1121d135b",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/": {
     "file": "pages/home.md",
-    "last_crawled": "2026-07-16T03:17:21+00:00",
+    "last_crawled": "2026-07-16T03:30:03+00:00",
     "sha256": "c17b983401760aad2a629366eedb8dc51ec924bf791e6023d069fffbca061b2e",
     "title": "Livingston Township, NJ | Official Website",
     "type": "page"
   },
   "https://www.livingstonnj.org/101/Services": {
     "file": "pages/101-services.md",
-    "last_crawled": "2026-07-16T03:17:25+00:00",
+    "last_crawled": "2026-07-16T03:30:08+00:00",
     "sha256": "f52a44a897e7d4da4f901d21c21b2bec4844b5c42e79df50b03a406791b22ab1",
     "title": "Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1039/Events-and-Socials": {
     "file": "pages/1039-events-and-socials.md",
-    "last_crawled": "2026-07-16T03:22:03+00:00",
+    "last_crawled": "2026-07-16T03:33:46+00:00",
     "sha256": "5e8df112910d2e9b8cc0715c56ec82a46f9104fc77e1771b5db51ab31087133b",
     "title": "Events and Socials",
     "type": "page"
   },
+  "https://www.livingstonnj.org/1041/Memorial-Day-Parade": {
+    "file": "pages/1041-memorial-day-parade.md",
+    "last_crawled": "2026-07-16T03:37:29+00:00",
+    "sha256": "ffe29af09d77a1605f7093982a9359df74837d050760142997a12164ad6b3f6f",
+    "title": "Memorial Day Parade",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/1050/Utilities": {
     "file": "pages/1050-utilities.md",
-    "last_crawled": "2026-07-16T03:18:04+00:00",
+    "last_crawled": "2026-07-16T03:30:41+00:00",
     "sha256": "afc6c3cac8245400e9ae311a7c0abd37eede5627dbadfa281b90c8adf5b67751",
     "title": "Contact Local Utilities",
     "type": "page"
   },
   "https://www.livingstonnj.org/1052/Website-Privacy-Policy": {
     "file": "pages/1052-website-privacy-policy.md",
-    "last_crawled": "2026-07-16T03:24:25+00:00",
+    "last_crawled": "2026-07-16T03:36:05+00:00",
     "sha256": "430bc3e38b5d4615b31cfdcdb98ee0bf1574c6a2ecde90a35ae8e796106f7948",
     "title": "Website Privacy Policy & Disclaimer",
     "type": "page"
   },
   "https://www.livingstonnj.org/1066/Schedules-Zones": {
     "file": "pages/1066-schedules-zones.md",
-    "last_crawled": "2026-07-16T03:23:31+00:00",
+    "last_crawled": "2026-07-16T03:35:13+00:00",
     "sha256": "c9b8f824e282ae5cee0a27b312f62222b3ba92b4eaed3e53f2d7580e29287a5b",
     "title": "Schedules & Zones",
     "type": "page"
   },
   "https://www.livingstonnj.org/1071/SectionsZones-by-Street": {
     "file": "pages/1071-sectionszones-by-street.md",
-    "last_crawled": "2026-07-16T03:22:45+00:00",
+    "last_crawled": "2026-07-16T03:34:26+00:00",
     "sha256": "8fa5468cddfd0b561d98c71388ef49f2613e099ca8f3725b43663c611803d51d",
     "title": "Sections/Zones by Street",
     "type": "page"
   },
   "https://www.livingstonnj.org/1146/Presentations-and-Workshops": {
     "file": "pages/1146-presentations-and-workshops.md",
-    "last_crawled": "2026-07-16T03:22:38+00:00",
+    "last_crawled": "2026-07-16T03:34:20+00:00",
     "sha256": "64689c3a58c099097b277aa87096f4600761f3187b12c70b2842b4ea1971d28e",
     "title": "Presentations & Workshops",
     "type": "page"
   },
   "https://www.livingstonnj.org/1196/Maps-Collection-Zones": {
     "file": "pages/1196-maps-collection-zones.md",
-    "last_crawled": "2026-07-16T03:23:32+00:00",
+    "last_crawled": "2026-07-16T03:35:14+00:00",
     "sha256": "4c343ea010cabd1b4e80fcb1800124e8929b5d3e00dc785757ae0aabe8b180ed",
     "title": "Maps: Collection Zones",
     "type": "page"
   },
   "https://www.livingstonnj.org/1199/Citizens-Police-Academy": {
     "file": "pages/1199-citizens-police-academy.md",
-    "last_crawled": "2026-07-16T03:21:20+00:00",
+    "last_crawled": "2026-07-16T03:33:02+00:00",
     "sha256": "61996a960f21ab1b1f526a406c677afe6bda5294476295a6d34a0657cce1b10e",
     "title": "Citizens Police Academy",
     "type": "page"
   },
   "https://www.livingstonnj.org/1255/2025-Standard-Online-Tax-Sale": {
     "file": "pages/1255-2025-standard-online-tax-sale.md",
-    "last_crawled": "2026-07-16T03:19:26+00:00",
+    "last_crawled": "2026-07-16T03:31:34+00:00",
     "sha256": "8e40f3c62845b1d3a2274669b509ca1f6d51cb0a743b79aa0864a6203b6c7c97",
     "title": "2025 Standard Online Tax Sale",
     "type": "page"
   },
   "https://www.livingstonnj.org/1279/Livingston-Committee-for-Diversity-Inclu": {
     "file": "pages/1279-livingston-committee-for-diversity-inclu.md",
-    "last_crawled": "2026-07-16T03:25:45+00:00",
+    "last_crawled": "2026-07-16T03:37:20+00:00",
     "sha256": "82be16904252d76cc077e640d09c667ee5e16a9845dce974b83eecc215891523",
     "title": "Livingston Committee for Diversity & Inclusion (LCDI)",
     "type": "page"
   },
   "https://www.livingstonnj.org/129/Agendas-Minutes": {
     "file": "pages/129-agendas-minutes.md",
-    "last_crawled": "2026-07-16T03:17:37+00:00",
+    "last_crawled": "2026-07-16T03:30:19+00:00",
     "sha256": "df9eccbb8b17a0ab8a65b07b1fbb484f2e463902496142c33bbc6d530f384a95",
     "title": "Agendas & Minutes",
     "type": "page"
   },
   "https://www.livingstonnj.org/1290/Photographs": {
     "file": "pages/1290-photographs.md",
-    "last_crawled": "2026-07-16T03:23:25+00:00",
+    "last_crawled": "2026-07-16T03:35:06+00:00",
     "sha256": "cf15a557c9b9f29f5ce6a300fba2a55f295fb479cf7dc3acaef33d47120b41f4",
     "title": "Photographs",
     "type": "page"
   },
   "https://www.livingstonnj.org/1302/Street-Light-OutageDay-Burner-Report": {
     "file": "pages/1302-street-light-outageday-burner-report.md",
-    "last_crawled": "2026-07-16T03:24:36+00:00",
+    "last_crawled": "2026-07-16T03:36:16+00:00",
     "sha256": "8388819fe9337ab970f8b215d8a9f3fec0933e5955ca0a31c57e3f468c76cc21",
     "title": "Street Light Outage/Day-Burner Report",
     "type": "page"
   },
   "https://www.livingstonnj.org/1305/Community-Planning-Calendar-Burbio": {
     "file": "pages/1305-community-planning-calendar-burbio.md",
-    "last_crawled": "2026-07-16T03:23:42+00:00",
+    "last_crawled": "2026-07-16T03:35:24+00:00",
     "sha256": "20941b47cdbfc9140a8187675230456cfd5529e63d76f18fde069d7393ff8403",
     "title": "Community Planning Calendar: Burbio",
     "type": "page"
   },
   "https://www.livingstonnj.org/1330/Water-Main-Breaks": {
     "file": "pages/1330-water-main-breaks.md",
-    "last_crawled": "2026-07-16T03:22:31+00:00",
+    "last_crawled": "2026-07-16T03:34:13+00:00",
     "sha256": "e7d54581ffb2cf7c518c0f61946fc7f77358eb5ddabdbebef43dd7ac7fa542b5",
     "title": "Water Main Breaks",
     "type": "page"
   },
   "https://www.livingstonnj.org/1331/Utility-Construction-Projects": {
     "file": "pages/1331-utility-construction-projects.md",
-    "last_crawled": "2026-07-16T03:22:16+00:00",
+    "last_crawled": "2026-07-16T03:33:58+00:00",
     "sha256": "e196ef8b6f498a2eb7f110098075c7af349df901db3f7d4f0c18cc052afc5cef",
     "title": "Water & Sewer Construction Projects",
     "type": "page"
   },
   "https://www.livingstonnj.org/1345/Essex-County-Hazard-Mitigation": {
     "file": "pages/1345-essex-county-hazard-mitigation.md",
-    "last_crawled": "2026-07-16T03:21:27+00:00",
+    "last_crawled": "2026-07-16T03:33:09+00:00",
     "sha256": "e64a92ce120bc9c6abc0ef4ebc3713d47b1e8a33e7fe9c7281905b47f6f59ac0",
     "title": "Essex County Hazard Mitigation",
     "type": "page"
   },
   "https://www.livingstonnj.org/1346/Electronics-Recycling-Accepted-Items": {
     "file": "pages/1346-electronics-recycling-accepted-items.md",
-    "last_crawled": "2026-07-16T03:23:13+00:00",
+    "last_crawled": "2026-07-16T03:34:53+00:00",
     "sha256": "5cab18286e463a37724f9cb7229651db7c3e052d783392825296b57ec3212904",
     "title": "Electronics Recycling: Items Accepted",
     "type": "page"
   },
   "https://www.livingstonnj.org/1347/Paper-Shredding": {
     "file": "pages/1347-paper-shredding.md",
-    "last_crawled": "2026-07-16T03:23:15+00:00",
+    "last_crawled": "2026-07-16T03:34:55+00:00",
     "sha256": "ddcd8e39a010b8cf0e4c0c4d3ca68cf6c67b6f309cfb176f9e8906fdf24d4eb5",
     "title": "Paper Shredding Events",
     "type": "page"
   },
+  "https://www.livingstonnj.org/1350/Community-Surveys": {
+    "file": "pages/1350-community-surveys.md",
+    "last_crawled": "2026-07-16T03:37:45+00:00",
+    "sha256": "fbfcdf0e6f7c12edf6c900445ee166265a9ccdd62b8c8dd2920aa49b834d0250",
+    "title": "Community Surveys",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/1358/Winter-Storm-Preparation": {
     "file": "pages/1358-winter-storm-preparation.md",
-    "last_crawled": "2026-07-16T03:21:31+00:00",
+    "last_crawled": "2026-07-16T03:33:13+00:00",
     "sha256": "18f9892003e503145cf3743cf1ba9cfd2c2acbc4f9d3a3a3e285ab287067309d",
     "title": "Winter Storm Preparation",
     "type": "page"
   },
   "https://www.livingstonnj.org/1362/Summer-and-Seasonal-Jobs-with-Recreation": {
     "file": "pages/1362-summer-and-seasonal-jobs-with-recreation.md",
-    "last_crawled": "2026-07-16T03:20:40+00:00",
+    "last_crawled": "2026-07-16T03:32:20+00:00",
     "sha256": "a23a238892b5caef0c3db8d536363c89016a2246398190a1a76439326901832f",
     "title": "Summer and Seasonal Jobs with Recreation",
     "type": "page"
   },
   "https://www.livingstonnj.org/1375/Animal-Shelter-Committee": {
     "file": "pages/1375-animal-shelter-committee.md",
-    "last_crawled": "2026-07-16T03:25:39+00:00",
+    "last_crawled": "2026-07-16T03:37:13+00:00",
     "sha256": "1d948bc1585d16f5298c9ed636c9c359099613bdde2064fa4e5d788f74682cbf",
     "title": "Animal Shelter Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/1379/Make-a-Family-Emergency-Plan": {
     "file": "pages/1379-make-a-family-emergency-plan.md",
-    "last_crawled": "2026-07-16T03:21:29+00:00",
+    "last_crawled": "2026-07-16T03:33:11+00:00",
     "sha256": "df831d2a34c6742c954d692280ccbbb5f49aa6462d6c6f4af25db8d4d01e91a6",
     "title": "Make a Family Emergency Plan",
     "type": "page"
   },
   "https://www.livingstonnj.org/1384/Junior-Police-Academy": {
     "file": "pages/1384-junior-police-academy.md",
-    "last_crawled": "2026-07-16T03:21:23+00:00",
+    "last_crawled": "2026-07-16T03:33:05+00:00",
     "sha256": "1607ba5f50abc7f72539e61b9a70063a4ad0f8999ec5db1548a1c947bdb9f144",
     "title": "Junior Police Academy",
     "type": "page"
   },
   "https://www.livingstonnj.org/1397/Council-Meeting-Videos": {
     "file": "pages/1397-council-meeting-videos.md",
-    "last_crawled": "2026-07-16T03:22:35+00:00",
+    "last_crawled": "2026-07-16T03:34:18+00:00",
     "sha256": "6197b0c5a4be497ae04f3c59e2d88304e4ad5be2dc63b16a457db33b18da7118",
     "title": "Council Meeting Videos",
     "type": "page"
@@ -246,119 +309,119 @@
   },
   "https://www.livingstonnj.org/1409/TaxUtility-Online-Lookup-Payment": {
     "file": "pages/1409-taxutility-online-lookup-payment.md",
-    "last_crawled": "2026-07-16T03:19:13+00:00",
+    "last_crawled": "2026-07-16T03:30:15+00:00",
     "sha256": "013f3f0d3412eaf377334a3af2db3331ca96018b244bc14ec7828e640fb9080d",
     "title": "Tax/Utility Bill Online Lookup & Payment - WIPP",
     "type": "page"
   },
   "https://www.livingstonnj.org/142/Contact": {
     "file": "pages/142-contact.md",
-    "last_crawled": "2026-07-16T03:24:12+00:00",
+    "last_crawled": "2026-07-16T03:35:52+00:00",
     "sha256": "17fe73d079751411c0adea428b19ee1a3b8b36aa0a0d83e47188c77beb5571a2",
     "title": "Contact",
     "type": "page"
   },
   "https://www.livingstonnj.org/1422/COVID-Related-Items": {
     "file": "pages/1422-covid-related-items.md",
-    "last_crawled": "2026-07-16T03:23:09+00:00",
+    "last_crawled": "2026-07-16T03:34:50+00:00",
     "sha256": "c521edbc54e2b6039b40489d14d322d40c1a99ae1295bfb3d157122441552873",
     "title": "COVID-Related Items",
     "type": "page"
   },
   "https://www.livingstonnj.org/1425/Construction-Debris": {
     "file": "pages/1425-construction-debris.md",
-    "last_crawled": "2026-07-16T03:23:08+00:00",
+    "last_crawled": "2026-07-16T03:34:49+00:00",
     "sha256": "b15424e58c1fa717454a898a0db437843508bf78b45ebf756bad15e84af47ae8",
     "title": "Construction Debris",
     "type": "page"
   },
   "https://www.livingstonnj.org/143/Apply-For": {
     "file": "pages/143-apply-for.md",
-    "last_crawled": "2026-07-16T03:24:10+00:00",
+    "last_crawled": "2026-07-16T03:35:50+00:00",
     "sha256": "44cd0c1a045562555e66678f35e5d90950c1532231c66842fc5c2790c215c208",
     "title": "Apply For",
     "type": "page"
   },
   "https://www.livingstonnj.org/144/Find": {
     "file": "pages/144-find.md",
-    "last_crawled": "2026-07-16T03:24:17+00:00",
+    "last_crawled": "2026-07-16T03:35:56+00:00",
     "sha256": "4d2df9d189bb7d8f64fbd4397516a567afc62de695d93bf2cc7037b7e82cd7eb",
     "title": "Find",
     "type": "page"
   },
   "https://www.livingstonnj.org/1446/Utility-Connection-Permits": {
     "file": "pages/1446-utility-connection-permits.md",
-    "last_crawled": "2026-07-16T03:22:22+00:00",
+    "last_crawled": "2026-07-16T03:34:05+00:00",
     "sha256": "af43ed62a44d31ffce803f6f1573a8440f785ef8bb409f9a60f4bebedb5500f6",
     "title": "Utility Connection Permits",
     "type": "page"
   },
   "https://www.livingstonnj.org/145/Sign-Up-For": {
     "file": "pages/145-sign-up-for.md",
-    "last_crawled": "2026-07-16T03:24:28+00:00",
+    "last_crawled": "2026-07-16T03:36:08+00:00",
     "sha256": "2e03379caa81034370b8c9a6c0fff040830082b6de2cf2980cc37b8286e79e73",
     "title": "Sign Up For",
     "type": "page"
   },
   "https://www.livingstonnj.org/1451/Appeal-Zoning-Officers-Decision": {
     "file": "pages/1451-appeal-zoning-officers-decision.md",
-    "last_crawled": "2026-07-16T03:20:54+00:00",
+    "last_crawled": "2026-07-16T03:32:36+00:00",
     "sha256": "882a23a63dc8e14dfec1b09560223964059ce863641cbc7d6a817dce340e5077",
     "title": "Appeal Zoning Officer's Decision",
     "type": "page"
   },
   "https://www.livingstonnj.org/146/Submit": {
     "file": "pages/146-submit.md",
-    "last_crawled": "2026-07-16T03:24:34+00:00",
+    "last_crawled": "2026-07-16T03:36:13+00:00",
     "sha256": "e222e704608dddb2459e52427114b1c8fe5d2a033c039c6a39be1fc018e75281",
     "title": "Submit",
     "type": "page"
   },
   "https://www.livingstonnj.org/1460/2021-Bid-Results": {
     "file": "pages/1460-2021-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:43+00:00",
+    "last_crawled": "2026-07-16T03:36:22+00:00",
     "sha256": "b12f90cd4db0b105e45a6823e2b1e885a79275bfde7848ebe6dd86e1257c8b6b",
     "title": "2021 Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/1467/High-Bill-Check-for-Excess-Consumption": {
     "file": "pages/1467-high-bill-check-for-excess-consumption.md",
-    "last_crawled": "2026-07-16T03:22:19+00:00",
+    "last_crawled": "2026-07-16T03:34:01+00:00",
     "sha256": "ffc053457afef207b9f56ad88e2e822c5415997e58a580117ec9efac5c4d8ba5",
     "title": "High Bill? Check for Excess Consumption",
     "type": "page"
   },
   "https://www.livingstonnj.org/1468/Plastic-Paper-Single-Use-Bags": {
     "file": "pages/1468-plastic-paper-single-use-bags.md",
-    "last_crawled": "2026-07-16T03:23:26+00:00",
+    "last_crawled": "2026-07-16T03:35:08+00:00",
     "sha256": "ef1bc687fe825b6e8cb3f617958778d1d6b5f2b11fe0bc62917cc4768e81c190",
     "title": "Plastic & Paper: Single-Use Bags",
     "type": "page"
   },
   "https://www.livingstonnj.org/1478/Carbon-Monoxide-Safety": {
     "file": "pages/1478-carbon-monoxide-safety.md",
-    "last_crawled": "2026-07-16T03:19:53+00:00",
+    "last_crawled": "2026-07-16T03:31:43+00:00",
     "sha256": "4ebc5f43759947b1ccb9cdec9fd80dcba6ae8d67c487cc40af38c02ea4261355",
     "title": "Carbon Monoxide Safety",
     "type": "page"
   },
   "https://www.livingstonnj.org/1479/Grilling-Safety-Tips": {
     "file": "pages/1479-grilling-safety-tips.md",
-    "last_crawled": "2026-07-16T03:19:58+00:00",
+    "last_crawled": "2026-07-16T03:31:46+00:00",
     "sha256": "f9b38181ec61c6bf37d1c0dbc2df6647d3fe8d68dd93f8d251dc9036d57cd8d8",
     "title": "Grilling Safety Tips",
     "type": "page"
   },
   "https://www.livingstonnj.org/148/Departments": {
     "file": "pages/148-departments.md",
-    "last_crawled": "2026-07-16T03:18:03+00:00",
+    "last_crawled": "2026-07-16T03:30:41+00:00",
     "sha256": "bf0bea020829c0e5d106355b52d8c40ddafffb010ada2d9bc84f2686a1da4b69",
     "title": "Departments",
     "type": "page"
   },
   "https://www.livingstonnj.org/1484/PFAS-Important-Information-About-Drinkin": {
     "file": "pages/1484-pfas-important-information-about-drinkin.md",
-    "last_crawled": "2026-07-16T03:22:26+00:00",
+    "last_crawled": "2026-07-16T03:34:09+00:00",
     "sha256": "71c071efec2664fe116e650b606e957893efe43ecb694b79825877459359c565",
     "title": "PFAS: Important Information About Drinking Water",
     "type": "page"
@@ -372,119 +435,119 @@
   },
   "https://www.livingstonnj.org/1501/2022-Bid-Results": {
     "file": "pages/1501-2022-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:42+00:00",
+    "last_crawled": "2026-07-16T03:36:21+00:00",
     "sha256": "718d6252625e31743ec635a850f0bffcb62c1540e8c93072dc3cc27fff4476fa",
     "title": "2022 Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/1503/Winter-Safety-Tips": {
     "file": "pages/1503-winter-safety-tips.md",
-    "last_crawled": "2026-07-16T03:20:09+00:00",
+    "last_crawled": "2026-07-16T03:31:51+00:00",
     "sha256": "58103df9349b93be31cdda47437d81796c0412969ddcfd91610661860e1e1e63",
     "title": "Winter Safety Tips",
     "type": "page"
   },
   "https://www.livingstonnj.org/1504/Inclement-Weather-No-GarbageRecycling-Pi": {
     "file": "pages/1504-inclement-weather-no-garbagerecycling-pi.md",
-    "last_crawled": "2026-07-16T03:23:36+00:00",
+    "last_crawled": "2026-07-16T03:35:18+00:00",
     "sha256": "f8d2e79978ff69723abeedfdc1d5dd1d3aba55b63d87b23bc739e0ed1a67c999",
     "title": "Inclement Weather: No Garbage/Recycling Pickup",
     "type": "page"
   },
   "https://www.livingstonnj.org/1507/Lead-Service-Line-Inventory": {
     "file": "pages/1507-lead-service-line-inventory.md",
-    "last_crawled": "2026-07-16T03:22:25+00:00",
+    "last_crawled": "2026-07-16T03:34:08+00:00",
     "sha256": "69885109674fb4267d24468663601f1bdf42cf7a601c72046796e5c5d497a014",
     "title": "Lead Service-Line Inventory",
     "type": "page"
   },
   "https://www.livingstonnj.org/1510/Livingston-for-All-Ages": {
     "file": "pages/1510-livingston-for-all-ages.md",
-    "last_crawled": "2026-07-16T03:21:48+00:00",
+    "last_crawled": "2026-07-16T03:33:30+00:00",
     "sha256": "25a7dc625aa72122560464bd22498393b06775eb4a4f0be6763b0c6f8e958b19",
     "title": "Livingston for All Ages",
     "type": "page"
   },
   "https://www.livingstonnj.org/1519/LCDI-Pride-Subcommittee": {
     "file": "pages/1519-lcdi-pride-subcommittee.md",
-    "last_crawled": "2026-07-16T03:25:46+00:00",
+    "last_crawled": "2026-07-16T03:37:21+00:00",
     "sha256": "be2bf29ac19d81a7d11b52610ad448fe4c68430fb7f72b2e7097b0313651046a",
     "title": "LCDI Pride Subcommittee",
     "type": "page"
   },
   "https://www.livingstonnj.org/1524/Hydrant-Permits-and-Flow-Tests": {
     "file": "pages/1524-hydrant-permits-and-flow-tests.md",
-    "last_crawled": "2026-07-16T03:22:20+00:00",
+    "last_crawled": "2026-07-16T03:34:02+00:00",
     "sha256": "3c23d73c7af18eaa63b119d43ae1846c5ad9b1abebf155594e3973910ba65351",
     "title": "Hydrant Permits and Flow Tests",
     "type": "page"
   },
   "https://www.livingstonnj.org/1532/Fireworks-Safety": {
     "file": "pages/1532-fireworks-safety.md",
-    "last_crawled": "2026-07-16T03:19:56+00:00",
+    "last_crawled": "2026-07-16T03:31:45+00:00",
     "sha256": "c24d34a3e522b0f1063ec1f34c5b7bf40084254bdef0f0dd2e07dc77c9af8c9f",
     "title": "Fireworks Safety",
     "type": "page"
   },
   "https://www.livingstonnj.org/1533/Other-Township-Affiliated-Organizations": {
     "file": "pages/1533-other-township-affiliated-organizations.md",
-    "last_crawled": "2026-07-16T03:18:26+00:00",
+    "last_crawled": "2026-07-16T03:31:00+00:00",
     "sha256": "4f6f0544d14e5f442451ab82665860da34c1d8c415bcbd98b4563a5e3fe4f525",
     "title": "Other Township-Affiliated Organizations",
     "type": "page"
   },
   "https://www.livingstonnj.org/1538/Other-Ways-to-Pay-Your-TaxUtility-Bill": {
     "file": "pages/1538-other-ways-to-pay-your-taxutility-bill.md",
-    "last_crawled": "2026-07-16T03:19:37+00:00",
+    "last_crawled": "2026-07-16T03:31:37+00:00",
     "sha256": "9c80b0b722d3fc3182411c21ac3004ddaf087b4864b83e00b8a25d9a779fa27e",
     "title": "Other Ways to Pay Your Tax/Utility Bill",
     "type": "page"
   },
   "https://www.livingstonnj.org/1546/Livingston-For-All": {
     "file": "pages/1546-livingston-for-all.md",
-    "last_crawled": "2026-07-16T03:21:47+00:00",
+    "last_crawled": "2026-07-16T03:33:29+00:00",
     "sha256": "09cf38c0592751b31f65fffabb2393509080eb3845b31bbbae012c5e9835fa75",
     "title": "Livingston For All",
     "type": "page"
   },
   "https://www.livingstonnj.org/1548/2023-Bid-Results": {
     "file": "pages/1548-2023-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:41+00:00",
+    "last_crawled": "2026-07-16T03:36:20+00:00",
     "sha256": "e626e2011fe8391f76de2210d53606c6e3e4b259fc00eaa7aed1cc7b95bd39a7",
     "title": "2023 Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/1554/Drinking-Straws": {
     "file": "pages/1554-drinking-straws.md",
-    "last_crawled": "2026-07-16T03:23:11+00:00",
+    "last_crawled": "2026-07-16T03:34:51+00:00",
     "sha256": "4b67be64d3a6fa548daee2d7679d6ee05b8ff23f1d2ae39c12ef9b143ee2cbb2",
     "title": "Drinking Straws",
     "type": "page"
   },
   "https://www.livingstonnj.org/1568/Utility-Service-Line-Ownership": {
     "file": "pages/1568-utility-service-line-ownership.md",
-    "last_crawled": "2026-07-16T03:22:30+00:00",
+    "last_crawled": "2026-07-16T03:34:12+00:00",
     "sha256": "f783ef652e4e9b9ba1b8c02bfeb2d97daac8cf692f0d5061d4724e0b905ef855",
     "title": "Utility Service Line Ownership",
     "type": "page"
   },
   "https://www.livingstonnj.org/1569/New-Resident-Information": {
     "file": "pages/1569-new-resident-information.md",
-    "last_crawled": "2026-07-16T03:23:44+00:00",
+    "last_crawled": "2026-07-16T03:35:26+00:00",
     "sha256": "5d2ceb236899ffe7dcf0146fda8caaa47fb29a015843ea9007c9f9683ca37018",
     "title": "New Resident Information",
     "type": "page"
   },
   "https://www.livingstonnj.org/1572/EV-Charging": {
     "file": "pages/1572-ev-charging.md",
-    "last_crawled": "2026-07-16T03:24:21+00:00",
+    "last_crawled": "2026-07-16T03:36:01+00:00",
     "sha256": "82fb4e4eef9488e501a7b11e6c79ee10de6e34ef05b4e7056a313dc5682ff601",
     "title": "EV Charging",
     "type": "page"
   },
   "https://www.livingstonnj.org/1573/Filming-in-Livingston": {
     "file": "pages/1573-filming-in-livingston.md",
-    "last_crawled": "2026-07-16T03:18:29+00:00",
+    "last_crawled": "2026-07-16T03:31:03+00:00",
     "sha256": "42852ed43191d792116efd8875675ce36287240142e454844961ea4e9d9ee123",
     "title": "Filming in Livingston",
     "type": "page"
@@ -498,140 +561,140 @@
   },
   "https://www.livingstonnj.org/1574/Discolored-Water-Reduced-Pressure-Other-": {
     "file": "pages/1574-discolored-water-reduced-pressure-other.md",
-    "last_crawled": "2026-07-16T03:22:25+00:00",
+    "last_crawled": "2026-07-16T03:34:07+00:00",
     "sha256": "fd0ee7e58ff7cab4b45b833fa6ff9df11b091238575f1624bdd6ab52a2a16535",
     "title": "Discolored Water, Reduced Pressure & Other Quality Issues",
     "type": "page"
   },
   "https://www.livingstonnj.org/1575/Lead-Acid-vehicle": {
     "file": "pages/1575-lead-acid-vehicle.md",
-    "last_crawled": "2026-07-16T03:23:06+00:00",
+    "last_crawled": "2026-07-16T03:34:47+00:00",
     "sha256": "1e67dd8d375da11baefc78fc9c610baf1c7c4dea3f43a8911a28b79f7c97d46a",
     "title": "Lead-Acid (vehicle)",
     "type": "page"
   },
   "https://www.livingstonnj.org/1576/Aluminum-Foil-and-Food-Containers": {
     "file": "pages/1576-aluminum-foil-and-food-containers.md",
-    "last_crawled": "2026-07-16T03:23:01+00:00",
+    "last_crawled": "2026-07-16T03:34:42+00:00",
     "sha256": "db4e92cbb7b2f6737aaf064258fac9fcabe406b918bebc28033c85275b30e427",
     "title": "Aluminum Foil and Food Containers",
     "type": "page"
   },
   "https://www.livingstonnj.org/1577/Antifreeze": {
     "file": "pages/1577-antifreeze.md",
-    "last_crawled": "2026-07-16T03:23:02+00:00",
+    "last_crawled": "2026-07-16T03:34:43+00:00",
     "sha256": "6efb0e667fcaebcc95184a402eb17ed45af5ac9a8e3a4d9f1795c8914db98d0f",
     "title": "Antifreeze",
     "type": "page"
   },
   "https://www.livingstonnj.org/1578/Press-Releases": {
     "file": "pages/1578-press-releases.md",
-    "last_crawled": "2026-07-16T03:18:34+00:00",
+    "last_crawled": "2026-07-16T03:31:08+00:00",
     "sha256": "1f7d9748d56c4a9cfb2f7c862d170642d7e83bf377e64be1476281711a5d2023",
     "title": "Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1580/Mandatory-Recyclable-Materials": {
     "file": "pages/1580-mandatory-recyclable-materials.md",
-    "last_crawled": "2026-07-16T03:22:55+00:00",
+    "last_crawled": "2026-07-16T03:34:36+00:00",
     "sha256": "7793d06ed1aabbfa1d37fce763dc3da97aaf775828b707749722f8e33b064073",
     "title": "Mandatory Recyclable Materials",
     "type": "page"
   },
   "https://www.livingstonnj.org/1581/Polystyrene": {
     "file": "pages/1581-polystyrene.md",
-    "last_crawled": "2026-07-16T03:23:27+00:00",
+    "last_crawled": "2026-07-16T03:35:08+00:00",
     "sha256": "7a9f5a56ad74211eaf1f2806f218dd41fc93f8711c21ec81b80ce49dd2ec0d6f",
     "title": "Polystyrene",
     "type": "page"
   },
   "https://www.livingstonnj.org/1582/2022-Press-Releases": {
     "file": "pages/1582-2022-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:46+00:00",
+    "last_crawled": "2026-07-16T03:36:26+00:00",
     "sha256": "8308d948106dad2dca649cf33025be1f9c0989645b1265326f0217f9bee43f0c",
     "title": "2022 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1583/2021-Press-Releases": {
     "file": "pages/1583-2021-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:47+00:00",
+    "last_crawled": "2026-07-16T03:36:27+00:00",
     "sha256": "51b28930474e0b8826470fc5d7ff4c6354a13ec54227ace4048ef78c43401d09",
     "title": "2021 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1584/2020-Press-Releases": {
     "file": "pages/1584-2020-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:48+00:00",
+    "last_crawled": "2026-07-16T03:36:28+00:00",
     "sha256": "d8008e618cb7f4ec2d8cea68c359f268b5bac09a2896c5a13bdc72ec3349fec6",
     "title": "2020 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1585/2019-Press-Releases": {
     "file": "pages/1585-2019-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:49+00:00",
+    "last_crawled": "2026-07-16T03:36:28+00:00",
     "sha256": "78153aa6f019120060d5433cb795188948487cefa4da083fd89c8f825ed36aa0",
     "title": "2019 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1586/Planning": {
     "file": "pages/1586-planning.md",
-    "last_crawled": "2026-07-16T03:20:43+00:00",
+    "last_crawled": "2026-07-16T03:32:24+00:00",
     "sha256": "85968be6321c85bd6e75704df0b3a8f7bdf50d523a0c4d045637a6caac0abaf9",
     "title": "Planning",
     "type": "page"
   },
   "https://www.livingstonnj.org/1607/Ordinances-Resolutions": {
     "file": "pages/1607-ordinances-resolutions.md",
-    "last_crawled": "2026-07-16T03:18:25+00:00",
+    "last_crawled": "2026-07-16T03:30:59+00:00",
     "sha256": "afb83f47e76ca00b098b46d0a4d9f4159467750d0088f453ee7ccda3d7aeee86",
     "title": "Ordinances & Resolutions",
     "type": "page"
   },
   "https://www.livingstonnj.org/1625/Pots-Pans": {
     "file": "pages/1625-pots-pans.md",
-    "last_crawled": "2026-07-16T03:23:28+00:00",
+    "last_crawled": "2026-07-16T03:35:09+00:00",
     "sha256": "63ffd0a960ea8173210a2ba412e425cdfdf7ae79dc0721f2ec6ce1854f6ad406",
     "title": "Pots & Pans",
     "type": "page"
   },
   "https://www.livingstonnj.org/164/Finance": {
     "file": "pages/164-finance.md",
-    "last_crawled": "2026-07-16T03:18:50+00:00",
+    "last_crawled": "2026-07-16T03:31:23+00:00",
     "sha256": "1642317c9ae16ca310e6d7fbce87182031284f4dff8c11bf2eb2cdb46019737a",
     "title": "Finance",
     "type": "page"
   },
   "https://www.livingstonnj.org/1643/2023-Press-Releases": {
     "file": "pages/1643-2023-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:45+00:00",
+    "last_crawled": "2026-07-16T03:36:25+00:00",
     "sha256": "8faea75434e6745f781af065c2e86986f51d288bf8e0d4a39670748e41969ee2",
     "title": "2023 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1645/Recycle-Coach": {
     "file": "pages/1645-recycle-coach.md",
-    "last_crawled": "2026-07-16T03:22:58+00:00",
+    "last_crawled": "2026-07-16T03:34:39+00:00",
     "sha256": "14f4666307193e08c7363b4729b3cbba232ea33cbdee5a6511dd282c57c78559",
     "title": "Recycle Coach",
     "type": "page"
   },
   "https://www.livingstonnj.org/1646/Register-for-My360-Portal": {
     "file": "pages/1646-register-for-my360-portal.md",
-    "last_crawled": "2026-07-16T03:19:43+00:00",
+    "last_crawled": "2026-07-16T03:31:39+00:00",
     "sha256": "fc53f6546e9265fbf713cb3e54b711f785bfc9f1d72e94ef9b32864946d206f5",
     "title": "Register for My360 Portal",
     "type": "page"
   },
   "https://www.livingstonnj.org/1650/2024-Bid-Results": {
     "file": "pages/1650-2024-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:40+00:00",
+    "last_crawled": "2026-07-16T03:36:19+00:00",
     "sha256": "a231474a13813689bc4ee58adec8d95ecd7c273171ed665dc15e41567c4c5afb",
     "title": "2024 Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/166/Financial-Information": {
     "file": "pages/166-financial-information.md",
-    "last_crawled": "2026-07-16T03:18:09+00:00",
+    "last_crawled": "2026-07-16T03:30:44+00:00",
     "sha256": "994aed75ff22da5c0a185bf39f4ab497a56640fe72bc1673344681a1c0359bae",
     "title": "Financial Information",
     "type": "page"
@@ -645,7 +708,7 @@
   },
   "https://www.livingstonnj.org/1666/Clerks-Office": {
     "file": "pages/1666-clerks-office.md",
-    "last_crawled": "2026-07-16T03:18:23+00:00",
+    "last_crawled": "2026-07-16T03:30:58+00:00",
     "sha256": "bd4fa4d2597b1955245f031117e4cee05153ee4292fd0f08adf6051bd9dbc1a6",
     "title": "Clerk's Office",
     "type": "page"
@@ -659,7 +722,7 @@
   },
   "https://www.livingstonnj.org/1667/Recreation-Senior-Services": {
     "file": "pages/1667-recreation-senior-services.md",
-    "last_crawled": "2026-07-16T03:21:41+00:00",
+    "last_crawled": "2026-07-16T03:30:23+00:00",
     "sha256": "65fc6211deeb30f5d5ef0c7c32551360474ebc48b3843a514a6a87ec9fcfb92e",
     "title": "Recreation & Senior Services",
     "type": "page"
@@ -673,14 +736,14 @@
   },
   "https://www.livingstonnj.org/1668/Health": {
     "file": "pages/1668-health.md",
-    "last_crawled": "2026-07-16T03:20:18+00:00",
+    "last_crawled": "2026-07-16T03:31:58+00:00",
     "sha256": "d192c2e4a2f4c568d25a368ef488662a91d6ef6333f978a8dfec05737ee24e11",
     "title": "Health",
     "type": "page"
   },
   "https://www.livingstonnj.org/1670/Water": {
     "file": "pages/1670-water.md",
-    "last_crawled": "2026-07-16T03:18:48+00:00",
+    "last_crawled": "2026-07-16T03:31:22+00:00",
     "sha256": "30e51e4246e6c8a5444c2aabb9138c5fc2f2b2fe0ba2abf323279fcb7845a10e",
     "title": "Water",
     "type": "page"
@@ -694,49 +757,49 @@
   },
   "https://www.livingstonnj.org/1671/Garbage-Recycling": {
     "file": "pages/1671-garbage-recycling.md",
-    "last_crawled": "2026-07-16T03:22:37+00:00",
+    "last_crawled": "2026-07-16T03:30:18+00:00",
     "sha256": "8da0470d310197ccf675e39346d6eb3075b76c680a9dcae95730bf6ea12fd645",
     "title": "Garbage & Recycling",
     "type": "page"
   },
   "https://www.livingstonnj.org/1672/Police": {
     "file": "pages/1672-police.md",
-    "last_crawled": "2026-07-16T03:21:02+00:00",
+    "last_crawled": "2026-07-16T03:32:43+00:00",
     "sha256": "48cc26f3e4d95d0e153270da4551119662568787b5070ed550a5b7ab01c5ee85",
     "title": "Police",
     "type": "page"
   },
   "https://www.livingstonnj.org/1683/About-Us": {
     "file": "pages/1683-about-us.md",
-    "last_crawled": "2026-07-16T03:18:24+00:00",
+    "last_crawled": "2026-07-16T03:30:58+00:00",
     "sha256": "f620ad99cc5b9baf9ed49ee0e5aa1cc2d6b185dd20dd08f2ea985b4dea9ac787",
     "title": "About Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/1684/How-Do-I": {
     "file": "pages/1684-how-do-i.md",
-    "last_crawled": "2026-07-16T03:18:31+00:00",
+    "last_crawled": "2026-07-16T03:31:05+00:00",
     "sha256": "bf7268a8c59a8dda95412f112765adfa4988deefc39af3891cef7717378d4b34",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/1685/About-Us": {
     "file": "pages/1685-about-us.md",
-    "last_crawled": "2026-07-16T03:20:19+00:00",
+    "last_crawled": "2026-07-16T03:31:59+00:00",
     "sha256": "bdd933d43b1f39991d5ffe2ab8acf5c618c7c84bd1f713d4805d563d04c17639",
     "title": "About Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/1686/Services": {
     "file": "pages/1686-services.md",
-    "last_crawled": "2026-07-16T03:20:26+00:00",
+    "last_crawled": "2026-07-16T03:32:05+00:00",
     "sha256": "7ead6acf5597c35a81a4bd5ee77b54f70c3218ecfece61aacb920e1b6b21dcf1",
     "title": "Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1687/How-Do-I": {
     "file": "pages/1687-how-do-i.md",
-    "last_crawled": "2026-07-16T03:20:36+00:00",
+    "last_crawled": "2026-07-16T03:32:14+00:00",
     "sha256": "084996877d1c2bfc26124cb8e61831fa749fff30353979612e80dd37c9ea9d72",
     "title": "How Do I...",
     "type": "page"
@@ -750,35 +813,35 @@
   },
   "https://www.livingstonnj.org/1690/About-Us": {
     "file": "pages/1690-about-us.md",
-    "last_crawled": "2026-07-16T03:22:14+00:00",
+    "last_crawled": "2026-07-16T03:33:57+00:00",
     "sha256": "22caa130bd57b5df757a730cf9d4edf2dbddd269169967d7a5ae455b201048b8",
     "title": "About Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/1691/Permits-Forms-Fees": {
     "file": "pages/1691-permits-forms-fees.md",
-    "last_crawled": "2026-07-16T03:22:18+00:00",
+    "last_crawled": "2026-07-16T03:34:00+00:00",
     "sha256": "4c48bec0912afb3b410c02d439b04b5a436658ef9dc24940d1bc15a3a376f6ab",
     "title": "Permits, Forms & Fees",
     "type": "page"
   },
   "https://www.livingstonnj.org/1692/Water-Quality": {
     "file": "pages/1692-water-quality.md",
-    "last_crawled": "2026-07-16T03:22:24+00:00",
+    "last_crawled": "2026-07-16T03:34:06+00:00",
     "sha256": "ccc28b5e82c55187c1ecfa7ff2941d185587da365da9559a6da98c5b29a9a118",
     "title": "Water Quality",
     "type": "page"
   },
   "https://www.livingstonnj.org/1694/Water-System": {
     "file": "pages/1694-water-system.md",
-    "last_crawled": "2026-07-16T03:22:28+00:00",
+    "last_crawled": "2026-07-16T03:34:10+00:00",
     "sha256": "8e5ac277e8143bf9f5912e90f635346c26abad892a2e6c74e98f6750fc70a66c",
     "title": "Water System",
     "type": "page"
   },
   "https://www.livingstonnj.org/170/Property-Tax-Deduction-Forms": {
     "file": "pages/170-property-tax-deduction-forms.md",
-    "last_crawled": "2026-07-16T03:19:20+00:00",
+    "last_crawled": "2026-07-16T03:31:32+00:00",
     "sha256": "52b488e5065fbeb0f5261148d5c7608fcfa74539321fc50a9775efa50a9a6a38",
     "title": "Property Tax Deduction Forms",
     "type": "page"
@@ -792,126 +855,126 @@
   },
   "https://www.livingstonnj.org/171/Boards-Committees-Appointed-by-Township-": {
     "file": "pages/171-boards-committees-appointed-by-township.md",
-    "last_crawled": "2026-07-16T03:18:08+00:00",
+    "last_crawled": "2026-07-16T03:30:43+00:00",
     "sha256": "265487a5cf5fab59dad6619a7e72645993fe55deac729be66617303584e1c848",
     "title": "Volunteer for Boards & Committees Appointed by the Township Council",
     "type": "page"
   },
   "https://www.livingstonnj.org/172/Purchasing": {
     "file": "pages/172-purchasing.md",
-    "last_crawled": "2026-07-16T03:18:53+00:00",
+    "last_crawled": "2026-07-16T03:31:24+00:00",
     "sha256": "29cb318a98ce0c5469f5d901e4bbf6b3ce31576e91a2e737d7a5ae33dba7733d",
     "title": "Purchasing",
     "type": "page"
   },
   "https://www.livingstonnj.org/1725/Zoning": {
     "file": "pages/1725-zoning.md",
-    "last_crawled": "2026-07-16T03:22:32+00:00",
+    "last_crawled": "2026-07-16T03:34:14+00:00",
     "sha256": "2749799ac7a49038c813a97b99d08178aee698b2f8d137797a887653a8d97c81",
     "title": "Zoning",
     "type": "page"
   },
   "https://www.livingstonnj.org/1735/Engineering": {
     "file": "pages/1735-engineering.md",
-    "last_crawled": "2026-07-16T03:18:36+00:00",
+    "last_crawled": "2026-07-16T03:31:10+00:00",
     "sha256": "264c1a75bf6058cd8c55dd5ca093f7b098e50ad38faee5c4f53505c183c93896",
     "title": "Engineering",
     "type": "page"
   },
   "https://www.livingstonnj.org/1736/Frequently-Asked-Questions": {
     "file": "pages/1736-frequently-asked-questions.md",
-    "last_crawled": "2026-07-16T03:18:37+00:00",
+    "last_crawled": "2026-07-16T03:31:11+00:00",
     "sha256": "f20a2300288a90b912bd69096dca082fa74833133b1022f2183031166b72e608",
     "title": "Frequently Asked Questions",
     "type": "page"
   },
   "https://www.livingstonnj.org/1740/Resources": {
     "file": "pages/1740-resources.md",
-    "last_crawled": "2026-07-16T03:18:40+00:00",
+    "last_crawled": "2026-07-16T03:31:14+00:00",
     "sha256": "001dddaf13c1120c7012025e9dd31d5b61ad090ba0d568cfe8633a314bb090e8",
     "title": "Resources",
     "type": "page"
   },
   "https://www.livingstonnj.org/1741/Road-Listing": {
     "file": "pages/1741-road-listing.md",
-    "last_crawled": "2026-07-16T03:18:41+00:00",
+    "last_crawled": "2026-07-16T03:31:15+00:00",
     "sha256": "2c434c32b552ee86e2a943b5d76e7b4c3ff95b4120fd29f551038e895bc630ce",
     "title": "Road Listing",
     "type": "page"
   },
   "https://www.livingstonnj.org/1742/Stormwater-Management": {
     "file": "pages/1742-stormwater-management.md",
-    "last_crawled": "2026-07-16T03:18:42+00:00",
+    "last_crawled": "2026-07-16T03:31:16+00:00",
     "sha256": "13ec8d9a093d167b7f7e99ab31f9d77bd1119ee5c8f6a1cebcfcb593a87145a4",
     "title": "Stormwater Management",
     "type": "page"
   },
   "https://www.livingstonnj.org/1743/Township-Maps": {
     "file": "pages/1743-township-maps.md",
-    "last_crawled": "2026-07-16T03:18:43+00:00",
+    "last_crawled": "2026-07-16T03:31:17+00:00",
     "sha256": "1a5c2295a73c3acd589518eb09241ea1414f1c57aff0844561e9db7faf1830b9",
     "title": "Township Maps",
     "type": "page"
   },
   "https://www.livingstonnj.org/1749/Tax-Maps": {
     "file": "pages/1749-tax-maps.md",
-    "last_crawled": "2026-07-16T03:18:46+00:00",
+    "last_crawled": "2026-07-16T03:31:20+00:00",
     "sha256": "202b071cedcdb16bfb8a7cb00f3879b7d4fdbde1b764b55726280fb8939e270a",
     "title": "Tax Maps",
     "type": "page"
   },
   "https://www.livingstonnj.org/1755/Permits": {
     "file": "pages/1755-permits.md",
-    "last_crawled": "2026-07-16T03:18:38+00:00",
+    "last_crawled": "2026-07-16T03:31:12+00:00",
     "sha256": "bfea084da16eb2b40b2510dce92302b5f6213659bd8836f81a1bc6d381a51684",
     "title": "Permits",
     "type": "page"
   },
   "https://www.livingstonnj.org/1760/Public-Works": {
     "file": "pages/1760-public-works.md",
-    "last_crawled": "2026-07-16T03:18:39+00:00",
+    "last_crawled": "2026-07-16T03:31:13+00:00",
     "sha256": "da8275dc82ab089bb8c954ee95b2f8d697ba91b75e9316f72bc6046bf1f23ed8",
     "title": "Public Works",
     "type": "page"
   },
   "https://www.livingstonnj.org/1765/Potholes-Road-Maintenance-Issues": {
     "file": "pages/1765-potholes-road-maintenance-issues.md",
-    "last_crawled": "2026-07-16T03:21:39+00:00",
+    "last_crawled": "2026-07-16T03:33:21+00:00",
     "sha256": "857cf97f82497edbfc12e359ee38bb251dfdbd022a3a03f5e98457e71b84f495",
     "title": "Potholes & Road Maintenance Issues",
     "type": "page"
   },
   "https://www.livingstonnj.org/177/Bid-Results": {
     "file": "pages/177-bid-results.md",
-    "last_crawled": "2026-07-16T03:18:58+00:00",
+    "last_crawled": "2026-07-16T03:31:27+00:00",
     "sha256": "744915117173c8a201c53b7e2807754a5ca151207287d08f5e4472e0c1ce423f",
     "title": "Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/1776/Building": {
     "file": "pages/1776-building.md",
-    "last_crawled": "2026-07-16T03:18:18+00:00",
+    "last_crawled": "2026-07-16T03:30:52+00:00",
     "sha256": "bdd62e7fe2275502b13a3e44583988f0619356ba0c305cd14ea611053519466c",
     "title": "Building",
     "type": "page"
   },
   "https://www.livingstonnj.org/1778/Checklists": {
     "file": "pages/1778-checklists.md",
-    "last_crawled": "2026-07-16T03:18:20+00:00",
+    "last_crawled": "2026-07-16T03:30:55+00:00",
     "sha256": "bc7da85a311efba8db336575cfdf2b603367a03bb0c8a8c8429ecaabfa7a6287",
     "title": "Checklists",
     "type": "page"
   },
   "https://www.livingstonnj.org/1779/Permits-Applications": {
     "file": "pages/1779-permits-applications.md",
-    "last_crawled": "2026-07-16T03:17:38+00:00",
+    "last_crawled": "2026-07-16T03:30:20+00:00",
     "sha256": "2945cecc9bff41f69ccdf48414eae97a23d230986b13bb194647e35afc22d91d",
     "title": "Permits & Applications",
     "type": "page"
   },
   "https://www.livingstonnj.org/1781/Tree-Planting-Removal": {
     "file": "pages/1781-tree-planting-removal.md",
-    "last_crawled": "2026-07-16T03:18:21+00:00",
+    "last_crawled": "2026-07-16T03:30:56+00:00",
     "sha256": "b5de54f1cbad87d4c5c0700e54f9377eba99ca7e21ec08ce8a3c95a8a56f1197",
     "title": "Trees",
     "type": "page"
@@ -925,105 +988,105 @@
   },
   "https://www.livingstonnj.org/1782/Schedule-an-Inspection": {
     "file": "pages/1782-schedule-an-inspection.md",
-    "last_crawled": "2026-07-16T03:18:18+00:00",
+    "last_crawled": "2026-07-16T03:30:53+00:00",
     "sha256": "d4437759f4a4a7ca4279da24738a0e0e17d890d96cd42d028b3417ca9e486c16",
     "title": "Schedule an Inspection",
     "type": "page"
   },
   "https://www.livingstonnj.org/1800/Contact": {
     "file": "pages/1800-contact.md",
-    "last_crawled": "2026-07-16T03:20:38+00:00",
+    "last_crawled": "2026-07-16T03:32:16+00:00",
     "sha256": "3ef1f2b3a8786da3082943b0adb82ff69ca80f3e27512bd3f6291eb89a29eeed",
     "title": "Contact",
     "type": "page"
   },
   "https://www.livingstonnj.org/1804/Apply-for-a-MarriageCivil-UnionDomestic-": {
     "file": "pages/1804-apply-for-a-marriagecivil-uniondomestic.md",
-    "last_crawled": "2026-07-16T03:20:22+00:00",
+    "last_crawled": "2026-07-16T03:32:02+00:00",
     "sha256": "22f59e5895bf69341379ca2c2cc9284b486b9ef8957f2d16a6d28b75172551f5",
     "title": "Apply for a Marriage/Civil Union/Domestic Partnership Certificate",
     "type": "page"
   },
   "https://www.livingstonnj.org/1811/Death-Certificates": {
     "file": "pages/1811-death-certificates.md",
-    "last_crawled": "2026-07-16T03:20:24+00:00",
+    "last_crawled": "2026-07-16T03:32:03+00:00",
     "sha256": "84cd188fdf28828368574bcbb2d4c4dc9c7567947864a6f7e929d54afcfbda8b",
     "title": "Death Certificates",
     "type": "page"
   },
   "https://www.livingstonnj.org/1813/Amend-or-Correct-a-Vital-Record": {
     "file": "pages/1813-amend-or-correct-a-vital-record.md",
-    "last_crawled": "2026-07-16T03:20:21+00:00",
+    "last_crawled": "2026-07-16T03:32:01+00:00",
     "sha256": "4d78d3c95388b4b1af09da69951045d8a4d7ff32bec6ce717371bbbad6d00b6c",
     "title": "Amend or Correct a Vital Record",
     "type": "page"
   },
   "https://www.livingstonnj.org/1814/MarriageCivil-UnionDomestic-Partnership-": {
     "file": "pages/1814-marriagecivil-uniondomestic-partnership.md",
-    "last_crawled": "2026-07-16T03:20:25+00:00",
+    "last_crawled": "2026-07-16T03:32:04+00:00",
     "sha256": "0252d8f7e20a319fbc1c1218ed7d0e9df5950a3bd0616e84811bf838bd0b1807",
     "title": "Marriage/Civil Union/Domestic Partnership Certificates",
     "type": "page"
   },
   "https://www.livingstonnj.org/1816/Request": {
     "file": "pages/1816-request.md",
-    "last_crawled": "2026-07-16T03:18:32+00:00",
+    "last_crawled": "2026-07-16T03:31:07+00:00",
     "sha256": "57b322b413178ad57b72888bf675834915ce60a56578f3421e4c613a0fedf55c",
     "title": "Request",
     "type": "page"
   },
   "https://www.livingstonnj.org/1819/Register": {
     "file": "pages/1819-register.md",
-    "last_crawled": "2026-07-16T03:18:31+00:00",
+    "last_crawled": "2026-07-16T03:31:06+00:00",
     "sha256": "7b38a519917950a9cc3fb219338c43f8e860a35bdcbcdda73c85895792022725",
     "title": "Register",
     "type": "page"
   },
   "https://www.livingstonnj.org/1826/Emergency-Services": {
     "file": "pages/1826-emergency-services.md",
-    "last_crawled": "2026-07-16T03:24:03+00:00",
+    "last_crawled": "2026-07-16T03:35:44+00:00",
     "sha256": "54937a11c2d9c24c9d48a350637bb463021b3ace3b2fde5922507f58b7a1622e",
     "title": "Emergency Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1827/Township-Services": {
     "file": "pages/1827-township-services.md",
-    "last_crawled": "2026-07-16T03:24:06+00:00",
+    "last_crawled": "2026-07-16T03:35:47+00:00",
     "sha256": "411da88849e51d4d46747f443bbf91cefb75bd46103cb578e3903129ae9e4113",
     "title": "Township Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1829/Staying-Connected": {
     "file": "pages/1829-staying-connected.md",
-    "last_crawled": "2026-07-16T03:24:05+00:00",
+    "last_crawled": "2026-07-16T03:35:46+00:00",
     "sha256": "f3e4954e40feba0bb07f91c98b6aea350e2baa0bba43b79d4e42e0c6326cc991",
     "title": "Staying Connected",
     "type": "page"
   },
   "https://www.livingstonnj.org/1831/Local-Services": {
     "file": "pages/1831-local-services.md",
-    "last_crawled": "2026-07-16T03:24:04+00:00",
+    "last_crawled": "2026-07-16T03:35:45+00:00",
     "sha256": "7995cba307e662a29a36edba4318e899a2160733fd33d717e8b5f716f7b9d8b1",
     "title": "Local Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1833/Local-Government": {
     "file": "pages/1833-local-government.md",
-    "last_crawled": "2026-07-16T03:24:03+00:00",
+    "last_crawled": "2026-07-16T03:35:45+00:00",
     "sha256": "bb354c2d5f5ecd8cc1e189669f026dd64ce8af8aa67657a0c483f27d33b835e6",
     "title": "Local Government",
     "type": "page"
   },
   "https://www.livingstonnj.org/184/Tax-Assessor": {
     "file": "pages/184-tax-assessor.md",
-    "last_crawled": "2026-07-16T03:19:15+00:00",
+    "last_crawled": "2026-07-16T03:31:30+00:00",
     "sha256": "f4b4f188da83f1a170f92d8d55e805ba647404ef0dc9b4eee688bfbbfc129dd7",
     "title": "Tax Assessor",
     "type": "page"
   },
   "https://www.livingstonnj.org/1842/Grass-Leaf-Disposal-Guidelines": {
     "file": "pages/1842-grass-leaf-disposal-guidelines.md",
-    "last_crawled": "2026-07-16T03:23:38+00:00",
+    "last_crawled": "2026-07-16T03:35:20+00:00",
     "sha256": "74da15bac6413c8033193ac48a285322d8b89a8151fac38e4d36d0d72e2ad134",
     "title": "Grass & Leaf Disposal Guidelines",
     "type": "page"
@@ -1044,161 +1107,168 @@
   },
   "https://www.livingstonnj.org/1849/Rear-Yard-Pickup": {
     "file": "pages/1849-rear-yard-pickup.md",
-    "last_crawled": "2026-07-16T03:22:48+00:00",
+    "last_crawled": "2026-07-16T03:34:29+00:00",
     "sha256": "2f6b77269cf5d19acf104e407c58ff3b3ea38e151a79951093266139c1fdca1d",
     "title": "Rear-Yard Pickup",
     "type": "page"
   },
   "https://www.livingstonnj.org/185/Organization-Claiming-Property-Tax-Exemp": {
     "file": "pages/185-organization-claiming-property-tax-exemp.md",
-    "last_crawled": "2026-07-16T03:19:18+00:00",
+    "last_crawled": "2026-07-16T03:31:31+00:00",
     "sha256": "c5dbddd019cd5eafe9062e6d196d0d686247755840a512c8d15e5ec7bb3efe6e",
     "title": "Organization Claiming Property Tax Exemption",
     "type": "page"
   },
   "https://www.livingstonnj.org/1852/Unacceptable-Items": {
     "file": "pages/1852-unacceptable-items.md",
-    "last_crawled": "2026-07-16T03:22:49+00:00",
+    "last_crawled": "2026-07-16T03:34:30+00:00",
     "sha256": "04121edc9068d4c7fc3d5bf7e3963b864e95b128068a43f89be4856621930e1a",
     "title": "Unacceptable Items",
     "type": "page"
   },
   "https://www.livingstonnj.org/1854/PalletsShipping-Crates": {
     "file": "pages/1854-palletsshipping-crates.md",
-    "last_crawled": "2026-07-16T03:23:23+00:00",
+    "last_crawled": "2026-07-16T03:35:04+00:00",
     "sha256": "e305e006c0b4c37588cef0fcaf5ab6d470e1ed3efa5fdfc4baffd5e4ff08c383",
     "title": "Pallets/Shipping Crates",
     "type": "page"
   },
   "https://www.livingstonnj.org/1859/Essex-County-Election-Information": {
     "file": "pages/1859-essex-county-election-information.md",
-    "last_crawled": "2026-07-16T03:18:30+00:00",
+    "last_crawled": "2026-07-16T03:31:04+00:00",
     "sha256": "756097057146f16d4a2afd4576f33afd99e5135f45fcfecfc76a00b998ca0008",
     "title": "Essex County Election Information",
     "type": "page"
   },
   "https://www.livingstonnj.org/186/Licenses-Permits": {
     "file": "pages/186-licenses-permits.md",
-    "last_crawled": "2026-07-16T03:18:28+00:00",
+    "last_crawled": "2026-07-16T03:31:02+00:00",
     "sha256": "2f771b9b49a120d53082efced75d2f39cbf806bd9001e9b2ab8bc16cf327b957",
     "title": "Licenses & Permits",
     "type": "page"
   },
   "https://www.livingstonnj.org/1867/Commingled-Recycling": {
     "file": "pages/1867-commingled-recycling.md",
-    "last_crawled": "2026-07-16T03:22:53+00:00",
+    "last_crawled": "2026-07-16T03:34:34+00:00",
     "sha256": "d91cf8dc1b6992b32d19b410fe177d53dd3706564c1517101f3684384f5c5c4e",
     "title": "Commingled Recycling",
     "type": "page"
   },
   "https://www.livingstonnj.org/1868/Paper-Recycling": {
     "file": "pages/1868-paper-recycling.md",
-    "last_crawled": "2026-07-16T03:22:54+00:00",
+    "last_crawled": "2026-07-16T03:34:35+00:00",
     "sha256": "13b6fffd1ce067d7ed3b999d63daf11d64bd6a79196fa312595b7dd615078377",
     "title": "Paper Recycling",
     "type": "page"
   },
   "https://www.livingstonnj.org/1869/Missed-Pickups": {
     "file": "pages/1869-missed-pickups.md",
-    "last_crawled": "2026-07-16T03:22:56+00:00",
+    "last_crawled": "2026-07-16T03:34:37+00:00",
     "sha256": "300529f8b6e29b740e661c79aba2f7b8544e1091f2b6aef95c9b93f19c41c1ac",
     "title": "Missed Pickups",
     "type": "page"
   },
   "https://www.livingstonnj.org/187/Tax-Assessment-Appeal-Information": {
     "file": "pages/187-tax-assessment-appeal-information.md",
-    "last_crawled": "2026-07-16T03:19:22+00:00",
+    "last_crawled": "2026-07-16T03:31:33+00:00",
     "sha256": "8178402173ab8fe02a45d68a9e0203c5dfbdda3118858bde5854eeb60ff77381",
     "title": "Tax Assessment Appeal Information",
     "type": "page"
   },
   "https://www.livingstonnj.org/1871/Municipal-Auctions": {
     "file": "pages/1871-municipal-auctions.md",
-    "last_crawled": "2026-07-16T03:19:01+00:00",
+    "last_crawled": "2026-07-16T03:31:28+00:00",
     "sha256": "39aa23542fbc92fe3bfc507a2d194bb3bbc746682884c5a4490d96684eb1e8f7",
     "title": "Municipal Auctions",
     "type": "page"
   },
   "https://www.livingstonnj.org/1874/Disability-and-Disaster-Preparedness": {
     "file": "pages/1874-disability-and-disaster-preparedness.md",
-    "last_crawled": "2026-07-16T03:21:26+00:00",
+    "last_crawled": "2026-07-16T03:33:09+00:00",
     "sha256": "05b0f7a7a9bef0f995f1f67c94a106fb4bb191fa8ddc709dd45d0f5bf39fbae6",
     "title": "Disability and Disaster Preparedness",
     "type": "page"
   },
   "https://www.livingstonnj.org/1878/Remote-Court-ZOOM": {
     "file": "pages/1878-remote-court-zoom.md",
-    "last_crawled": "2026-07-16T03:20:42+00:00",
+    "last_crawled": "2026-07-16T03:32:23+00:00",
     "sha256": "ef8e5b966c0f1c022559497c6d4d531422899943167ee6e5a8532ee1f739f0de",
     "title": "Remote Court: ZOOM",
     "type": "page"
   },
   "https://www.livingstonnj.org/188/Tax-Collector": {
     "file": "pages/188-tax-collector.md",
-    "last_crawled": "2026-07-16T03:19:24+00:00",
+    "last_crawled": "2026-07-16T03:31:34+00:00",
     "sha256": "ad159e2eb96b60c9a172c4e3a1520ce0b63b56930ac6321ec2dafd3a8f1ea9a7",
     "title": "Tax Collector",
     "type": "page"
   },
   "https://www.livingstonnj.org/1891/Ad-Hoc-Licari-Strahman-Tracts-Committee": {
     "file": "pages/1891-ad-hoc-licari-strahman-tracts-committee.md",
-    "last_crawled": "2026-07-16T03:25:38+00:00",
+    "last_crawled": "2026-07-16T03:37:12+00:00",
     "sha256": "09ad452e0e716557ced7e220fc9cd6edb94d5e9d61f21d1fe5b0225d6a55ed7e",
     "title": "Ad-Hoc Licari & Strahman Tracts Committee",
     "type": "page"
   },
+  "https://www.livingstonnj.org/1892/Transportation-Committee-Advisory": {
+    "file": "pages/1892-transportation-committee-advisory.md",
+    "last_crawled": "2026-07-16T03:37:44+00:00",
+    "sha256": "aa22ad6ee01d182b014b27107c4a6c6d3e9752cd4b9c6ac692134fd1e7886312",
+    "title": "Transportation Committee (Advisory)",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/1894/Golf-Tournament-Committee": {
     "file": "pages/1894-golf-tournament-committee.md",
-    "last_crawled": "2026-07-16T03:25:43+00:00",
+    "last_crawled": "2026-07-16T03:37:18+00:00",
     "sha256": "3d48378b62bb43c86955d6f30ab3fe43daaad01d291d77ed3edf152523176e42",
     "title": "Golf Tournament Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/1897/At-The-Oval": {
     "file": "pages/1897-at-the-oval.md",
-    "last_crawled": "2026-07-16T03:22:00+00:00",
+    "last_crawled": "2026-07-16T03:33:43+00:00",
     "sha256": "575d67b32f2bc708aab550b3458a58d6bf5b35b3b8a608508249ef987248f405",
     "title": "At The Oval",
     "type": "page"
   },
   "https://www.livingstonnj.org/1900/Apps": {
     "file": "pages/1900-apps.md",
-    "last_crawled": "2026-07-16T03:24:19+00:00",
+    "last_crawled": "2026-07-16T03:35:59+00:00",
     "sha256": "13e4be170dcfc29c67d785a6931f273d6616d69c8d6cce4ed8214df3e8efda31",
     "title": "Apps",
     "type": "page"
   },
   "https://www.livingstonnj.org/1902/What-to-Expect-When-Applying-for-FEMA-As": {
     "file": "pages/1902-what-to-expect-when-applying-for-fema-as.md",
-    "last_crawled": "2026-07-16T03:21:30+00:00",
+    "last_crawled": "2026-07-16T03:33:12+00:00",
     "sha256": "985470caae54a82ad68af4f0dbd16e75a2a95b2af33e70754ec764a831fe791d",
     "title": "What to Expect When Applying for FEMA Assistance",
     "type": "page"
   },
   "https://www.livingstonnj.org/1904/Physical-Connection-Permits-Private-Well": {
     "file": "pages/1904-physical-connection-permits-private-well.md",
-    "last_crawled": "2026-07-16T03:22:22+00:00",
+    "last_crawled": "2026-07-16T03:34:04+00:00",
     "sha256": "6401fc3b45ac3496643eabba99b90a4892ddd2a08017d9ffeb15afea43149e5e",
     "title": "Physical Connection Permits & Private Wells",
     "type": "page"
   },
   "https://www.livingstonnj.org/191/Open-Public-Records-Act-OPRA": {
     "file": "pages/191-open-public-records-act-opra.md",
-    "last_crawled": "2026-07-16T03:17:39+00:00",
+    "last_crawled": "2026-07-16T03:30:22+00:00",
     "sha256": "8f380a95283edd4a3790cab6147c9d8e2ead3b9e4b4cf86641b56c47ff1d31ec",
     "title": "Open Public Records Act (OPRA)",
     "type": "page"
   },
   "https://www.livingstonnj.org/1914/Transportation-Services": {
     "file": "pages/1914-transportation-services.md",
-    "last_crawled": "2026-07-16T03:21:53+00:00",
+    "last_crawled": "2026-07-16T03:33:35+00:00",
     "sha256": "f8b64499c29d3bb5569c28dc70c9139ffddf579e587e6f03ee51d3cfec8a8409",
     "title": "Transportation Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/1915/Express-Shuttle": {
     "file": "pages/1915-express-shuttle.md",
-    "last_crawled": "2026-07-16T03:23:43+00:00",
+    "last_crawled": "2026-07-16T03:35:24+00:00",
     "sha256": "e43461b0cf61c3cbc158dcbf9e989cccc63258a7254d500172251472a604fe55",
     "title": "Livingston Express Shuttle",
     "type": "page"
@@ -1212,14 +1282,14 @@
   },
   "https://www.livingstonnj.org/192/Property-Tax-Relief": {
     "file": "pages/192-property-tax-relief.md",
-    "last_crawled": "2026-07-16T03:19:41+00:00",
+    "last_crawled": "2026-07-16T03:31:38+00:00",
     "sha256": "a2d5e9d7ba7ed84dd236ae5760187a1b6ce474937ff9fad847f048d58bec26d0",
     "title": "Property Tax Relief",
     "type": "page"
   },
   "https://www.livingstonnj.org/193/Elections": {
     "file": "pages/193-elections.md",
-    "last_crawled": "2026-07-16T03:18:12+00:00",
+    "last_crawled": "2026-07-16T03:30:47+00:00",
     "sha256": "af6518f84efbbae13ad27973996a39b66aa8678b4d4a79fe468bcf55f7a30e1a",
     "title": "Elections",
     "type": "page"
@@ -1233,280 +1303,301 @@
   },
   "https://www.livingstonnj.org/1931/2024-Press-Releases": {
     "file": "pages/1931-2024-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:44+00:00",
+    "last_crawled": "2026-07-16T03:36:24+00:00",
     "sha256": "bec8c2740cc295655ab81bb5afb0038ec047e1b346f20b51ad957844ae4516f8",
     "title": "2024 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/1934/Ice-Skating-at-Littells-Pond": {
     "file": "pages/1934-ice-skating-at-littells-pond.md",
-    "last_crawled": "2026-07-16T03:23:39+00:00",
+    "last_crawled": "2026-07-16T03:35:21+00:00",
     "sha256": "cf60e2cae0e7755327d917b5039f20066cd0a5d8ca985685af0d2e97f0f8b277",
     "title": "Ice Skating at Littell's Pond",
     "type": "page"
   },
   "https://www.livingstonnj.org/1937/2025-Bid-Results": {
     "file": "pages/1937-2025-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:39+00:00",
+    "last_crawled": "2026-07-16T03:36:18+00:00",
     "sha256": "925fe6238398038f52913062ea39132b5134469a829cade5e7b2c9059f7850fb",
     "title": "2025 Bid Results",
     "type": "page"
   },
+  "https://www.livingstonnj.org/1938/Pick-It-Up-Community-Clean-Up-Event": {
+    "file": "pages/1938-pick-it-up-community-clean-up-event.md",
+    "last_crawled": "2026-07-16T03:37:28+00:00",
+    "sha256": "6741bc09d128b030230958036de56953b48ee3305c25960ece504b9d13479a8b",
+    "title": "\"Pick It Up!\" Community Clean-Up Event",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/1939/2025-Livingston-Mall-Community-Visioning": {
     "file": "pages/1939-2025-livingston-mall-community-visioning.md",
-    "last_crawled": "2026-07-16T03:20:44+00:00",
+    "last_crawled": "2026-07-16T03:32:25+00:00",
     "sha256": "f9dcd94b3aa0069365c77a4531438db20a7aefb507b4dafcbcd9a3a21e72db07",
     "title": "2025 Livingston Mall Community Visioning Project",
     "type": "page"
   },
   "https://www.livingstonnj.org/194/Disabled-Veteran-Exemption": {
     "file": "pages/194-disabled-veteran-exemption.md",
-    "last_crawled": "2026-07-16T03:24:57+00:00",
+    "last_crawled": "2026-07-16T03:36:34+00:00",
     "sha256": "67f0b21b9d3ce5f09c2879b27ee7c08066d4e7a4d02d3bfb063e6472e59c29a1",
     "title": "Disabled Veteran Exemption",
     "type": "page"
   },
   "https://www.livingstonnj.org/1943/JCPL-and-PSEG-Whole-Home-programs": {
     "file": "pages/1943-jcpl-and-pseg-whole-home-programs.md",
-    "last_crawled": "2026-07-16T03:24:37+00:00",
+    "last_crawled": "2026-07-16T03:36:16+00:00",
     "sha256": "568c2954a177c6f10e3a164a561cd4937cd8006fa46663200becdcae66af9d51",
     "title": "JCP&L and PSE&G Whole Home programs",
     "type": "page"
   },
   "https://www.livingstonnj.org/195/New-Jersey-State-Rebates": {
     "file": "pages/195-new-jersey-state-rebates.md",
-    "last_crawled": "2026-07-16T03:24:58+00:00",
+    "last_crawled": "2026-07-16T03:36:35+00:00",
     "sha256": "dad48073c9b2b6a2421284e206dc477866dda711462cf628687a85327aab9c93",
     "title": "New Jersey State Rebates",
     "type": "page"
   },
   "https://www.livingstonnj.org/1951/Frequently-Asked-Questions": {
     "file": "pages/1951-frequently-asked-questions.md",
-    "last_crawled": "2026-07-16T03:20:45+00:00",
+    "last_crawled": "2026-07-16T03:32:26+00:00",
     "sha256": "bb0cc01ff3e0152f691f92637ed67d5b309125e1f2daf4c2b5aadd92e5d9ec0b",
     "title": "Frequently Asked Questions",
     "type": "page"
   },
   "https://www.livingstonnj.org/1952/Community-Engagement": {
     "file": "pages/1952-community-engagement.md",
-    "last_crawled": "2026-07-16T03:18:35+00:00",
+    "last_crawled": "2026-07-16T03:31:09+00:00",
     "sha256": "c45499fd6da818b28f92d5b992ec140e2d7de6aca03570db222b0fdf9baa9d9e",
     "title": "Community Engagement",
     "type": "page"
   },
   "https://www.livingstonnj.org/196/Senior-Citizen-Disability-Surviving-Spou": {
     "file": "pages/196-senior-citizen-disability-surviving-spou.md",
-    "last_crawled": "2026-07-16T03:24:58+00:00",
+    "last_crawled": "2026-07-16T03:36:36+00:00",
     "sha256": "aad8496cf589045aeb89e3012c645167b2c8e3c3959dea7ef95c7919081ea412",
     "title": "Senior Citizen, Disability & Surviving Spouse",
     "type": "page"
   },
   "https://www.livingstonnj.org/1967/Elected-Officials": {
     "file": "pages/1967-elected-officials.md",
-    "last_crawled": "2026-07-16T03:18:17+00:00",
+    "last_crawled": "2026-07-16T03:30:52+00:00",
     "sha256": "ceaed48fe0a4fa6b99108a22bada3053ec9372223b7f3c5660966014e359041a",
     "title": "Elected Officials",
     "type": "page"
   },
   "https://www.livingstonnj.org/1968/Volunteer-with-the-Livingston-Fire-Depar": {
     "file": "pages/1968-volunteer-with-the-livingston-fire-depar.md",
-    "last_crawled": "2026-07-16T03:20:16+00:00",
+    "last_crawled": "2026-07-16T03:31:57+00:00",
     "sha256": "ba0cfefa67d690c1abd8e8dd0d81bc55c8e5a60ed1ef09d4dd24759d33f8f585",
     "title": "Volunteer with the Livingston Fire Department",
     "type": "page"
   },
+  "https://www.livingstonnj.org/1975/Action-Plans": {
+    "file": "pages/1975-action-plans.md",
+    "last_crawled": "2026-07-16T03:37:42+00:00",
+    "sha256": "6ee5a2090b8e20e97b03e1fca56db9306af7688a86514b18b88821ce239362ec",
+    "title": "Action Plans",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/198/Planning-Board": {
     "file": "pages/198-planning-board.md",
-    "last_crawled": "2026-07-16T03:20:51+00:00",
+    "last_crawled": "2026-07-16T03:32:33+00:00",
     "sha256": "b8f546c8bbc770aa8c1476725202c2d3695e5930c46e283901211549bba152fc",
     "title": "Planning Board",
     "type": "page"
   },
   "https://www.livingstonnj.org/1985/Current-Initiatives-Recent-Activities": {
     "file": "pages/1985-current-initiatives-recent-activities.md",
-    "last_crawled": "2026-07-16T03:25:48+00:00",
+    "last_crawled": "2026-07-16T03:37:23+00:00",
     "sha256": "6b6406f012088c914b396ad33c65797b45cf48efe475810f5db727413fae3cc2",
     "title": "Current Initiatives & Recent Activities",
     "type": "page"
   },
   "https://www.livingstonnj.org/199/Divisions": {
     "file": "pages/199-divisions.md",
-    "last_crawled": "2026-07-16T03:21:02+00:00",
+    "last_crawled": "2026-07-16T03:32:44+00:00",
     "sha256": "a860cf099ca423b391ac5896d9f46b37a986f02d03e0d58654ac12dbaef0a85a",
     "title": "Divisions",
     "type": "page"
   },
   "https://www.livingstonnj.org/1996/New-Jerseys-Lead-Based-Paint-Law": {
     "file": "pages/1996-new-jerseys-lead-based-paint-law.md",
-    "last_crawled": "2026-07-16T03:20:32+00:00",
+    "last_crawled": "2026-07-16T03:32:09+00:00",
     "sha256": "befe62043ccf1d13d140e7079b325fd9a4f7ef2359cf1118099e1591749094e4",
     "title": "New Jersey\u2019s Lead-Based Paint Law",
     "type": "page"
   },
   "https://www.livingstonnj.org/1999/Hometown-Heroes-Program": {
     "file": "pages/1999-hometown-heroes-program.md",
-    "last_crawled": "2026-07-16T03:22:13+00:00",
+    "last_crawled": "2026-07-16T03:33:55+00:00",
     "sha256": "937e4e1be910b6e0ba0be2b47051924368b35e12a778b969f3db6dca712338a5",
     "title": "Hometown Heroes Program",
     "type": "page"
   },
+  "https://www.livingstonnj.org/200/Technical-Review-Advisory-Committee-TRAC": {
+    "file": "pages/200-technical-review-advisory-committee-trac.md",
+    "last_crawled": "2026-07-16T03:37:35+00:00",
+    "sha256": "001fc89dd6539b92f190a09aa0cf95ba5e8fc2996037a2d63817321d7ea6fb4e",
+    "title": "Technical Review Advisory Committee (TRAC)",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/2005/2025-Press-Releases": {
     "file": "pages/2005-2025-press-releases.md",
-    "last_crawled": "2026-07-16T03:24:44+00:00",
+    "last_crawled": "2026-07-16T03:36:23+00:00",
     "sha256": "7758093edae2a0c2bcc3db412a310503551e337b9af81c8ad1a9be2d587f5e62",
     "title": "2025 Press Releases",
     "type": "page"
   },
   "https://www.livingstonnj.org/2006/2026-Bid-Results": {
     "file": "pages/2006-2026-bid-results.md",
-    "last_crawled": "2026-07-16T03:24:38+00:00",
+    "last_crawled": "2026-07-16T03:36:17+00:00",
     "sha256": "35c34929c231552af42a265e0117f625252d3d235042e745f37c239b270a3cd9",
     "title": "2026 Bid Results",
     "type": "page"
   },
   "https://www.livingstonnj.org/202/About-Us": {
     "file": "pages/202-about-us.md",
-    "last_crawled": "2026-07-16T03:21:04+00:00",
+    "last_crawled": "2026-07-16T03:32:45+00:00",
     "sha256": "397fa65e1359b4a39743906b01fdb7e60128927f77a3c9ca6532d956fb0d3526",
     "title": "About Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/2020/New-Jersey-Clean-Communities": {
     "file": "pages/2020-new-jersey-clean-communities.md",
-    "last_crawled": "2026-07-16T03:22:14+00:00",
+    "last_crawled": "2026-07-16T03:33:56+00:00",
     "sha256": "0f535c7374276d2a5dde16b59367327e1e0979f7d4093baaff16a9a0c1b47810",
     "title": "New Jersey Clean Communities",
     "type": "page"
   },
   "https://www.livingstonnj.org/2021/Smart-911": {
     "file": "pages/2021-smart-911.md",
-    "last_crawled": "2026-07-16T03:22:42+00:00",
+    "last_crawled": "2026-07-16T03:34:23+00:00",
     "sha256": "77540ca865b2fd4bf8528946e666af607f73247f8bd833e7dbc538693820a249",
     "title": "Smart 911",
     "type": "page"
   },
   "https://www.livingstonnj.org/2026/Composting-at-Town-Hall": {
     "file": "pages/2026-composting-at-town-hall.md",
-    "last_crawled": "2026-07-16T03:22:51+00:00",
+    "last_crawled": "2026-07-16T03:34:32+00:00",
     "sha256": "d32c30103a56f1111470a19f1daee8eb502c521aab0376e0fd8339208fb586d2",
     "title": "Composting at Town Hall",
     "type": "page"
   },
   "https://www.livingstonnj.org/210/Programs": {
     "file": "pages/210-programs.md",
-    "last_crawled": "2026-07-16T03:21:11+00:00",
+    "last_crawled": "2026-07-16T03:32:52+00:00",
     "sha256": "5e2a078194a838dd1cc47385c151355e981f5b145f0f81329e77ee2bbe4191f6",
     "title": "Programs",
     "type": "page"
   },
   "https://www.livingstonnj.org/211/Forms": {
     "file": "pages/211-forms.md",
-    "last_crawled": "2026-07-16T03:21:15+00:00",
+    "last_crawled": "2026-07-16T03:32:57+00:00",
     "sha256": "b46788486380fc6ec5ba5d87c7919e059c9265ffb43eafa8da8a0beb1d9a144b",
     "title": "Forms",
     "type": "page"
   },
   "https://www.livingstonnj.org/212/Emergency-Management": {
     "file": "pages/212-emergency-management.md",
-    "last_crawled": "2026-07-16T03:21:24+00:00",
+    "last_crawled": "2026-07-16T03:33:07+00:00",
     "sha256": "7ffcc1b9d6ba1158e72207658b11e30f315667a6e374296b9688ae48a73d609f",
     "title": "Emergency Management",
     "type": "page"
   },
   "https://www.livingstonnj.org/213/How-Do-I": {
     "file": "pages/213-how-do-i.md",
-    "last_crawled": "2026-07-16T03:21:32+00:00",
+    "last_crawled": "2026-07-16T03:33:14+00:00",
     "sha256": "e7d85e040d307ef54f0d3423fbcb3f71f43f41089d274f1357cd57be61e3c131",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/214/Fire": {
     "file": "pages/214-fire.md",
-    "last_crawled": "2026-07-16T03:19:48+00:00",
+    "last_crawled": "2026-07-16T03:31:40+00:00",
     "sha256": "b6e5948310283c754a1605c8b1ca455bdbff43b6099638f72144243a68337317",
     "title": "Livingston Fire Department",
     "type": "page"
   },
   "https://www.livingstonnj.org/218/Fire-Prevention": {
     "file": "pages/218-fire-prevention.md",
-    "last_crawled": "2026-07-16T03:19:51+00:00",
+    "last_crawled": "2026-07-16T03:31:42+00:00",
     "sha256": "77dcdd13b78ff2f520e6df5d62474ea29356a30f2a740ade95b556055d43c2b5",
     "title": "Fire Prevention",
     "type": "page"
   },
   "https://www.livingstonnj.org/219/Fire-Prevention-Tips": {
     "file": "pages/219-fire-prevention-tips.md",
-    "last_crawled": "2026-07-16T03:19:54+00:00",
+    "last_crawled": "2026-07-16T03:31:44+00:00",
     "sha256": "495d3160d9fb7cd50a8b9447ed4762b2bdc0db15fe55e73ad043ba27e1766dac",
     "title": "Fire Prevention Tips",
     "type": "page"
   },
   "https://www.livingstonnj.org/220/Holiday-Safety-Tips": {
     "file": "pages/220-holiday-safety-tips.md",
-    "last_crawled": "2026-07-16T03:20:00+00:00",
+    "last_crawled": "2026-07-16T03:31:47+00:00",
     "sha256": "2990dc4c05a7c195ba4350899d564becba164156fdefeaabadb78067ac266562",
     "title": "Holiday Safety Tips",
     "type": "page"
   },
   "https://www.livingstonnj.org/221/Home-Fire-Inspections": {
     "file": "pages/221-home-fire-inspections.md",
-    "last_crawled": "2026-07-16T03:20:02+00:00",
+    "last_crawled": "2026-07-16T03:31:47+00:00",
     "sha256": "9f47f5d839a2366f4023c88b7056e5bc0fb2ab415a09242a12e8335a87741042",
     "title": "Home Fire Inspections",
     "type": "page"
   },
   "https://www.livingstonnj.org/223/Safety-Plans": {
     "file": "pages/223-safety-plans.md",
-    "last_crawled": "2026-07-16T03:20:06+00:00",
+    "last_crawled": "2026-07-16T03:31:49+00:00",
     "sha256": "6885308ee6e6cffeef232d45ca34fc000a4d9f7dae5eb8763815ef9361504e1c",
     "title": "Safety Plans",
     "type": "page"
   },
   "https://www.livingstonnj.org/224/Smoke-Detector-Requirements-for-Resale": {
     "file": "pages/224-smoke-detector-requirements-for-resale.md",
-    "last_crawled": "2026-07-16T03:20:07+00:00",
+    "last_crawled": "2026-07-16T03:31:50+00:00",
     "sha256": "f76ad076f8231e8823223f76f870a56f59d3e23e55c8750dce1575dea09bfc0d",
     "title": "Smoke Detector Requirements for Resale",
     "type": "page"
   },
   "https://www.livingstonnj.org/225/History": {
     "file": "pages/225-history.md",
-    "last_crawled": "2026-07-16T03:20:10+00:00",
+    "last_crawled": "2026-07-16T03:31:52+00:00",
     "sha256": "afe8ca45cc67d5e48379ca347bf8f5b7d026e050613b1de56f73e2eee5fcf964",
     "title": "History",
     "type": "page"
   },
   "https://www.livingstonnj.org/226/Police-Records-Division": {
     "file": "pages/226-police-records-division.md",
-    "last_crawled": "2026-07-16T03:21:09+00:00",
+    "last_crawled": "2026-07-16T03:32:50+00:00",
     "sha256": "37c83486992699fd56e8c99fdfe2c05928ef95363b09797650bff5fa7ace3913",
     "title": "Police Records Division",
     "type": "page"
   },
   "https://www.livingstonnj.org/229/Kids-Links": {
     "file": "pages/229-kids-links.md",
-    "last_crawled": "2026-07-16T03:20:11+00:00",
+    "last_crawled": "2026-07-16T03:31:53+00:00",
     "sha256": "3c901105d3b3b244634e3baa6465fa6c47479233f8f9012f5d30bcd7333e13e4",
     "title": "Kids Links",
     "type": "page"
   },
   "https://www.livingstonnj.org/231/Make-a-Donation": {
     "file": "pages/231-make-a-donation.md",
-    "last_crawled": "2026-07-16T03:20:12+00:00",
+    "last_crawled": "2026-07-16T03:31:54+00:00",
     "sha256": "113d4e84158d4202b204e319f096680e615d17bce2ad2dda4754f2c2b192146e",
     "title": "Make a Donation",
     "type": "page"
   },
   "https://www.livingstonnj.org/232/Past-Chiefs": {
     "file": "pages/232-past-chiefs.md",
-    "last_crawled": "2026-07-16T03:20:13+00:00",
+    "last_crawled": "2026-07-16T03:31:55+00:00",
     "sha256": "e8f052a9e2621c8ed98d55dc60684926f7d19ccc12597f948af252d8ab240cf7",
     "title": "Past Chiefs",
     "type": "page"
   },
   "https://www.livingstonnj.org/233/Stations": {
     "file": "pages/233-stations.md",
-    "last_crawled": "2026-07-16T03:20:14+00:00",
+    "last_crawled": "2026-07-16T03:31:55+00:00",
     "sha256": "eb6e45cc3de37ee93734ac540fe090ca7c7a5854727d5490b685d9f8549690d4",
     "title": "Stations",
     "type": "page"
@@ -1520,7 +1611,7 @@
   },
   "https://www.livingstonnj.org/238/Animal-Licenses-Dog-Park-Passes": {
     "file": "pages/238-animal-licenses-dog-park-passes.md",
-    "last_crawled": "2026-07-16T03:20:29+00:00",
+    "last_crawled": "2026-07-16T03:32:06+00:00",
     "sha256": "dda673d1c2df3656e96c8462a19ea959816a1265251eda113260098f6adcc4b6",
     "title": "Animal Licenses & Dog Park Passes",
     "type": "page"
@@ -1534,147 +1625,147 @@
   },
   "https://www.livingstonnj.org/240/Birth-Certificates": {
     "file": "pages/240-birth-certificates.md",
-    "last_crawled": "2026-07-16T03:20:24+00:00",
+    "last_crawled": "2026-07-16T03:30:16+00:00",
     "sha256": "7e93fd92ebfd60dc9e4c2e5319e775a5df3fba0b6d69740c67a95ae6b66d0224",
     "title": "Birth Certificates",
     "type": "page"
   },
   "https://www.livingstonnj.org/242/Blue-Star": {
     "file": "pages/242-blue-star.md",
-    "last_crawled": "2026-07-16T03:21:19+00:00",
+    "last_crawled": "2026-07-16T03:33:01+00:00",
     "sha256": "d0c5dbab3d67ed8c35f17e82e48186eb1d4dccaf699d41df424d2ae13fe0524f",
     "title": "Blue Star",
     "type": "page"
   },
   "https://www.livingstonnj.org/243/Environmental-Health": {
     "file": "pages/243-environmental-health.md",
-    "last_crawled": "2026-07-16T03:20:30+00:00",
+    "last_crawled": "2026-07-16T03:32:07+00:00",
     "sha256": "b1244db54c81e9e6cd7819f3a985fa485fb903e9045f4d3a42165181dec049b3",
     "title": "Environmental Health",
     "type": "page"
   },
   "https://www.livingstonnj.org/244/Alarm-Information": {
     "file": "pages/244-alarm-information.md",
-    "last_crawled": "2026-07-16T03:21:16+00:00",
+    "last_crawled": "2026-07-16T03:32:58+00:00",
     "sha256": "89ec31684535ffd7c50d4e21079febda60f5650a4971bf1d80caa16b46a0af05",
     "title": "Alarm Information",
     "type": "page"
   },
   "https://www.livingstonnj.org/246/Homebound-Residents": {
     "file": "pages/246-homebound-residents.md",
-    "last_crawled": "2026-07-16T03:20:31+00:00",
+    "last_crawled": "2026-07-16T03:32:08+00:00",
     "sha256": "81894f9aa295a913bf8b06dd917a8fd41fe482c2736e77bd0e1ae6d713856675",
     "title": "Homebound Residents",
     "type": "page"
   },
   "https://www.livingstonnj.org/247/Developmental-Disability-Registry": {
     "file": "pages/247-developmental-disability-registry.md",
-    "last_crawled": "2026-07-16T03:21:21+00:00",
+    "last_crawled": "2026-07-16T03:33:03+00:00",
     "sha256": "0a938a72666651138db4d9e6e57449d1bd155d85b085e20d897d4823c0564514",
     "title": "Developmental Disability Registry",
     "type": "page"
   },
   "https://www.livingstonnj.org/248/Public-Health-Education": {
     "file": "pages/248-public-health-education.md",
-    "last_crawled": "2026-07-16T03:20:33+00:00",
+    "last_crawled": "2026-07-16T03:32:10+00:00",
     "sha256": "73edcc77a3fd45da36c2149385b983f87560f697157a16bc34bba2438659788a",
     "title": "Public Health / Education",
     "type": "page"
   },
   "https://www.livingstonnj.org/261/Vital-Statistics": {
     "file": "pages/261-vital-statistics.md",
-    "last_crawled": "2026-07-16T03:20:20+00:00",
+    "last_crawled": "2026-07-16T03:32:00+00:00",
     "sha256": "84b076165fa6633dab034b29f601542760b20a276715ae3eb3d00973518f2142",
     "title": "Vital Statistics",
     "type": "page"
   },
   "https://www.livingstonnj.org/263/Welfare-Human-Services": {
     "file": "pages/263-welfare-human-services.md",
-    "last_crawled": "2026-07-16T03:20:35+00:00",
+    "last_crawled": "2026-07-16T03:32:12+00:00",
     "sha256": "43b865b07eec8b6a1d24870ca4c61f9fccaa81fcdda05ea6512d561e087908a4",
     "title": "Welfare & Human Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/265/Firearms-Application": {
     "file": "pages/265-firearms-application.md",
-    "last_crawled": "2026-07-16T03:21:22+00:00",
+    "last_crawled": "2026-07-16T03:33:04+00:00",
     "sha256": "ddb969e666a28ef7b1025be93f49f6d9d3d8e19feaf2175435a77ae0cce5a952",
     "title": "Firearms Application",
     "type": "page"
   },
   "https://www.livingstonnj.org/266/Zoning-Board": {
     "file": "pages/266-zoning-board.md",
-    "last_crawled": "2026-07-16T03:20:52+00:00",
+    "last_crawled": "2026-07-16T03:32:34+00:00",
     "sha256": "c0fbfb2bbac6aeb4378bc84bac086d91169e63879c274a93ccbb2ad79dcbb088",
     "title": "Zoning Board",
     "type": "page"
   },
   "https://www.livingstonnj.org/268/AngelSense": {
     "file": "pages/268-angelsense.md",
-    "last_crawled": "2026-07-16T03:21:17+00:00",
+    "last_crawled": "2026-07-16T03:32:59+00:00",
     "sha256": "acae515a7c37d66d35bc6b742e53b2331f7135a6d98cba749b00a8f1afd81e7c",
     "title": "AngelSense",
     "type": "page"
   },
   "https://www.livingstonnj.org/27/Government": {
     "file": "pages/27-government.md",
-    "last_crawled": "2026-07-16T03:17:24+00:00",
+    "last_crawled": "2026-07-16T03:30:07+00:00",
     "sha256": "704154651d81d4c0495b9dd789a70cd8afce36c625e08d5233d7c44d3b810a05",
     "title": "Government",
     "type": "page"
   },
   "https://www.livingstonnj.org/271/Bicycle-Registration": {
     "file": "pages/271-bicycle-registration.md",
-    "last_crawled": "2026-07-16T03:21:18+00:00",
+    "last_crawled": "2026-07-16T03:33:00+00:00",
     "sha256": "735bc033324fe4ab3521897d6d67f17a5da614d11b19035bd5b3b99e5af84d54",
     "title": "Bicycle Registration",
     "type": "page"
   },
   "https://www.livingstonnj.org/272/Human-Resources": {
     "file": "pages/272-human-resources.md",
-    "last_crawled": "2026-07-16T03:20:39+00:00",
+    "last_crawled": "2026-07-16T03:32:17+00:00",
     "sha256": "0641670a8a69737b980bd1da17cafc4c43a74b25a20e7cb722128f778b7476b7",
     "title": "Human Resources",
     "type": "page"
   },
   "https://www.livingstonnj.org/273/Vacant-House-Information": {
     "file": "pages/273-vacant-house-information.md",
-    "last_crawled": "2026-07-16T03:21:23+00:00",
+    "last_crawled": "2026-07-16T03:33:06+00:00",
     "sha256": "2d2bbbf2d81a1cad6c9c6738ba862b7eb92782136739be261c3db1ca44379e4a",
     "title": "Vacant House Information",
     "type": "page"
   },
   "https://www.livingstonnj.org/276/Township-Manager": {
     "file": "pages/276-township-manager.md",
-    "last_crawled": "2026-07-16T03:22:10+00:00",
+    "last_crawled": "2026-07-16T03:33:53+00:00",
     "sha256": "b4de6a235dc8610e1626fc2a7360c72e4560d2e482b8ac53a209995f89b930b6",
     "title": "Township Manager",
     "type": "page"
   },
   "https://www.livingstonnj.org/277/Communication": {
     "file": "pages/277-communication.md",
-    "last_crawled": "2026-07-16T03:21:04+00:00",
+    "last_crawled": "2026-07-16T03:32:46+00:00",
     "sha256": "09a77c9811033211e0c4b2f0af8c5813c618e788f0e4d6a391f20aca966dde8d",
     "title": "Communication",
     "type": "page"
   },
   "https://www.livingstonnj.org/279/Communications": {
     "file": "pages/279-communications.md",
-    "last_crawled": "2026-07-16T03:18:33+00:00",
+    "last_crawled": "2026-07-16T03:31:08+00:00",
     "sha256": "503dfffe6dd68793d7965eeb7fd9a8baaebdbcf004e67ad23f456ba86afc64eb",
     "title": "Communications",
     "type": "page"
   },
   "https://www.livingstonnj.org/280/Council-Manager-Government": {
     "file": "pages/280-council-manager-government.md",
-    "last_crawled": "2026-07-16T03:22:11+00:00",
+    "last_crawled": "2026-07-16T03:33:54+00:00",
     "sha256": "be6761e49c7df87a036c662e692b956ec04e7ed1a230efc9b028622fc3367ccc",
     "title": "Council-Manager Government",
     "type": "page"
   },
   "https://www.livingstonnj.org/282/Community-Policing-Unit": {
     "file": "pages/282-community-policing-unit.md",
-    "last_crawled": "2026-07-16T03:21:05+00:00",
+    "last_crawled": "2026-07-16T03:32:47+00:00",
     "sha256": "707f36d71609036e93d609867ad10e18968611d905729edf0c52d62a46957b24",
     "title": "Community Policing Unit",
     "type": "page"
@@ -1688,287 +1779,287 @@
   },
   "https://www.livingstonnj.org/288/Garbage": {
     "file": "pages/288-garbage.md",
-    "last_crawled": "2026-07-16T03:21:37+00:00",
+    "last_crawled": "2026-07-16T03:33:19+00:00",
     "sha256": "eba8fc85b5152b9504d971c1a8b3963835a828fdb4a98ecf172fa4f36e2a5f9a",
     "title": "Garbage",
     "type": "page"
   },
   "https://www.livingstonnj.org/289/Recycling": {
     "file": "pages/289-recycling.md",
-    "last_crawled": "2026-07-16T03:21:40+00:00",
+    "last_crawled": "2026-07-16T03:33:22+00:00",
     "sha256": "eb1a3a3f0755a99e41d33fda03bd44167cad9c53ec14af3de2e9392c97c39101",
     "title": "Recycling",
     "type": "page"
   },
   "https://www.livingstonnj.org/294/When-How-to-Recycle": {
     "file": "pages/294-when-how-to-recycle.md",
-    "last_crawled": "2026-07-16T03:22:59+00:00",
+    "last_crawled": "2026-07-16T03:34:40+00:00",
     "sha256": "6b9e55481b15b80352846a6ca2dd677eb5538a7c27c3af03888d5afb02b1b926",
     "title": "When & How to Recycle",
     "type": "page"
   },
   "https://www.livingstonnj.org/295/Special-Items": {
     "file": "pages/295-special-items.md",
-    "last_crawled": "2026-07-16T03:23:00+00:00",
+    "last_crawled": "2026-07-16T03:34:41+00:00",
     "sha256": "08261b9a2b4791d21bccd886da85b9fe45c0e545f40e3363b297ebae791705c4",
     "title": "Special Items",
     "type": "page"
   },
   "https://www.livingstonnj.org/299/Bulk-Item-Pickup": {
     "file": "pages/299-bulk-item-pickup.md",
-    "last_crawled": "2026-07-16T03:22:43+00:00",
+    "last_crawled": "2026-07-16T03:34:24+00:00",
     "sha256": "57397b4236f14f90e597cdf854ba3f6578207e2e6ad763d0f4f6174a498fc76f",
     "title": "Bulk Item Pickup",
     "type": "page"
   },
   "https://www.livingstonnj.org/301/Detective-Bureau": {
     "file": "pages/301-detective-bureau.md",
-    "last_crawled": "2026-07-16T03:21:06+00:00",
+    "last_crawled": "2026-07-16T03:32:48+00:00",
     "sha256": "298c313b86fd1789f0926c4c3aaf280fd3b3a9b6fe79025e20cc5c4758e6b516",
     "title": "Detective Bureau",
     "type": "page"
   },
   "https://www.livingstonnj.org/303/Electronics-Recycling-Events": {
     "file": "pages/303-electronics-recycling-events.md",
-    "last_crawled": "2026-07-16T03:23:12+00:00",
+    "last_crawled": "2026-07-16T03:34:52+00:00",
     "sha256": "3720b9a9ee708e7e0570fa2dd912f59f99f7c0eec31b45364ee6e5ad38e84627",
     "title": "Electronics Recycling Events",
     "type": "page"
   },
   "https://www.livingstonnj.org/304/Internal-Affairs": {
     "file": "pages/304-internal-affairs.md",
-    "last_crawled": "2026-07-16T03:21:07+00:00",
+    "last_crawled": "2026-07-16T03:32:49+00:00",
     "sha256": "93f040fc3914bd2db2e0af9caed51fed3b39530cdbce7211f54c03c9d54d24ab",
     "title": "Internal Affairs",
     "type": "page"
   },
   "https://www.livingstonnj.org/308/Metal-Collection": {
     "file": "pages/308-metal-collection.md",
-    "last_crawled": "2026-07-16T03:17:39+00:00",
+    "last_crawled": "2026-07-16T03:30:21+00:00",
     "sha256": "0bc4062940821846b1024c875e39cda1e47eec845bf8b36210b04da13eaf6285",
     "title": "Metal Collection",
     "type": "page"
   },
   "https://www.livingstonnj.org/309/Patrol-Division": {
     "file": "pages/309-patrol-division.md",
-    "last_crawled": "2026-07-16T03:21:08+00:00",
+    "last_crawled": "2026-07-16T03:32:49+00:00",
     "sha256": "7aab2573b06f2f5c44eb0c37ae09d0fd8216bb1e804483a26a491471d4d7c3c4",
     "title": "Patrol Division",
     "type": "page"
   },
   "https://www.livingstonnj.org/31/Residents": {
     "file": "pages/31-residents.md",
-    "last_crawled": "2026-07-16T03:17:26+00:00",
+    "last_crawled": "2026-07-16T03:30:09+00:00",
     "sha256": "6782a28fb93b35bc08453825636bbb3a065bde5215f43f0512c0763d610533c8",
     "title": "Residents",
     "type": "page"
   },
   "https://www.livingstonnj.org/310/How-to-Empty-Recycle-Helium-Tanks": {
     "file": "pages/310-how-to-empty-recycle-helium-tanks.md",
-    "last_crawled": "2026-07-16T03:23:18+00:00",
+    "last_crawled": "2026-07-16T03:34:59+00:00",
     "sha256": "3108bbcf6abbc7fbb956c3253c40f40c56a95c5c29515c083218962cccaec2a4",
     "title": "How to Empty & Recycle Helium Tanks",
     "type": "page"
   },
   "https://www.livingstonnj.org/311/Traffic-Bureau": {
     "file": "pages/311-traffic-bureau.md",
-    "last_crawled": "2026-07-16T03:21:09+00:00",
+    "last_crawled": "2026-07-16T03:32:51+00:00",
     "sha256": "836382a8fb44c9a2e801190442a589cbadde24a89d128e131763a1b994c50ce0",
     "title": "Traffic Bureau",
     "type": "page"
   },
   "https://www.livingstonnj.org/313/Batteries": {
     "file": "pages/313-batteries.md",
-    "last_crawled": "2026-07-16T03:23:04+00:00",
+    "last_crawled": "2026-07-16T03:34:44+00:00",
     "sha256": "62f0ffa70c5b32be71c2af76e80c07c1a18bd4dc39be90e001c57cb9089bac44",
     "title": "Batteries",
     "type": "page"
   },
   "https://www.livingstonnj.org/315/Not-Rechargeable": {
     "file": "pages/315-not-rechargeable.md",
-    "last_crawled": "2026-07-16T03:23:04+00:00",
+    "last_crawled": "2026-07-16T03:34:45+00:00",
     "sha256": "3613f0a6ef55dc9f7e4a94b0893216a928d02420e8c83579058bfd097c846b71",
     "title": "Not Rechargeable",
     "type": "page"
   },
   "https://www.livingstonnj.org/318/Rechargeable": {
     "file": "pages/318-rechargeable.md",
-    "last_crawled": "2026-07-16T03:23:05+00:00",
+    "last_crawled": "2026-07-16T03:34:46+00:00",
     "sha256": "babe733df1ef4f0c2a46810b298a2acb9b902c1d06ea567f56e006be1c5121c3",
     "title": "Rechargeable",
     "type": "page"
   },
   "https://www.livingstonnj.org/321/Paint": {
     "file": "pages/321-paint.md",
-    "last_crawled": "2026-07-16T03:23:20+00:00",
+    "last_crawled": "2026-07-16T03:35:01+00:00",
     "sha256": "5266f3b41f98fb03290ab852e47569f8b34fba2c3b94a28751ad7c02aa6dba46",
     "title": "Paints & Solvents",
     "type": "page"
   },
   "https://www.livingstonnj.org/322/Fluorescent-Light-Bulbs": {
     "file": "pages/322-fluorescent-light-bulbs.md",
-    "last_crawled": "2026-07-16T03:23:13+00:00",
+    "last_crawled": "2026-07-16T03:34:54+00:00",
     "sha256": "38ad9022f89d3bd3ae3845c3c4882b6d25dc7ba7357f1e56a8efaf2e85d9f483",
     "title": "Fluorescent Light Bulbs",
     "type": "page"
   },
   "https://www.livingstonnj.org/327/Volunteer-Opportunities": {
     "file": "pages/327-volunteer-opportunities.md",
-    "last_crawled": "2026-07-16T03:21:14+00:00",
+    "last_crawled": "2026-07-16T03:32:56+00:00",
     "sha256": "28ac2914177879e54fa02dbe0d7c6ddc95eab1c840225ee7e18ee4ff947a3690",
     "title": "Volunteer Opportunities",
     "type": "page"
   },
   "https://www.livingstonnj.org/328/Latex": {
     "file": "pages/328-latex.md",
-    "last_crawled": "2026-07-16T03:23:21+00:00",
+    "last_crawled": "2026-07-16T03:35:02+00:00",
     "sha256": "579b4c7e442a4c9124b95ab5b4bf37269c06c5253ee34a4a31c167325bca3bb7",
     "title": "Latex",
     "type": "page"
   },
   "https://www.livingstonnj.org/329/Oil-Based": {
     "file": "pages/329-oil-based.md",
-    "last_crawled": "2026-07-16T03:23:22+00:00",
+    "last_crawled": "2026-07-16T03:35:03+00:00",
     "sha256": "7b2d024281edaf0c9ec1f32f1a1e8fc0e0550f3dce04d8efe1808ea2da74dc08",
     "title": "Oil Based",
     "type": "page"
   },
   "https://www.livingstonnj.org/330/Sharps-Syringes": {
     "file": "pages/330-sharps-syringes.md",
-    "last_crawled": "2026-07-16T03:23:30+00:00",
+    "last_crawled": "2026-07-16T03:35:11+00:00",
     "sha256": "d9a2ae7c2431162d607a3213ab3dd562cecc4c57be3c5e49cb7e20385dda0202",
     "title": "Sharps & Syringes",
     "type": "page"
   },
   "https://www.livingstonnj.org/333/Speakers-Bureau": {
     "file": "pages/333-speakers-bureau.md",
-    "last_crawled": "2026-07-16T03:21:13+00:00",
+    "last_crawled": "2026-07-16T03:32:55+00:00",
     "sha256": "f0899cb4a581d8d4c5e2999796f1e65d23cb6edaa20b4ab6310f36275958b942",
     "title": "Speakers Bureau",
     "type": "page"
   },
   "https://www.livingstonnj.org/334/Automobile-Tires": {
     "file": "pages/334-automobile-tires.md",
-    "last_crawled": "2026-07-16T03:23:03+00:00",
+    "last_crawled": "2026-07-16T03:34:43+00:00",
     "sha256": "abbf80af8102fa6ebfdfdc47797d3eb9dfb4602db48a6aad83c3a0d41e2287b5",
     "title": "Automobile Tires",
     "type": "page"
   },
   "https://www.livingstonnj.org/336/Electronics": {
     "file": "pages/336-electronics.md",
-    "last_crawled": "2026-07-16T03:22:51+00:00",
+    "last_crawled": "2026-07-16T03:34:33+00:00",
     "sha256": "6955a1d1faeb811d74666963e22f376f06b8e71e8cb4ac0667760df621d2c240",
     "title": "Electronics",
     "type": "page"
   },
   "https://www.livingstonnj.org/337/General-Recycling": {
     "file": "pages/337-general-recycling.md",
-    "last_crawled": "2026-07-16T03:22:53+00:00",
+    "last_crawled": "2026-07-16T03:34:33+00:00",
     "sha256": "27c7a77bbdec480326b3a14446667b1b03dbd9ae1dfc5dcad63bcafab9d7859d",
     "title": "General Recycling",
     "type": "page"
   },
   "https://www.livingstonnj.org/338/Christmas-Trees": {
     "file": "pages/338-christmas-trees.md",
-    "last_crawled": "2026-07-16T03:23:07+00:00",
+    "last_crawled": "2026-07-16T03:34:48+00:00",
     "sha256": "f7d1e6a25b2b633e6fcacf54a800f8b262205db4a7dbff3188ae935cfe4d3874",
     "title": "Christmas Trees",
     "type": "page"
   },
   "https://www.livingstonnj.org/339/Dead-Animal": {
     "file": "pages/339-dead-animal.md",
-    "last_crawled": "2026-07-16T03:23:10+00:00",
+    "last_crawled": "2026-07-16T03:34:51+00:00",
     "sha256": "c7477b25ce3c9373f9eeb14366342bb5b85f73d09f482507e9b477436c911fd7",
     "title": "Dead Animals",
     "type": "page"
   },
   "https://www.livingstonnj.org/341/Fat-Oil-Grease": {
     "file": "pages/341-fat-oil-grease.md",
-    "last_crawled": "2026-07-16T03:23:16+00:00",
+    "last_crawled": "2026-07-16T03:34:56+00:00",
     "sha256": "aa190cba3244f1e4a815b62b4d9c8c7f4e955b7a66ad8b0979a3946e8671b796",
     "title": "Fat, Oil & Grease",
     "type": "page"
   },
   "https://www.livingstonnj.org/342/Fire-Extinguishers": {
     "file": "pages/342-fire-extinguishers.md",
-    "last_crawled": "2026-07-16T03:23:16+00:00",
+    "last_crawled": "2026-07-16T03:34:57+00:00",
     "sha256": "3dd0f78b8e954a11e99b3c4f6809fe32faa9d41dac4e194b100e6c5f290900a3",
     "title": "Fire Extinguishers",
     "type": "page"
   },
   "https://www.livingstonnj.org/343/Hazardous-Materials": {
     "file": "pages/343-hazardous-materials.md",
-    "last_crawled": "2026-07-16T03:23:17+00:00",
+    "last_crawled": "2026-07-16T03:34:58+00:00",
     "sha256": "3023b43f643cc8fe056b5e392bce6eece2542134247fc233c20f38e6935665c9",
     "title": "Hazardous Materials",
     "type": "page"
   },
   "https://www.livingstonnj.org/346/Personal-Paper-Records": {
     "file": "pages/346-personal-paper-records.md",
-    "last_crawled": "2026-07-16T03:23:24+00:00",
+    "last_crawled": "2026-07-16T03:35:05+00:00",
     "sha256": "8b323ac2596f311c753b28d237de94d0ec9a2aa29a9b50f356119381296e3c99",
     "title": "Personal Paper Records",
     "type": "page"
   },
   "https://www.livingstonnj.org/347/Prescription-Medicines": {
     "file": "pages/347-prescription-medicines.md",
-    "last_crawled": "2026-07-16T03:23:29+00:00",
+    "last_crawled": "2026-07-16T03:35:10+00:00",
     "sha256": "a98ab4b1701ad985855e7fd9a2d9bdacab3d0d7723828b132fa8deaa6e0e7e3d",
     "title": "Prescription Medicines",
     "type": "page"
   },
   "https://www.livingstonnj.org/348/Animal-Control": {
     "file": "pages/348-animal-control.md",
-    "last_crawled": "2026-07-16T03:20:28+00:00",
+    "last_crawled": "2026-07-16T03:32:06+00:00",
     "sha256": "9d33278572f194336145a07ac7d4d2f32cabce715a60522d907aec9df969a95f",
     "title": "Animal Control",
     "type": "page"
   },
   "https://www.livingstonnj.org/35/Business": {
     "file": "pages/35-business.md",
-    "last_crawled": "2026-07-16T03:17:27+00:00",
+    "last_crawled": "2026-07-16T03:30:10+00:00",
     "sha256": "8b6c56092cf84e11a730cc037b22d4314799c38dab06f7e4a47e16b3284ebcfd",
     "title": "Business",
     "type": "page"
   },
   "https://www.livingstonnj.org/350/Used-Motor-Oil": {
     "file": "pages/350-used-motor-oil.md",
-    "last_crawled": "2026-07-16T03:23:30+00:00",
+    "last_crawled": "2026-07-16T03:35:12+00:00",
     "sha256": "e09e22a93fdca2cb77bc5ae9a358f0dc403a1dfdbb3d8db40cf0aa2c5a1a85de",
     "title": "Used Motor Oil",
     "type": "page"
   },
   "https://www.livingstonnj.org/351/Yard-Waste": {
     "file": "pages/351-yard-waste.md",
-    "last_crawled": "2026-07-16T03:22:50+00:00",
+    "last_crawled": "2026-07-16T03:34:31+00:00",
     "sha256": "58c73327c62ee971e6c68e2cf5bb6788c627b018f03967cad63e9e1c3885a185",
     "title": "Yard Waste",
     "type": "page"
   },
   "https://www.livingstonnj.org/358/How-Do-I": {
     "file": "pages/358-how-do-i.md",
-    "last_crawled": "2026-07-16T03:23:33+00:00",
+    "last_crawled": "2026-07-16T03:35:15+00:00",
     "sha256": "95156a1e4abfdf85594e635bacc161d2dc6e13608896c1b8816aeca7135bacef",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/359/Find": {
     "file": "pages/359-find.md",
-    "last_crawled": "2026-07-16T03:23:34+00:00",
+    "last_crawled": "2026-07-16T03:35:16+00:00",
     "sha256": "6aa15545f4b7058bff57e04439ba74fddffa2de5194e6efcbcd3a6ee78a34dd6",
     "title": "Find",
     "type": "page"
   },
   "https://www.livingstonnj.org/361/Learn": {
     "file": "pages/361-learn.md",
-    "last_crawled": "2026-07-16T03:23:35+00:00",
+    "last_crawled": "2026-07-16T03:35:17+00:00",
     "sha256": "a555c606daf5dbca5c68b5d0451fd7c721e2e6cb06f54b1c120413fef7d7fe13",
     "title": "Learn",
     "type": "page"
   },
   "https://www.livingstonnj.org/362/Submit": {
     "file": "pages/362-submit.md",
-    "last_crawled": "2026-07-16T03:23:37+00:00",
+    "last_crawled": "2026-07-16T03:35:19+00:00",
     "sha256": "a440cbb7661aa5089c7b7e1c8ea6f7f8f28cf11ca80c41702f2c5f6b2d14b1f4",
     "title": "Submit",
     "type": "page"
@@ -1982,49 +2073,49 @@
   },
   "https://www.livingstonnj.org/364/About-Us": {
     "file": "pages/364-about-us.md",
-    "last_crawled": "2026-07-16T03:21:42+00:00",
+    "last_crawled": "2026-07-16T03:33:23+00:00",
     "sha256": "c565a3784360401369e67c7128075c2c801d35c7fdd6ae691b47126ce14a9281",
     "title": "About Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/365/Services": {
     "file": "pages/365-services.md",
-    "last_crawled": "2026-07-16T03:20:46+00:00",
+    "last_crawled": "2026-07-16T03:32:27+00:00",
     "sha256": "dd0de21604ac711f346590ea4d50f5e48617e33fe76aeebb3b238065412af011",
     "title": "Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/366/Programs-Services": {
     "file": "pages/366-programs-services.md",
-    "last_crawled": "2026-07-16T03:21:46+00:00",
+    "last_crawled": "2026-07-16T03:33:28+00:00",
     "sha256": "428ade37ebb3ec211a771ea6fef2fcf937e4a14d861966b0b0159e5c7b4b410e",
     "title": "Programs & Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/367/Fields-Facilities": {
     "file": "pages/367-fields-facilities.md",
-    "last_crawled": "2026-07-16T03:21:55+00:00",
+    "last_crawled": "2026-07-16T03:33:37+00:00",
     "sha256": "9d58a2cb65a6de111186b4e5b2a4baced660e1468a2ea18c20cd5ce1fce1470a",
     "title": "Fields & Facilities",
     "type": "page"
   },
   "https://www.livingstonnj.org/369/Events": {
     "file": "pages/369-events.md",
-    "last_crawled": "2026-07-16T03:21:59+00:00",
+    "last_crawled": "2026-07-16T03:33:42+00:00",
     "sha256": "986520b7705075510dbc6576519682bd8f66379110a90b353450d60d069d492f",
     "title": "Events",
     "type": "page"
   },
   "https://www.livingstonnj.org/371/How-Do-I": {
     "file": "pages/371-how-do-i.md",
-    "last_crawled": "2026-07-16T03:22:04+00:00",
+    "last_crawled": "2026-07-16T03:33:47+00:00",
     "sha256": "884230c245b52ee5b0170ec76e0b23e288b5a129a51dcb757bb02dc9c149e762",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/384/Safety-Security": {
     "file": "pages/384-safety-security.md",
-    "last_crawled": "2026-07-16T03:21:12+00:00",
+    "last_crawled": "2026-07-16T03:32:54+00:00",
     "sha256": "1cd66b1cbcf642d965b2f4cd3964940aec9b301e14e87d24282fbde0c119c9ad",
     "title": "Safety & Security",
     "type": "page"
@@ -2038,140 +2129,140 @@
   },
   "https://www.livingstonnj.org/385/Leaf-Collection": {
     "file": "pages/385-leaf-collection.md",
-    "last_crawled": "2026-07-16T03:21:38+00:00",
+    "last_crawled": "2026-07-16T03:33:20+00:00",
     "sha256": "0d22074571493aae471b6470f22a31306dfcf9a2d9db9ff831a45ee9806babee",
     "title": "Leaf Collection",
     "type": "page"
   },
   "https://www.livingstonnj.org/387/Affordable-Housing": {
     "file": "pages/387-affordable-housing.md",
-    "last_crawled": "2026-07-16T03:20:47+00:00",
+    "last_crawled": "2026-07-16T03:32:28+00:00",
     "sha256": "82dc1219dc00c50c9a54fa364663b1b905129d3514a19d67f2fe55d7bb48e5b5",
     "title": "Affordable Housing",
     "type": "page"
   },
   "https://www.livingstonnj.org/389/Drug-Disposal": {
     "file": "pages/389-drug-disposal.md",
-    "last_crawled": "2026-07-16T03:21:11+00:00",
+    "last_crawled": "2026-07-16T03:32:53+00:00",
     "sha256": "77653859238f0ca9ff1134273aca518f9fa2f1d15d799195504f221c2ecfccd2",
     "title": "Drug Disposal",
     "type": "page"
   },
   "https://www.livingstonnj.org/397/PATH-Program": {
     "file": "pages/397-path-program.md",
-    "last_crawled": "2026-07-16T03:20:50+00:00",
+    "last_crawled": "2026-07-16T03:32:32+00:00",
     "sha256": "ecd9c6c713a3c0040f5fd4bde306ef096152ae443c67980d27d7e3318c99c318",
     "title": "PATH Program",
     "type": "page"
   },
   "https://www.livingstonnj.org/399/Sewer-Utility": {
     "file": "pages/399-sewer-utility.md",
-    "last_crawled": "2026-07-16T03:22:09+00:00",
+    "last_crawled": "2026-07-16T03:33:52+00:00",
     "sha256": "5eadac4346fb2327e0992854093830a0606e0bd52070df0fe5f85464d34da63c",
     "title": "Sewer Utility / Water Pollution Control Facility",
     "type": "page"
   },
   "https://www.livingstonnj.org/400/Master-Plan": {
     "file": "pages/400-master-plan.md",
-    "last_crawled": "2026-07-16T03:18:13+00:00",
+    "last_crawled": "2026-07-16T03:30:48+00:00",
     "sha256": "4a33e390fec7dc1c3f6747921fa99b67d5ee0cc3af93bd6be93136e7bab38402",
     "title": "Master Plan",
     "type": "page"
   },
   "https://www.livingstonnj.org/402/Applications": {
     "file": "pages/402-applications.md",
-    "last_crawled": "2026-07-16T03:20:48+00:00",
+    "last_crawled": "2026-07-16T03:32:29+00:00",
     "sha256": "5288e187ee437a1ab7c0bcd871f826676e9ddd0b4235e752e563b1aa4cf71675",
     "title": "Applications",
     "type": "page"
   },
   "https://www.livingstonnj.org/406/Additional-Forms-for-Board-Applications": {
     "file": "pages/406-additional-forms-for-board-applications.md",
-    "last_crawled": "2026-07-16T03:20:53+00:00",
+    "last_crawled": "2026-07-16T03:32:35+00:00",
     "sha256": "d16f99c6f8db055dc088cecc8deb269c3c0b10be0077dee34c9a52f22395d160",
     "title": "Additional Forms for Board Applications",
     "type": "page"
   },
   "https://www.livingstonnj.org/407/Site-Plans": {
     "file": "pages/407-site-plans.md",
-    "last_crawled": "2026-07-16T03:20:55+00:00",
+    "last_crawled": "2026-07-16T03:32:37+00:00",
     "sha256": "eb1ff966e05af00deb3c0bc374138708135e094cea6de33c5698ec7ae8610f3a",
     "title": "Site Plans",
     "type": "page"
   },
   "https://www.livingstonnj.org/409/Subdivisions": {
     "file": "pages/409-subdivisions.md",
-    "last_crawled": "2026-07-16T03:20:56+00:00",
+    "last_crawled": "2026-07-16T03:32:38+00:00",
     "sha256": "50c88c19077e84a46da2837d3aca2244ecdc1b3767aa60a3d05fdca72325855e",
     "title": "Subdivisions",
     "type": "page"
   },
   "https://www.livingstonnj.org/411/Variance": {
     "file": "pages/411-variance.md",
-    "last_crawled": "2026-07-16T03:20:57+00:00",
+    "last_crawled": "2026-07-16T03:32:38+00:00",
     "sha256": "3e3dc3d5402d7d66c7006f2f9002a206cedc3f7ed0aac5199dbe864199774add",
     "title": "Variance",
     "type": "page"
   },
   "https://www.livingstonnj.org/412/Apply": {
     "file": "pages/412-apply.md",
-    "last_crawled": "2026-07-16T03:21:33+00:00",
+    "last_crawled": "2026-07-16T03:33:15+00:00",
     "sha256": "f0a851b197db0b65b9ae49970ef5a65e8a60f885d12a58bf1045cc675a13ab41",
     "title": "Apply For",
     "type": "page"
   },
   "https://www.livingstonnj.org/413/Contact": {
     "file": "pages/413-contact.md",
-    "last_crawled": "2026-07-16T03:21:33+00:00",
+    "last_crawled": "2026-07-16T03:33:16+00:00",
     "sha256": "8b33c2c69598b03c1cb0fe7975cb81661f3e223299b6e0d501939fd0d7ea089e",
     "title": "Contact",
     "type": "page"
   },
   "https://www.livingstonnj.org/414/Find": {
     "file": "pages/414-find.md",
-    "last_crawled": "2026-07-16T03:21:34+00:00",
+    "last_crawled": "2026-07-16T03:33:17+00:00",
     "sha256": "d8db645219bb31d6a341109bf6c75e6bfbd4630087d3d2def9cca8274f272e5c",
     "title": "Find",
     "type": "page"
   },
   "https://www.livingstonnj.org/415/Sign-Up-For": {
     "file": "pages/415-sign-up-for.md",
-    "last_crawled": "2026-07-16T03:21:35+00:00",
+    "last_crawled": "2026-07-16T03:33:18+00:00",
     "sha256": "309cb726ff535b3abe40151d1b828586948b27dd0fb145525a06dfb34f0668dd",
     "title": "Sign Up For",
     "type": "page"
   },
   "https://www.livingstonnj.org/416/Submit": {
     "file": "pages/416-submit.md",
-    "last_crawled": "2026-07-16T03:21:36+00:00",
+    "last_crawled": "2026-07-16T03:33:19+00:00",
     "sha256": "64e16c29f41df07af5e203bb2342902b3261743fe769f9918e5f97abd7c354ad",
     "title": "Submit",
     "type": "page"
   },
   "https://www.livingstonnj.org/423/How-Do-I": {
     "file": "pages/423-how-do-i.md",
-    "last_crawled": "2026-07-16T03:20:49+00:00",
+    "last_crawled": "2026-07-16T03:32:31+00:00",
     "sha256": "d90b9c536d21f6d816da4f75b991b4669ad525b4371fb6d3ee0b6638cface345",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/425/Apply-For": {
     "file": "pages/425-apply-for.md",
-    "last_crawled": "2026-07-16T03:20:58+00:00",
+    "last_crawled": "2026-07-16T03:32:39+00:00",
     "sha256": "e8cc7728afae767cb2bd28eb728c7bb7f7b7d2b8822eb4fb669cc01f20ceed32",
     "title": "Apply For",
     "type": "page"
   },
   "https://www.livingstonnj.org/438/Contact": {
     "file": "pages/438-contact.md",
-    "last_crawled": "2026-07-16T03:20:59+00:00",
+    "last_crawled": "2026-07-16T03:32:40+00:00",
     "sha256": "df5625d6dbca0c43f5b86f85293c37f660ea236bb332a50d075c187077b28054",
     "title": "Contact",
     "type": "page"
   },
   "https://www.livingstonnj.org/442/Find": {
     "file": "pages/442-find.md",
-    "last_crawled": "2026-07-16T03:21:00+00:00",
+    "last_crawled": "2026-07-16T03:32:41+00:00",
     "sha256": "b060e66544c9415fd266b817422112a9356054d585a8fa5ea37ecbdb43aeee7e",
     "title": "Find",
     "type": "page"
@@ -2185,219 +2276,254 @@
   },
   "https://www.livingstonnj.org/454/Hydrant-Flushing": {
     "file": "pages/454-hydrant-flushing.md",
-    "last_crawled": "2026-07-16T03:22:29+00:00",
+    "last_crawled": "2026-07-16T03:34:11+00:00",
     "sha256": "7f3364a05106689d9f88950dca38626cb4cadd2300afc6cc9046d7caf3722056",
     "title": "Hydrant Flushing",
     "type": "page"
   },
   "https://www.livingstonnj.org/455/Livingston-is-an-EPA-WaterSense-Partner": {
     "file": "pages/455-livingston-is-an-epa-watersense-partner.md",
-    "last_crawled": "2026-07-16T03:22:21+00:00",
+    "last_crawled": "2026-07-16T03:34:03+00:00",
     "sha256": "c6192ce7d18862ff6ce16af4e68adcb7debde7d7d53234741c7e4eb4242d82ee",
     "title": "Livingston is an EPA WaterSense Partner",
     "type": "page"
   },
   "https://www.livingstonnj.org/456/Learn-About": {
     "file": "pages/456-learn-about.md",
-    "last_crawled": "2026-07-16T03:21:01+00:00",
+    "last_crawled": "2026-07-16T03:32:42+00:00",
     "sha256": "5f2979cd85eb916efe79f2860a3d1f9e0442d1cdcf9d64df085984665ad0e989",
     "title": "Learn About",
     "type": "page"
   },
   "https://www.livingstonnj.org/461/Water-Conservation": {
     "file": "pages/461-water-conservation.md",
-    "last_crawled": "2026-07-16T03:22:17+00:00",
+    "last_crawled": "2026-07-16T03:33:59+00:00",
     "sha256": "2f5f3ef05591d8ceb574b9766eb044b6d46c82be162c1818acf72fdb6eecfc5d",
     "title": "Water Conservation",
     "type": "page"
   },
   "https://www.livingstonnj.org/466/Water-Quality-Report": {
     "file": "pages/466-water-quality-report.md",
-    "last_crawled": "2026-07-16T03:22:27+00:00",
+    "last_crawled": "2026-07-16T03:34:10+00:00",
     "sha256": "5a5e032e6664775c4349fcc1111eabb39260c364f0182f3712bbca97973103ac",
     "title": "Water Quality Report",
     "type": "page"
   },
   "https://www.livingstonnj.org/471/Policy-Procedures": {
     "file": "pages/471-policy-procedures.md",
-    "last_crawled": "2026-07-16T03:21:44+00:00",
+    "last_crawled": "2026-07-16T03:33:25+00:00",
     "sha256": "0c8e35f80240a51ba7136f636e01eea2a5cd6c9d6b20ba1a686fe7f7f0810b8a",
     "title": "Policy & Procedures",
     "type": "page"
   },
   "https://www.livingstonnj.org/472/Municipal-Court": {
     "file": "pages/472-municipal-court.md",
-    "last_crawled": "2026-07-16T03:20:41+00:00",
+    "last_crawled": "2026-07-16T03:32:21+00:00",
     "sha256": "46697dca64f36751dd67e1efd2fa3096f58091be57cd2d8de42fbc318d131808",
     "title": "Municipal Court",
     "type": "page"
   },
   "https://www.livingstonnj.org/485/Livingston-Television-LTV": {
     "file": "pages/485-livingston-television-ltv.md",
-    "last_crawled": "2026-07-16T03:23:44+00:00",
+    "last_crawled": "2026-07-16T03:35:25+00:00",
     "sha256": "8985c76453532fde862fb534da5960772250f347693801576ddbc422f2ccd45a",
     "title": "Livingston Television (LTV)",
     "type": "page"
   },
   "https://www.livingstonnj.org/486/Internship-Opportunities": {
     "file": "pages/486-internship-opportunities.md",
-    "last_crawled": "2026-07-16T03:21:43+00:00",
+    "last_crawled": "2026-07-16T03:33:24+00:00",
     "sha256": "ff39a2a0b88944c02a037fb70a137719908d345eef4d2ffa1e1622c0238f4e4e",
     "title": "Volunteer Opportunities",
     "type": "page"
   },
   "https://www.livingstonnj.org/487/Current-Schedule": {
     "file": "pages/487-current-schedule.md",
-    "last_crawled": "2026-07-16T03:23:54+00:00",
+    "last_crawled": "2026-07-16T03:35:36+00:00",
     "sha256": "8bf958cab2693d1f211bfb0ae4a1e8c673e3d964849779733730ebfde9c59bf1",
     "title": "Current LTV Schedule",
     "type": "page"
   },
   "https://www.livingstonnj.org/488/Registration": {
     "file": "pages/488-registration.md",
-    "last_crawled": "2026-07-16T03:21:45+00:00",
+    "last_crawled": "2026-07-16T03:33:26+00:00",
     "sha256": "867e9327eff5aa4b0a2e25c413d3066733c8e32aaced7a92ec33d4acfb83591b",
     "title": "Registration",
     "type": "page"
   },
   "https://www.livingstonnj.org/494/LTV-Online-Watch-Here": {
     "file": "pages/494-ltv-online-watch-here.md",
-    "last_crawled": "2026-07-16T03:23:55+00:00",
+    "last_crawled": "2026-07-16T03:35:37+00:00",
     "sha256": "19963a5e3414a0b181aad14331b57410e3361d0cb8cf56d7f76526385ec5d7e8",
     "title": "LTV Online: Watch LTV's Live Stream and On-demand",
     "type": "page"
   },
   "https://www.livingstonnj.org/499/LTV-Promos": {
     "file": "pages/499-ltv-promos.md",
-    "last_crawled": "2026-07-16T03:23:56+00:00",
+    "last_crawled": "2026-07-16T03:35:38+00:00",
     "sha256": "6403039eed6b98aecb3bf5057646bd338ce233f034b40dbc48df9827fa20f953",
     "title": "LTV Promos",
     "type": "page"
   },
   "https://www.livingstonnj.org/505/Whats-Happening-in-Livingston": {
     "file": "pages/505-whats-happening-in-livingston.md",
-    "last_crawled": "2026-07-16T03:23:57+00:00",
+    "last_crawled": "2026-07-16T03:35:38+00:00",
     "sha256": "bd0a49c103d1a861aaeb03669af9ccf2f689249bd60b961f00553d77d23bb6d6",
     "title": "What's Happening in Livingston",
     "type": "page"
   },
   "https://www.livingstonnj.org/507/Programs-Content": {
     "file": "pages/507-programs-content.md",
-    "last_crawled": "2026-07-16T03:23:58+00:00",
+    "last_crawled": "2026-07-16T03:35:39+00:00",
     "sha256": "fcffcfe43c4ad4fc285a997dbc03f920b474324d6c9ddb682699e6d3827b1240",
     "title": "Programs / Content",
     "type": "page"
   },
   "https://www.livingstonnj.org/509/Around-Town": {
     "file": "pages/509-around-town.md",
-    "last_crawled": "2026-07-16T03:23:59+00:00",
+    "last_crawled": "2026-07-16T03:35:40+00:00",
     "sha256": "c36fd2dfc82129adef6fe5d585060c7f3975e1c745d7638b6e133894c90f1502",
     "title": "Around Town",
     "type": "page"
   },
   "https://www.livingstonnj.org/510/Clergy-Corner": {
     "file": "pages/510-clergy-corner.md",
-    "last_crawled": "2026-07-16T03:24:00+00:00",
+    "last_crawled": "2026-07-16T03:35:41+00:00",
     "sha256": "a45d438d57706a0355435a86be394a3b9f9341b673f708cb55dd29d105ed4368",
     "title": "Clergy Corner",
     "type": "page"
   },
   "https://www.livingstonnj.org/511/LTV-Sports": {
     "file": "pages/511-ltv-sports.md",
-    "last_crawled": "2026-07-16T03:24:01+00:00",
+    "last_crawled": "2026-07-16T03:35:42+00:00",
     "sha256": "6f01c4b8b048305ddac19c1003193762403e4d765665f2036522141e69a913ee",
     "title": "LTV Sports",
     "type": "page"
   },
   "https://www.livingstonnj.org/512/Watch-Appear-Volunteer": {
     "file": "pages/512-watch-appear-volunteer.md",
-    "last_crawled": "2026-07-16T03:24:02+00:00",
+    "last_crawled": "2026-07-16T03:35:43+00:00",
     "sha256": "3c1cf012eec6609e9d256d4c11a748f0e72eca3b9dba077e3f0d272a4196e7a3",
     "title": "Watch, Appear, Volunteer!",
     "type": "page"
   },
   "https://www.livingstonnj.org/526/Arts-Council-of-Livingston": {
     "file": "pages/526-arts-council-of-livingston.md",
-    "last_crawled": "2026-07-16T03:25:40+00:00",
+    "last_crawled": "2026-07-16T03:37:14+00:00",
     "sha256": "a8db1e1934bd91ddc5b80abd73a937dacee9b4ac16bb61b11821a6c85fbd3d14",
     "title": "Arts Council of Livingston",
     "type": "page"
   },
   "https://www.livingstonnj.org/527/Camuso-Collection-Preservation-Committee": {
     "file": "pages/527-camuso-collection-preservation-committee.md",
-    "last_crawled": "2026-07-16T03:25:41+00:00",
+    "last_crawled": "2026-07-16T03:37:15+00:00",
     "sha256": "09dbc0d977766b8ac2e8a2a5a1598392c6d328478abf605322c027282b667db0",
     "title": "Camuso Collection Preservation Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/533/Consumer-Affairs-Committee": {
     "file": "pages/533-consumer-affairs-committee.md",
-    "last_crawled": "2026-07-16T03:25:41+00:00",
+    "last_crawled": "2026-07-16T03:37:16+00:00",
     "sha256": "0b0d383f5536759c7570680304e7af24dd4cc70588fe23b04ff69bf43d38d987",
     "title": "Consumer Affairs Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/538/Fourth-of-July-Celebration-Committee": {
     "file": "pages/538-fourth-of-july-celebration-committee.md",
-    "last_crawled": "2026-07-16T03:25:42+00:00",
+    "last_crawled": "2026-07-16T03:37:17+00:00",
     "sha256": "110110c9e2477aef2a7c586fa31ee44f9c28ee102f52cc38c86fd9e3df1868c4",
     "title": "Fourth of July Celebration Committee",
     "type": "page"
   },
+  "https://www.livingstonnj.org/543/Healthy-Community-Healthy-Youth-Initiati": {
+    "file": "pages/543-healthy-community-healthy-youth-initiati.md",
+    "last_crawled": "2026-07-16T03:37:48+00:00",
+    "sha256": "d97b9c247dd630448f76fa30008f7fa3f9c5c7e6631197adc8c8fc516e853067",
+    "title": "Healthy Community Healthy Youth Initiative (HCHY)",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/546/Livingston-Advisory-Committee-for-Disabi": {
     "file": "pages/546-livingston-advisory-committee-for-disabi.md",
-    "last_crawled": "2026-07-16T03:25:44+00:00",
+    "last_crawled": "2026-07-16T03:37:19+00:00",
     "sha256": "fcbd39b161c9f51b8bdd2346f711714a2e1e40a049271ea0fb8812258e3ae2f6",
     "title": "Livingston Advisory Committee for Disabilities (LACD)",
     "type": "page"
   },
   "https://www.livingstonnj.org/560/Livingston-Environmental-Commission-LEC": {
     "file": "pages/560-livingston-environmental-commission-lec.md",
-    "last_crawled": "2026-07-16T03:25:47+00:00",
+    "last_crawled": "2026-07-16T03:37:22+00:00",
     "sha256": "4ceff3a040b622060f6ccf9aacc07adc5b834c79b957c0d5fa4ab65a71cc947b",
     "title": "Livingston Environmental Commission (LEC)",
     "type": "page"
   },
   "https://www.livingstonnj.org/578/Program-Guides-and-Newsletter": {
     "file": "pages/578-program-guides-and-newsletter.md",
-    "last_crawled": "2026-07-16T03:21:50+00:00",
+    "last_crawled": "2026-07-16T03:33:32+00:00",
     "sha256": "d259baac5f8f51d92e176f7c40dd1d6f7f02095b56475574fb4cecdeaacf3e44",
     "title": "Program Guides and Newsletter",
     "type": "page"
   },
   "https://www.livingstonnj.org/579/Environmental-Links": {
     "file": "pages/579-environmental-links.md",
-    "last_crawled": "2026-07-16T03:25:49+00:00",
+    "last_crawled": "2026-07-16T03:37:24+00:00",
     "sha256": "def2942f0607f68cbbfba42929591e32f85e909e0ec784f4e9098cbdefe21737",
     "title": "Environmental Links",
     "type": "page"
   },
   "https://www.livingstonnj.org/580/Environmental-Topics": {
     "file": "pages/580-environmental-topics.md",
-    "last_crawled": "2026-07-16T03:25:50+00:00",
+    "last_crawled": "2026-07-16T03:37:26+00:00",
     "sha256": "dd1e12f40c5d2af494e439de860fa48c46f7ca81abb6b0c6326d509f17afe7ad",
     "title": "Environmental Topics",
     "type": "page"
   },
+  "https://www.livingstonnj.org/582/Trails-Greenways-Committee": {
+    "file": "pages/582-trails-greenways-committee.md",
+    "last_crawled": "2026-07-16T03:37:41+00:00",
+    "sha256": "0022a40ceef9c562801ca394613a48a99a9b0ad608cb3a4ef0c8de023a74c0fe",
+    "title": "Trails & Greenways Committee",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/588/Reservations": {
     "file": "pages/588-reservations.md",
-    "last_crawled": "2026-07-16T03:21:58+00:00",
+    "last_crawled": "2026-07-16T03:33:40+00:00",
     "sha256": "b417e751721319e7a0891be458e7f40ae6c33dc694c2e9f6da0dd6caa3624b4a",
     "title": "Reservations",
     "type": "page"
   },
+  "https://www.livingstonnj.org/592/Senior-Advisory-Committee": {
+    "file": "pages/592-senior-advisory-committee.md",
+    "last_crawled": "2026-07-16T03:37:39+00:00",
+    "sha256": "aa9e0d9f8b8b92f283cac283129e0e09d3f6dfe60838b9f000c718920b0fe41d",
+    "title": "Senior Advisory Committee",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/594/Technology-Committee": {
+    "file": "pages/594-technology-committee.md",
+    "last_crawled": "2026-07-16T03:37:40+00:00",
+    "sha256": "6d0d4e02b4d7fdf6ec8ae4e2bf32c2c29aafc680c85e5c62f2acf6543b9092f5",
+    "title": "Technology Committee",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/596/Vision-2020-Committee": {
     "file": "pages/596-vision-2020-committee.md",
-    "last_crawled": "2026-07-16T03:24:24+00:00",
+    "last_crawled": "2026-07-16T03:36:04+00:00",
     "sha256": "db45a95bd80903761cee2409688a8496671d779e72a528a6bfff4473fbb66963",
     "title": "Vision 20/20 Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/600/Field-Use-Guidelines": {
     "file": "pages/600-field-use-guidelines.md",
-    "last_crawled": "2026-07-16T03:21:57+00:00",
+    "last_crawled": "2026-07-16T03:33:39+00:00",
     "sha256": "c2fab6cd824b595aeb12902b837a633d88833f6a0581ea396c3f3d0ef300e542",
     "title": "Field Use Guidelines",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/601/Livingston-Green-Team-Committee": {
+    "file": "pages/601-livingston-green-team-committee.md",
+    "last_crawled": "2026-07-16T03:37:27+00:00",
+    "sha256": "a614788785492e712ef7d143ec3c1b17cf655f6b840f994b16d76e110af77e73",
+    "title": "Livingston Green Team Committee",
     "type": "page"
   },
   "https://www.livingstonnj.org/610/Emergency-Alerts": {
@@ -2416,14 +2542,14 @@
   },
   "https://www.livingstonnj.org/610/Emergency-Police-Alerts": {
     "file": "pages/610-emergency-police-alerts.md",
-    "last_crawled": "2026-07-16T03:22:12+00:00",
+    "last_crawled": "2026-07-16T03:30:17+00:00",
     "sha256": "1cf0d3205dbbbab6304ee0a66b8d57041a23ce1b1a08fc302158528d164dcb53",
     "title": "Emergency & Police Alerts",
     "type": "page"
   },
   "https://www.livingstonnj.org/617/Additional-Resources": {
     "file": "pages/617-additional-resources.md",
-    "last_crawled": "2026-07-16T03:21:25+00:00",
+    "last_crawled": "2026-07-16T03:33:08+00:00",
     "sha256": "894216943b8d9d3c6a3cd539a14168e005486d390d9d136a50d04e69e92589c5",
     "title": "Additional Resources",
     "type": "page"
@@ -2437,7 +2563,7 @@
   },
   "https://www.livingstonnj.org/629/Report-a-Concern": {
     "file": "pages/629-report-a-concern.md",
-    "last_crawled": "2026-07-16T03:18:40+00:00",
+    "last_crawled": "2026-07-16T03:30:40+00:00",
     "sha256": "27b6013ed0cccb81017916c4adcb68f45f33fa303917ead6f2f25f99613f3481",
     "title": "Report a Concern",
     "type": "page"
@@ -2451,224 +2577,329 @@
   },
   "https://www.livingstonnj.org/636/About-Us": {
     "file": "pages/636-about-us.md",
-    "last_crawled": "2026-07-16T03:23:41+00:00",
+    "last_crawled": "2026-07-16T03:35:23+00:00",
     "sha256": "443360bc2f2c401ba4c40b0bba265bb049cf855565d2f887f80893f38d2affa4",
     "title": "About Us",
     "type": "page"
   },
+  "https://www.livingstonnj.org/640/Livingston-Historical-Society": {
+    "file": "pages/640-livingston-historical-society.md",
+    "last_crawled": "2026-07-16T03:37:50+00:00",
+    "sha256": "3c864f98bb4a8f9eb0e67579eab462199ea4b73278a73f59411c76f865d36570",
+    "title": "Livingston Historical Society",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/652/Force-Homestead-Museum": {
+    "file": "pages/652-force-homestead-museum.md",
+    "last_crawled": "2026-07-16T03:37:51+00:00",
+    "sha256": "4a0c3a29bcac5f29e4389f16a3a7a0c495c588a9d20cbc4130bb69cd1cecc52f",
+    "title": "Force Homestead Museum",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/653/Historic-Ely-Cemetery": {
+    "file": "pages/653-historic-ely-cemetery.md",
+    "last_crawled": "2026-07-16T03:37:51+00:00",
+    "sha256": "ee1b644a4a198419d37a10c681f6f531c75ad11e5c2763800d1817dc99416c56",
+    "title": "Historic Ely Cemetery",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/654/Historical-Society-Officers-Organization": {
+    "file": "pages/654-historical-society-officers-organization.md",
+    "last_crawled": "2026-07-16T03:37:52+00:00",
+    "sha256": "fc03f2e98fbd737d914816ff6cb3f22408d24f0872b1ed383ae1d9934a859a00",
+    "title": "Historical Society Officers & Organization",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/657/History": {
     "file": "pages/657-history.md",
-    "last_crawled": "2026-07-16T03:23:48+00:00",
+    "last_crawled": "2026-07-16T03:35:30+00:00",
     "sha256": "79b155d354f2686947a4f27ca9bd017ca9507003d08e62e01cc133f2c47227ee",
     "title": "History",
     "type": "page"
   },
   "https://www.livingstonnj.org/664/Livingston-911-Memorial": {
     "file": "pages/664-livingston-911-memorial.md",
-    "last_crawled": "2026-07-16T03:22:02+00:00",
+    "last_crawled": "2026-07-16T03:33:45+00:00",
     "sha256": "f15fae6cf94d474ce448713d6011ec23052309ba085b51cf3e90b9631811d0ff",
     "title": "Livingston 9/11 Memorial",
     "type": "page"
   },
   "https://www.livingstonnj.org/681/Community-Events": {
     "file": "pages/681-community-events.md",
-    "last_crawled": "2026-07-16T03:22:01+00:00",
+    "last_crawled": "2026-07-16T03:33:44+00:00",
     "sha256": "83f94bad8aaec85f082fa3af4cabb7af21f365458890efb4d4fa47dcad84587f",
     "title": "Community Events",
     "type": "page"
   },
+  "https://www.livingstonnj.org/684/Youth-Appreciation-Week": {
+    "file": "pages/684-youth-appreciation-week.md",
+    "last_crawled": "2026-07-16T03:37:53+00:00",
+    "sha256": "05705178279f6f5f457dbe0b7c4343a27a13da0dd5d0d6bc240516e0b561f948",
+    "title": "Youth Appreciation Week",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/686/Open-Space-Committee": {
+    "file": "pages/686-open-space-committee.md",
+    "last_crawled": "2026-07-16T03:37:30+00:00",
+    "sha256": "e80c88ef9852d0a247bca9e7448117de2ff2aea62ed7d221c3a6f5490e332a73",
+    "title": "Open Space Trust Committee",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/689/Acquiring-Land": {
+    "file": "pages/689-acquiring-land.md",
+    "last_crawled": "2026-07-16T03:37:31+00:00",
+    "sha256": "bc6dbbe3ac3e4f660a2605480cfed0f049208cb88f6ad847e0afb9d62a5091ea",
+    "title": "Acquiring Land",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/693/Livingston-at-200": {
     "file": "pages/693-livingston-at-200.md",
-    "last_crawled": "2026-07-16T03:23:49+00:00",
+    "last_crawled": "2026-07-16T03:35:31+00:00",
     "sha256": "07774e94e2b6c2b02636b70dc22c2ce2f8520308ac0142b7511eabae2b1220cb",
     "title": "Livingston at 200",
     "type": "page"
   },
   "https://www.livingstonnj.org/694/About-Us": {
     "file": "pages/694-about-us.md",
-    "last_crawled": "2026-07-16T03:23:50+00:00",
+    "last_crawled": "2026-07-16T03:35:32+00:00",
     "sha256": "0d1c2b88a2200fc6b896035193c1b2573993b6dc8c17cbdc5a6f9d35b1869c8d",
     "title": "About Us",
     "type": "page"
   },
+  "https://www.livingstonnj.org/698/Recycling-Reclamation-Committee": {
+    "file": "pages/698-recycling-reclamation-committee.md",
+    "last_crawled": "2026-07-16T03:37:35+00:00",
+    "sha256": "d35011054239657c95765092b04ef49e949343ad4df078e1e827daf142965775",
+    "title": "Recycling & Reclamation Committee",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/700/History": {
     "file": "pages/700-history.md",
-    "last_crawled": "2026-07-16T03:23:51+00:00",
+    "last_crawled": "2026-07-16T03:35:33+00:00",
     "sha256": "9c841280e61cae9ef7083d0f5159d454fef68c64699d6d17c0f12a7f2607252c",
     "title": "History",
     "type": "page"
   },
+  "https://www.livingstonnj.org/702/Bag-Initiative": {
+    "file": "pages/702-bag-initiative.md",
+    "last_crawled": "2026-07-16T03:37:36+00:00",
+    "sha256": "2e6b63de9c6b5a1398d3bb638254d21da64c2f8be2ffb8c272c167d24828bd1e",
+    "title": "Bag Initiative",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/703/Recycling-Resources": {
+    "file": "pages/703-recycling-resources.md",
+    "last_crawled": "2026-07-16T03:37:38+00:00",
+    "sha256": "fa2e4d6887beaf545a554566f1470446664bb42375b51f98ae0343351bcfdab7",
+    "title": "Recycling Resources",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/704/Grasscycling": {
+    "file": "pages/704-grasscycling.md",
+    "last_crawled": "2026-07-16T03:37:37+00:00",
+    "sha256": "57fc30d774ecb4bab80e1ce5b2f7693387a79c0a6fc0d2c20e0d9fe6f11243b4",
+    "title": "Grasscycling",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/707/Livingston-Statues": {
     "file": "pages/707-livingston-statues.md",
-    "last_crawled": "2026-07-16T03:23:52+00:00",
+    "last_crawled": "2026-07-16T03:35:34+00:00",
     "sha256": "7c907da5a9e335ae5d5f091608e0a82dd0f9d135b7bd577be1384d671b0246d5",
     "title": "Livingston Statues",
     "type": "page"
   },
+  "https://www.livingstonnj.org/709/Lancer-Sport-Camps-SUMMER": {
+    "file": "pages/709-lancer-sport-camps-summer.md",
+    "last_crawled": "2026-07-16T03:37:57+00:00",
+    "sha256": "febc33e5c1030ce7101dec189862dcec9e97344b84b92bb84ad26ffeda325578",
+    "title": "Lancer Sport Camps",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/713/Timeline": {
     "file": "pages/713-timeline.md",
-    "last_crawled": "2026-07-16T03:23:53+00:00",
+    "last_crawled": "2026-07-16T03:35:35+00:00",
     "sha256": "237485493cc9bc61a3f11f321007b52fda59dba019d6a4b473f7f1698bc8bfd9",
     "title": "Timeline",
     "type": "page"
   },
   "https://www.livingstonnj.org/720/Township-Officials": {
     "file": "pages/720-township-officials.md",
-    "last_crawled": "2026-07-16T03:18:16+00:00",
+    "last_crawled": "2026-07-16T03:30:51+00:00",
     "sha256": "7c9a3b08e8488ae6042b5d44f8ea39b398f00b63589cd1411187162eb8b0d7ac",
     "title": "Township Officials",
     "type": "page"
   },
   "https://www.livingstonnj.org/724/Code-of-the-Township-of-Livingston": {
     "file": "pages/724-code-of-the-township-of-livingston.md",
-    "last_crawled": "2026-07-16T03:18:10+00:00",
+    "last_crawled": "2026-07-16T03:30:45+00:00",
     "sha256": "eec393e5cdad55bb08abfb3bbf8b5413f8ea31c9900c4c24ae9830a4745fe43a",
     "title": "Code of the Township of Livingston",
     "type": "page"
   },
   "https://www.livingstonnj.org/733/Chamber-of-Commerce": {
     "file": "pages/733-chamber-of-commerce.md",
-    "last_crawled": "2026-07-16T03:24:07+00:00",
+    "last_crawled": "2026-07-16T03:35:48+00:00",
     "sha256": "0968a72a63946f20aa500cda5d7410daf01ed27538dee4b3f2fc7f2578245a51",
     "title": "Chamber of Commerce",
     "type": "page"
   },
   "https://www.livingstonnj.org/749/Youth-Teens": {
     "file": "pages/749-youth-teens.md",
-    "last_crawled": "2026-07-16T03:21:54+00:00",
+    "last_crawled": "2026-07-16T03:33:36+00:00",
     "sha256": "18c67d31bafe3df154a2a8be37465043b11a4cbaf3bbda4121d7ffba51338f31",
     "title": "Youth & Teens",
     "type": "page"
   },
   "https://www.livingstonnj.org/776/Summer-Camps": {
     "file": "pages/776-summer-camps.md",
-    "last_crawled": "2026-07-16T03:23:45+00:00",
+    "last_crawled": "2026-07-16T03:35:27+00:00",
     "sha256": "e54c421331ab125f0d55b9d4533c0e5124bdb86d76f920a4c2b483adf1569b87",
     "title": "Summer Camps",
     "type": "page"
   },
   "https://www.livingstonnj.org/815/Senior-Transportation-Services": {
     "file": "pages/815-senior-transportation-services.md",
-    "last_crawled": "2026-07-16T03:20:34+00:00",
+    "last_crawled": "2026-07-16T03:32:11+00:00",
     "sha256": "632609caf4fab283ed3f2ec37c03f6fcb00666c4318ccbc372d544abb325e804",
     "title": "Senior Transportation Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/851/Apply-For": {
     "file": "pages/851-apply-for.md",
-    "last_crawled": "2026-07-16T03:22:05+00:00",
+    "last_crawled": "2026-07-16T03:33:48+00:00",
     "sha256": "b2f00c7f6a5f7dba5294de04b84ba6b21cc75c2cb07d52ca307ebdc4be204e21",
     "title": "Apply For",
     "type": "page"
   },
   "https://www.livingstonnj.org/852/Contact": {
     "file": "pages/852-contact.md",
-    "last_crawled": "2026-07-16T03:22:06+00:00",
+    "last_crawled": "2026-07-16T03:33:49+00:00",
     "sha256": "6e74f0a5d37f7ea5d213304d916954632b4262c92ba52823f2ce6fccda168c11",
     "title": "Contact",
     "type": "page"
   },
   "https://www.livingstonnj.org/853/Find": {
     "file": "pages/853-find.md",
-    "last_crawled": "2026-07-16T03:22:06+00:00",
+    "last_crawled": "2026-07-16T03:33:49+00:00",
     "sha256": "47ce402f6ca02c3f8c30c327a9ae92faaeb362b4154c1cc3e7fcb6524ece9423",
     "title": "Find",
     "type": "page"
   },
   "https://www.livingstonnj.org/855/Sign-Up-For": {
     "file": "pages/855-sign-up-for.md",
-    "last_crawled": "2026-07-16T03:22:07+00:00",
+    "last_crawled": "2026-07-16T03:33:50+00:00",
     "sha256": "7e6428259371683fc1c75a46b5f73fa95b84aab7e3ababe33b7c9a6fe1e13e5a",
     "title": "Sign Up For",
     "type": "page"
   },
   "https://www.livingstonnj.org/856/Submit": {
     "file": "pages/856-submit.md",
-    "last_crawled": "2026-07-16T03:22:08+00:00",
+    "last_crawled": "2026-07-16T03:33:51+00:00",
     "sha256": "017010659649ec76e0692e7f772aca03f05c211c1eaf7e98bf4df85a8829be15",
     "title": "Submit",
     "type": "page"
   },
   "https://www.livingstonnj.org/891/Directions": {
     "file": "pages/891-directions.md",
-    "last_crawled": "2026-07-16T03:24:20+00:00",
+    "last_crawled": "2026-07-16T03:36:00+00:00",
     "sha256": "db7941f5ed1076cd707abf1165942fbc40f666d5ea0152192438d101cf6c13fd",
     "title": "Directions",
     "type": "page"
   },
   "https://www.livingstonnj.org/9/How-Do-I": {
     "file": "pages/9-how-do-i.md",
-    "last_crawled": "2026-07-16T03:17:29+00:00",
+    "last_crawled": "2026-07-16T03:30:11+00:00",
     "sha256": "0b29a322d879ca58d3f8aded2b39e79f16694acd049dc9b1715cac53a447eb7f",
     "title": "How Do I...",
     "type": "page"
   },
   "https://www.livingstonnj.org/917/Request": {
     "file": "pages/917-request.md",
-    "last_crawled": "2026-07-16T03:24:26+00:00",
+    "last_crawled": "2026-07-16T03:36:06+00:00",
     "sha256": "913921da962da4d37bb7fb0bec8721c6ad7b763ed52a4b7f6ad781271dfe0604",
     "title": "Request",
     "type": "page"
   },
   "https://www.livingstonnj.org/978/Non-Recyclables": {
     "file": "pages/978-non-recyclables.md",
-    "last_crawled": "2026-07-16T03:22:47+00:00",
+    "last_crawled": "2026-07-16T03:34:28+00:00",
     "sha256": "37755942543c48da5c9b5563c3e64abe88ddc13d2705d739cf5419576715e596",
     "title": "Non-Recyclables",
     "type": "page"
   },
   "https://www.livingstonnj.org/980/Senior-Adult": {
     "file": "pages/980-senior-adult.md",
-    "last_crawled": "2026-07-16T03:21:51+00:00",
+    "last_crawled": "2026-07-16T03:33:33+00:00",
     "sha256": "ad4b81813284831641f1eb61830e069c608252ede85e3fc96702ec5b567f2922",
     "title": "Senior / Adult",
     "type": "page"
   },
   "https://www.livingstonnj.org/989/Sports": {
     "file": "pages/989-sports.md",
-    "last_crawled": "2026-07-16T03:21:52+00:00",
+    "last_crawled": "2026-07-16T03:33:34+00:00",
     "sha256": "61fb1da121ac6524f8db34f93878a4fece035639905c477520e64931a31bd95d",
     "title": "Sports",
     "type": "page"
   },
   "https://www.livingstonnj.org/993/Tennis-Pickleball-Courts---Usage-Guideli": {
     "file": "pages/993-tennis-pickleball-courts-usage-guideli.md",
-    "last_crawled": "2026-07-16T03:21:58+00:00",
+    "last_crawled": "2026-07-16T03:33:41+00:00",
     "sha256": "d145c5b16a57538ae3e684c6ce4120f4bc9b5bda43ca641fdf780189708899e0",
     "title": "Tennis / Pickleball Courts - Usage Guidelines",
     "type": "page"
   },
   "https://www.livingstonnj.org/999/Pool-and-Aquatics": {
     "file": "pages/999-pool-and-aquatics.md",
-    "last_crawled": "2026-07-16T03:21:49+00:00",
+    "last_crawled": "2026-07-16T03:33:31+00:00",
     "sha256": "0280af0da9a13bbc57af225e6378bef424ce4d39b1b1e8ed3b4ee033b9c60612",
     "title": "Pool and Aquatics",
     "type": "page"
   },
   "https://www.livingstonnj.org/Accessibility": {
     "file": "pages/accessibility.md",
-    "last_crawled": "2026-07-16T03:18:06+00:00",
+    "last_crawled": "2026-07-16T03:30:42+00:00",
     "sha256": "90ab56998e6be636f97fa81deaa81d1afe7723556e6d39c7958bcd8451d88bb6",
     "title": "Pages \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
   "https://www.livingstonnj.org/AgendaCenter": {
     "file": "pages/agendacenter.md",
-    "last_crawled": "2026-07-16T03:24:18+00:00",
+    "last_crawled": "2026-07-16T03:35:58+00:00",
     "sha256": "e7891d2cb4a0293fa8f7ac2e101f12c0faed88338bcffca472738a69f8cb1458",
     "title": "Agenda Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
+  "https://www.livingstonnj.org/AgendaCenter/Planning-Board-2": {
+    "file": "pages/agendacenter-planning-board-2.md",
+    "last_crawled": "2026-07-16T03:37:32+00:00",
+    "sha256": "053fb2ea5c3cd4bd7b464d09ec3e0dbcf6ca6a9521d795abe072c810f58084ee",
+    "title": "Agenda Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/Archive.aspx?AMID=47": {
+    "file": "pages/archive-aspx.md",
+    "last_crawled": "2026-07-16T03:37:34+00:00",
+    "sha256": "3fbf8a35b78bedccc70f0921a6ac0b043b1a10c4c0d7cf73cfdad21dd139629b",
+    "title": "Archive Center \u2022 Planning Board Resolutions",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/Archive.aspx?AMID=48": {
+    "file": "pages/archive-aspx.md",
+    "last_crawled": "2026-07-16T03:37:47+00:00",
+    "sha256": "44609ffcc81b219e19f19dcf9e94568f598ed550fdfb95073eba47f7d8f908df",
+    "title": "Archive Center \u2022 Zoning Board Resolutions",
+    "type": "page"
+  },
   "https://www.livingstonnj.org/Bids.aspx": {
     "file": "pages/bids-aspx.md",
-    "last_crawled": "2026-07-16T03:18:56+00:00",
+    "last_crawled": "2026-07-16T03:31:25+00:00",
     "sha256": "11de1c3d2c45ba5b9bf3f484a4b80bbd055ac0a17f09d7219cb1171732696a60",
     "title": "Bid Postings \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
   "https://www.livingstonnj.org/BusinessDirectoryII.aspx?lngBusinessCategoryID=26": {
     "file": "pages/businessdirectoryii-aspx.md",
-    "last_crawled": "2026-07-16T03:23:46+00:00",
+    "last_crawled": "2026-07-16T03:35:28+00:00",
     "sha256": "3480892677df34047f55ea7062193a006a79755e88b7dd6eefe5b76fb9ec0937",
     "title": "Resource Directory \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
@@ -2857,63 +3088,77 @@
   },
   "https://www.livingstonnj.org/Directory.aspx": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:18:11+00:00",
+    "last_crawled": "2026-07-16T03:30:46+00:00",
     "sha256": "18fc5751f4cf8d37f4b0574a72be76f153fa4a787b17a767f3eabe009d37571a",
     "title": "Staff Directory \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
   "https://www.livingstonnj.org/Directory.aspx?DID=23": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:24:13+00:00",
+    "last_crawled": "2026-07-16T03:35:53+00:00",
     "sha256": "5df82e97bfa76c11da84428223b0f550abe4f934d61d55ff7d668f6cfbd4b9bc",
     "title": "Staff Directory \u2022 Animal Control Non-Emergency / Animal Shel",
     "type": "page"
   },
   "https://www.livingstonnj.org/Directory.aspx?DID=36": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:21:46+00:00",
+    "last_crawled": "2026-07-16T03:33:27+00:00",
     "sha256": "0e1f535158802e9323d89c6a36407415ff8e30992c850c9ade9f8655f51331b2",
     "title": "Staff Directory \u2022 Recreation & Senior Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/Directory.aspx?DID=38": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:24:15+00:00",
+    "last_crawled": "2026-07-16T03:35:55+00:00",
     "sha256": "452ad995b28e668da64537743aff09a872ae441164a5a1305458f48b8f0d3989",
     "title": "Staff Directory \u2022 Municipal Court",
     "type": "page"
   },
   "https://www.livingstonnj.org/Directory.aspx?DID=8": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:24:14+00:00",
+    "last_crawled": "2026-07-16T03:35:54+00:00",
     "sha256": "ac7ecc2be32e3ec8414bc861bd901f68e1cb64d387c17cecef53187a83440c20",
     "title": "Staff Directory \u2022 Clerk",
     "type": "page"
   },
   "https://www.livingstonnj.org/Directory.aspx?did=36": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:24:16+00:00",
+    "last_crawled": "2026-07-16T03:35:56+00:00",
     "sha256": "84361b57e545845b9da1893808e129ec886ba51bf87051d88eac54a8d487ce17",
     "title": "Staff Directory \u2022 Recreation & Senior Services",
     "type": "page"
   },
   "https://www.livingstonnj.org/DocumentCenter/Index/141": {
     "file": "pages/documentcenter-index-141.md",
-    "last_crawled": "2026-07-16T03:18:15+00:00",
+    "last_crawled": "2026-07-16T03:30:50+00:00",
     "sha256": "90742017c99933c602a2d8c8bc2ec5428a8482c9ec0a0c96d7297047cede77aa",
     "title": "Document Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
   "https://www.livingstonnj.org/DocumentCenter/Index/144": {
     "file": "pages/documentcenter-index-144.md",
-    "last_crawled": "2026-07-16T03:18:14+00:00",
+    "last_crawled": "2026-07-16T03:30:49+00:00",
     "sha256": "3232e6810a8773c18086a91e3f515012cd428198d42ddd4022f4684465988365",
+    "title": "Document Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/Index/332": {
+    "file": "pages/documentcenter-index-332.md",
+    "last_crawled": "2026-07-16T03:37:33+00:00",
+    "sha256": "8e38befd6efbdc751368404a244d156e777ccb15312401200e245fa19606cdc4",
+    "title": "Document Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/Index/333": {
+    "file": "pages/documentcenter-index-333.md",
+    "last_crawled": "2026-07-16T03:37:46+00:00",
+    "sha256": "4c8235576ab3b0458444eb04f52247d89a659404b29f29fa8a8ea9189def0798",
     "title": "Document Center \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/110/Zoning-Map-PDF?bidId=": {
     "file": "pdfs/documentcenter-view-110-zoning-map-pdf.pdf",
-    "last_crawled": "2026-07-16T03:18:22+00:00",
+    "last_crawled": "2026-07-16T03:30:57+00:00",
     "sha256": "85507e9e9b09d6a968af8ba7b1bd3440a2152fa8626767db8275773645bd1b5c",
     "title": "Zoning-Map-PDF",
     "type": "pdf"
@@ -2925,11 +3170,25 @@
     "title": "Payment-Policy",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/11370/Payment-Policy-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-11370-payment-policy-pdf.pdf",
+    "last_crawled": "2026-07-16T03:31:29+00:00",
+    "sha256": "ca39530bf821424efefde15d26b658672b77ccf771784d662937b5c492b94020",
+    "title": "Payment-Policy-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/11371/PO-terms-and-conditions": {
     "file": "pdfs/documentcenter-view-11371-po-terms-and-conditions.pdf",
     "last_crawled": "2026-07-16T03:19:07+00:00",
     "sha256": "62b6e8d95a79b9d64d49c018c432fe617b35e03afe2a0483eabfddc241bc4d9d",
     "title": "PO-terms-and-conditions",
+    "type": "pdf"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/View/11371/PO-terms-and-conditions-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-11371-po-terms-and-conditions-pdf.pdf",
+    "last_crawled": "2026-07-16T03:31:28+00:00",
+    "sha256": "62b6e8d95a79b9d64d49c018c432fe617b35e03afe2a0483eabfddc241bc4d9d",
+    "title": "PO-terms-and-conditions-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/12185": {
@@ -2939,11 +3198,32 @@
     "title": "12185",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/12185/Township-Concrete-Sidewalks-Map-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-12185-township-concrete-sidewalks-map-pdf.pdf",
+    "last_crawled": "2026-07-16T03:31:21+00:00",
+    "sha256": "8cd37252c0af61e91bc6791aa41abc84e30349030fcd6ac631573a3f1a5207cf",
+    "title": "Township-Concrete-Sidewalks-Map-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/12683/Livingston-Trail-Map-and-Brochure-PDF": {
     "file": "pdfs/documentcenter-view-12683-livingston-trail-map-and-brochure-pdf.pdf",
-    "last_crawled": "2026-07-16T03:18:45+00:00",
+    "last_crawled": "2026-07-16T03:31:19+00:00",
     "sha256": "f648bff5d7930bcb0cfa5293037435728156d463607cc80e1200caf307b9c422",
     "title": "Livingston-Trail-Map-and-Brochure-PDF",
+    "type": "pdf"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/View/12683/Livingston-Trail-Map-and-Brochure-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-12683-livingston-trail-map-and-brochure-pdf.pdf",
+    "last_crawled": "2026-07-16T03:37:43+00:00",
+    "sha256": "f648bff5d7930bcb0cfa5293037435728156d463607cc80e1200caf307b9c422",
+    "title": "Livingston-Trail-Map-and-Brochure-PDF",
+    "type": "pdf"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/View/14574/Application-for-appointment-to-a-Township-Volunteer-Committee---Fillable-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-14574-application-for-appointment-to-a-township-volunteer-committee-fillable-pdf.pdf",
+    "last_crawled": "2026-07-16T03:37:45+00:00",
+    "sha256": "e46673251ac2d87df803aadcb9e5fd167c80feab87494ec24a97da39b99bdb35",
+    "title": "Application-for-appointment-to-a-Township-Volunteer-Committee---Fillable-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/25051/Fee-Schedule-4224": {
@@ -2953,6 +3233,13 @@
     "title": "Fee-Schedule-4224",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/25051/Fee-Schedule-91324-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-25051-fee-schedule-91324-pdf.pdf",
+    "last_crawled": "2026-07-16T03:30:54+00:00",
+    "sha256": "73fcf5f0c945798c70c2dd6a6a18b08a1ad3de3922b897e6b4815d87fccb4665",
+    "title": "Fee-Schedule-91324-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/26261/NEW-OPRA-FORM-9_3_2024-Fillable-with-Cover-Sheet": {
     "file": "pdfs/documentcenter-view-26261-new-opra-form-9-3-2024-fillable-with-cover-sheet.pdf",
     "last_crawled": "2026-07-16T03:25:35+00:00",
@@ -2960,16 +3247,23 @@
     "title": "NEW-OPRA-FORM-9_3_2024-Fillable-with-Cover-Sheet",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/26261/NEW-OPRA-FORM-9_3_2024-Fillable-with-Cover-Sheet-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-26261-new-opra-form-9-3-2024-fillable-with-cover-sheet-pdf.pdf",
+    "last_crawled": "2026-07-16T03:37:09+00:00",
+    "sha256": "9992bb3da1a9b51b482354766c72736de9abc5c4a2dc5543ecab5a58a1cb941b",
+    "title": "NEW-OPRA-FORM-9_3_2024-Fillable-with-Cover-Sheet-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/321/Change-of-Mortgage-Status-Form-PDF?bidId=": {
     "file": "pdfs/documentcenter-view-321-change-of-mortgage-status-form-pdf.pdf",
-    "last_crawled": "2026-07-16T03:24:54+00:00",
+    "last_crawled": "2026-07-16T03:36:31+00:00",
     "sha256": "6b3fd73630fa6c088eabfd75cd9735d61dab332652cd24e4f6e10c508ad2e8b3",
     "title": "Change-of-Mortgage-Status-Form-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/322/Change-of-Address-Form-PDF?bidId=": {
     "file": "pdfs/documentcenter-view-322-change-of-address-form-pdf.pdf",
-    "last_crawled": "2026-07-16T03:24:54+00:00",
+    "last_crawled": "2026-07-16T03:36:31+00:00",
     "sha256": "f25f00dabf39605b8c8fc7f8c2d5c24801fe678de9bb8e5ba7bbe0c1788433d9",
     "title": "Change-of-Address-Form-PDF",
     "type": "pdf"
@@ -2981,9 +3275,16 @@
     "title": "34689",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/34689/2026-Delay-in-Mailing-Water-Bills-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-34689-2026-delay-in-mailing-water-bills-pdf.pdf",
+    "last_crawled": "2026-07-16T03:36:29+00:00",
+    "sha256": "5f756eebef0d797d33900d1916c7752cc469538bc1dc6a9494915cd6efbc1bb5",
+    "title": "2026-Delay-in-Mailing-Water-Bills-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/35131/Facility-Reservation-PacketPDF": {
     "file": "pdfs/documentcenter-view-35131-facility-reservation-packetpdf.pdf",
-    "last_crawled": "2026-07-16T03:24:35+00:00",
+    "last_crawled": "2026-07-16T03:36:15+00:00",
     "sha256": "213f5f881def540dd89652f1ff93244fc5be05f8b59a1953b19fdb751026aed3",
     "title": "Facility-Reservation-PacketPDF",
     "type": "pdf"
@@ -2995,11 +3296,25 @@
     "title": "352",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/352/Application-for-Fire-Permit-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-352-application-for-fire-permit-pdf.pdf",
+    "last_crawled": "2026-07-16T03:31:48+00:00",
+    "sha256": "88bad1378106d5114c7ca2aabf0326e3669dd1efddf149c51beb16f46a3fcdc5",
+    "title": "Application-for-Fire-Permit-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/35456/2026-Township-of-Livingston-Budget-Presentation-PDF": {
     "file": "pdfs/documentcenter-view-35456-2026-township-of-livingston-budget-presentation-pdf.pdf",
-    "last_crawled": "2026-07-16T03:18:51+00:00",
+    "last_crawled": "2026-07-16T03:31:23+00:00",
     "sha256": "dbb25c0566e4e8fd039c16c69580b7c1e6ac806510cd443f97535a9af3c9dd8a",
     "title": "2026-Township-of-Livingston-Budget-Presentation-PDF",
+    "type": "pdf"
+  },
+  "https://www.livingstonnj.org/DocumentCenter/View/35566/Heat-Wave-Safety-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-35566-heat-wave-safety-pdf.pdf",
+    "last_crawled": "2026-07-16T03:38:03+00:00",
+    "sha256": "6e09bde3461b82936a640c61b64bc46a513e669d8a47eeb345798f0af327b5ef",
+    "title": "Heat-Wave-Safety-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/402": {
@@ -3009,16 +3324,23 @@
     "title": "402",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/402/Animal-License-Form-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-402-animal-license-form-pdf.pdf",
+    "last_crawled": "2026-07-16T03:36:14+00:00",
+    "sha256": "3719ccd40c186053736ae8b6502ef409f87bc1e1c1bb5334bbe62908c66e2d8e",
+    "title": "Animal-License-Form-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/403/Vital-Record-Request-Form-PDF": {
     "file": "pdfs/documentcenter-view-403-vital-record-request-form-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:01+00:00",
+    "last_crawled": "2026-07-16T03:36:37+00:00",
     "sha256": "249d6651b60d43d9eac136ae63169efe506103a9fc807da1b32f9484f025101a",
     "title": "Vital-Record-Request-Form-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/435/Acceptable-Forms-of-Identification-PDF": {
     "file": "pdfs/documentcenter-view-435-acceptable-forms-of-identification-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:02+00:00",
+    "last_crawled": "2026-07-16T03:36:38+00:00",
     "sha256": "ce5a8864a99696bbabce20555ffa89ef2376f3aa80a29434a6ee6f0190866e66",
     "title": "Acceptable-Forms-of-Identification-PDF",
     "type": "pdf"
@@ -3030,6 +3352,13 @@
     "title": "533",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/533/Livingston-Recycling-Ordinance-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-533-livingston-recycling-ordinance-pdf.pdf",
+    "last_crawled": "2026-07-16T03:35:18+00:00",
+    "sha256": "dae7a22e03eafe0d8d2ce701146a5d0181356d1e4399a6dbc8fba85dcc49514a",
+    "title": "Livingston-Recycling-Ordinance-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/643": {
     "file": "pdfs/documentcenter-view-643.pdf",
     "last_crawled": "2026-07-16T03:20:49+00:00",
@@ -3037,58 +3366,65 @@
     "title": "643",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/643/Home-Improvement-Program-Temporarily-on-HOLD-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-643-home-improvement-program-temporarily-on-hold-pdf.pdf",
+    "last_crawled": "2026-07-16T03:32:30+00:00",
+    "sha256": "e9673deb9cdf31241ea54c8cb7688fd98583d8f20330b44c709514c7298c66d0",
+    "title": "Home-Improvement-Program-Temporarily-on-HOLD-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/65/Commercial-Sign-Zoning-Application-PDF": {
     "file": "pdfs/documentcenter-view-65-commercial-sign-zoning-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:20+00:00",
+    "last_crawled": "2026-07-16T03:36:54+00:00",
     "sha256": "25d34acaddb011a291e989356e368f4105a6af48711b1a0b01636a512e743e64",
     "title": "Commercial-Sign-Zoning-Application-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/66/Commercial-Zoning-Application-PDF": {
     "file": "pdfs/documentcenter-view-66-commercial-zoning-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:20+00:00",
+    "last_crawled": "2026-07-16T03:36:55+00:00",
     "sha256": "e1c024bf53045133c578793838601d48a6269cac8628f48a6c187e64b7f6e8bb",
     "title": "Commercial-Zoning-Application-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/69/Development-Fee-Form-PDF": {
     "file": "pdfs/documentcenter-view-69-development-fee-form-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:21+00:00",
+    "last_crawled": "2026-07-16T03:36:55+00:00",
     "sha256": "bc8e19f68ebc043e4c634425b6a63ba30e405d7bd234878473f3b2e737295518",
     "title": "Development-Fee-Form-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/72/Residential-Zoning-Permit-PDF": {
     "file": "pdfs/documentcenter-view-72-residential-zoning-permit-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:22+00:00",
+    "last_crawled": "2026-07-16T03:36:56+00:00",
     "sha256": "70abeef77fe742480ac4e419f3e89296b487ca78ffe812d5dc0821fdc8323228",
     "title": "Residential-Zoning-Permit-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/73/Sign-Requirements-for-Livingston-Town-Center-PDF": {
     "file": "pdfs/documentcenter-view-73-sign-requirements-for-livingston-town-center-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:23+00:00",
+    "last_crawled": "2026-07-16T03:36:57+00:00",
     "sha256": "635b26c3db74ff7ee1c54794142e14865ff5d76543130a6d164972a86d21ded5",
     "title": "Sign-Requirements-for-Livingston-Town-Center-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/74/Storage-Container-Conditions-and-Application-PDF": {
     "file": "pdfs/documentcenter-view-74-storage-container-conditions-and-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:25+00:00",
+    "last_crawled": "2026-07-16T03:36:59+00:00",
     "sha256": "95a9c8669daa10789bb68ba53c3978e0b117b923190df38dc87603e5669a8c69",
     "title": "Storage-Container-Conditions-and-Application-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/75/Storefront-Sign-Area-Calculation-all-other-PDF": {
     "file": "pdfs/documentcenter-view-75-storefront-sign-area-calculation-all-other-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:25+00:00",
+    "last_crawled": "2026-07-16T03:36:59+00:00",
     "sha256": "c5958747b838a70f971215b8e45d08b155ccc66ec6984b1de64a33d023759a29",
     "title": "Storefront-Sign-Area-Calculation-all-other-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/76/Storefront-Sign-Calculation--Livingston-Mall-PDF": {
     "file": "pdfs/documentcenter-view-76-storefront-sign-calculation-livingston-mall-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:26+00:00",
+    "last_crawled": "2026-07-16T03:37:00+00:00",
     "sha256": "769f9e7edb1233fe2cf6c85fe096b74b0ee11338e021655580aaac1010454921",
     "title": "Storefront-Sign-Calculation--Livingston-Mall-PDF",
     "type": "pdf"
@@ -3100,58 +3436,65 @@
     "title": "Animal-Shelter-Adoption-Application",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/7705/Animal-Shelter-Adoption-Application-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-7705-animal-shelter-adoption-application-pdf.pdf",
+    "last_crawled": "2026-07-16T03:32:59+00:00",
+    "sha256": "039c423bb1d1e66b00f0651e967537b7b2c48b96eb500358863c90d170845493",
+    "title": "Animal-Shelter-Adoption-Application-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/78/Annual-Pool-Inspection-Application-PDF": {
     "file": "pdfs/documentcenter-view-78-annual-pool-inspection-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:18+00:00",
+    "last_crawled": "2026-07-16T03:36:53+00:00",
     "sha256": "3be8bbbd1c82b285d4630fd5ad2161c2cdb8861a767a9a9226e858ec28879583",
     "title": "Annual-Pool-Inspection-Application-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/7815/Lien-Redemption-Request-Form-PDF": {
     "file": "pdfs/documentcenter-view-7815-lien-redemption-request-form-pdf.pdf",
-    "last_crawled": "2026-07-16T03:24:55+00:00",
+    "last_crawled": "2026-07-16T03:36:32+00:00",
     "sha256": "873fc6f2f76b10be43eae62543b8d61f327e7b49c349b659aea6d3d00c7a5e45",
     "title": "Lien-Redemption-Request-Form-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/81/Charitable-Donation-Bin-PDF": {
     "file": "pdfs/documentcenter-view-81-charitable-donation-bin-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:19+00:00",
+    "last_crawled": "2026-07-16T03:36:53+00:00",
     "sha256": "e1ea2640dd55c12baa2a20bb48fd4bf87e805201fad10897de6a215e5d0d0a11",
     "title": "Charitable-Donation-Bin-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/82/New-Tenant-Certificate-Application-PDF": {
     "file": "pdfs/documentcenter-view-82-new-tenant-certificate-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:22+00:00",
+    "last_crawled": "2026-07-16T03:36:56+00:00",
     "sha256": "72469cc68907c2ba167c3c9c3e9233c984be2c0442f92175ae5dfeb8e7dc7577",
     "title": "New-Tenant-Certificate-Application-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/873/Livingston-Road-Map-PDF": {
     "file": "pdfs/documentcenter-view-873-livingston-road-map-pdf.pdf",
-    "last_crawled": "2026-07-16T03:18:44+00:00",
+    "last_crawled": "2026-07-16T03:31:18+00:00",
     "sha256": "6ec1e7bc19a61e0ed5d6064a80330318bc1ae7e45dbf825786302af8049f19fc",
     "title": "Livingston-Road-Map-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/874/Leaf-Collection-Sections-Map-PDF": {
     "file": "pdfs/documentcenter-view-874-leaf-collection-sections-map-pdf.pdf",
-    "last_crawled": "2026-07-16T03:18:44+00:00",
+    "last_crawled": "2026-07-16T03:31:17+00:00",
     "sha256": "4aa89d687bc6407ecb70e88496c74c2f5aca582baef0b4891d482844d710959f",
     "title": "Leaf-Collection-Sections-Map-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/8868/Water-Sewer-Fee-List-PDF?bidId=": {
     "file": "pdfs/documentcenter-view-8868-water-sewer-fee-list-pdf.pdf",
-    "last_crawled": "2026-07-16T03:22:23+00:00",
+    "last_crawled": "2026-07-16T03:31:39+00:00",
     "sha256": "f4a6f67a6aa7b5ae530d2ccb319d75e36cd2e6afc14db2def9d66906300d5638",
     "title": "Water-Sewer-Fee-List-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/9069/Zoning-Confirmation-Application-PDF": {
     "file": "pdfs/documentcenter-view-9069-zoning-confirmation-application-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:26+00:00",
+    "last_crawled": "2026-07-16T03:37:01+00:00",
     "sha256": "0f41e23051ae6c70598e8ee679530b30c96e5d0b00b5daf44668e1dbb1eab6c0",
     "title": "Zoning-Confirmation-Application-PDF",
     "type": "pdf"
@@ -3163,30 +3506,37 @@
     "title": "2020-Recycling-Calendar-PDF",
     "type": "pdf"
   },
+  "https://www.livingstonnj.org/DocumentCenter/View/9384/Printable-Recycling-Schedule-PDF?bidId=": {
+    "file": "pdfs/documentcenter-view-9384-printable-recycling-schedule-pdf.pdf",
+    "last_crawled": "2026-07-16T03:34:38+00:00",
+    "sha256": "538d790874999f925e4b5741869728612015f96bc4b2ea1b9706d701851cdb9e",
+    "title": "Printable-Recycling-Schedule-PDF",
+    "type": "pdf"
+  },
   "https://www.livingstonnj.org/DocumentCenter/View/9478/Printable-Metal-Bulk-and-Holiday-Recycling-Schedules-PDF": {
     "file": "pdfs/documentcenter-view-9478-printable-metal-bulk-and-holiday-recycling-schedules-pdf.pdf",
-    "last_crawled": "2026-07-16T03:22:57+00:00",
+    "last_crawled": "2026-07-16T03:34:38+00:00",
     "sha256": "faf9d254f0dc8578ab2e14ae1bcdd22630da0cd4c6cebdb58470a7205a6afb25",
     "title": "Printable-Metal-Bulk-and-Holiday-Recycling-Schedules-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/9657/Home-Electrical-System-Ownership-Guidelines-JCPL-PDF": {
     "file": "pdfs/documentcenter-view-9657-home-electrical-system-ownership-guidelines-jcpl-pdf.pdf",
-    "last_crawled": "2026-07-16T03:21:28+00:00",
+    "last_crawled": "2026-07-16T03:33:10+00:00",
     "sha256": "bfb1ac151d827bab641d9a25af037f9cc46560d1b4c15b0a056bc504315d51cb",
     "title": "Home-Electrical-System-Ownership-Guidelines-JCPL-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/9982/Soil-Application_Erosion-and-Sediment-Control-Plan-Certification-PDF": {
     "file": "pdfs/documentcenter-view-9982-soil-application-erosion-and-sediment-control-plan-certification-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:23+00:00",
+    "last_crawled": "2026-07-16T03:36:58+00:00",
     "sha256": "65e1e8c9be39186eda8c4d9d369a4e356fe5e0577ead388d3968e0738cf55c87",
     "title": "Soil-Application_Erosion-and-Sediment-Control-Plan-Certification-PDF",
     "type": "pdf"
   },
   "https://www.livingstonnj.org/DocumentCenter/View/9983/Soil-Exemption_Request-for-Determination-of-Ch251-Non-Applicability-PDF": {
     "file": "pdfs/documentcenter-view-9983-soil-exemption-request-for-determination-of-ch251-non-applicability-pdf.pdf",
-    "last_crawled": "2026-07-16T03:25:24+00:00",
+    "last_crawled": "2026-07-16T03:36:58+00:00",
     "sha256": "a839b0355d2610d60375026a59b87b62b04b48ae91ed59f98943aecf28250d7a",
     "title": "Soil-Exemption_Request-for-Determination-of-Ch251-Non-Applicability-PDF",
     "type": "pdf"
@@ -3200,7 +3550,7 @@
   },
   "https://www.livingstonnj.org/Facilities": {
     "file": "pages/facilities.md",
-    "last_crawled": "2026-07-16T03:21:56+00:00",
+    "last_crawled": "2026-07-16T03:33:38+00:00",
     "sha256": "da6e75a37ed0a2645ae1288a1a80b8b1d41d5da796ea01b18d02ffbae76a6d27",
     "title": "Facilities \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
@@ -3347,49 +3697,49 @@
   },
   "https://www.livingstonnj.org/FormCenter/Clerk-12/Do-Not-Knock-Registration-70": {
     "file": "pages/formcenter-clerk-12-do-not-knock-registration-70.md",
-    "last_crawled": "2026-07-16T03:24:29+00:00",
+    "last_crawled": "2026-07-16T03:36:09+00:00",
     "sha256": "820a3afe3a1a2fcb319370062a33b57845e5e463bbdc81b3ab1a61c452a4e292",
     "title": "Form Center \u2022 Do Not Knock Registration",
     "type": "page"
   },
   "https://www.livingstonnj.org/FormCenter/Department-of-Public-Works-19/Metal-Collection-Request-81": {
     "file": "pages/formcenter-department-of-public-works-19-metal-collection-request-81.md",
-    "last_crawled": "2026-07-16T03:23:19+00:00",
+    "last_crawled": "2026-07-16T03:35:00+00:00",
     "sha256": "db9935d80e4e6aa70f0d8730d6ce61ba6e6260220275bb6d5f60fda017996f07",
     "title": "Form Center \u2022 Metal Collection Request",
     "type": "page"
   },
   "https://www.livingstonnj.org/FormCenter/Finance-5/eBill-Notification-AuthorizationCancella-94": {
     "file": "pages/formcenter-finance-5-ebill-notification-authorizationcancella-94.md",
-    "last_crawled": "2026-07-16T03:24:53+00:00",
+    "last_crawled": "2026-07-16T03:36:30+00:00",
     "sha256": "2d46177d4471597ad8104678dad07d451d3de21423097d7ff4dc4227e417fc9d",
     "title": "Form Center \u2022 eBill Notification Authorization/Cancellation",
     "type": "page"
   },
   "https://www.livingstonnj.org/FormCenter/Fire-7/AdoptAHydrant-Program-83": {
     "file": "pages/formcenter-fire-7-adoptahydrant-program-83.md",
-    "last_crawled": "2026-07-16T03:20:15+00:00",
+    "last_crawled": "2026-07-16T03:31:56+00:00",
     "sha256": "4ea26c10b61f41d1e7d82b6eaf80d4ef3fd99eb261e7587dd90a1ba928b77d14",
     "title": "Form Center \u2022 Adopt-A-Hydrant Program",
     "type": "page"
   },
   "https://www.livingstonnj.org/FormCenter/Fire-7/Contact-Us-47": {
     "file": "pages/formcenter-fire-7-contact-us-47.md",
-    "last_crawled": "2026-07-16T03:19:50+00:00",
+    "last_crawled": "2026-07-16T03:31:41+00:00",
     "sha256": "5cbc5a612465fcec1a31293259f83989b06bdf40bda362c6c0d6e68d245f002f",
     "title": "Form Center \u2022 Contact Us",
     "type": "page"
   },
   "https://www.livingstonnj.org/FormCenter/Water-Department-18/Final-Water-Reading-Request-Form-72": {
     "file": "pages/formcenter-water-department-18-final-water-reading-request-form-72.md",
-    "last_crawled": "2026-07-16T03:19:35+00:00",
+    "last_crawled": "2026-07-16T03:31:36+00:00",
     "sha256": "5dbbf116cd2423a72491082bd8323c922f42f92d375b63e15bbdb8d1560f32d6",
     "title": "Form Center \u2022 Final Water Reading Request Form",
     "type": "page"
   },
   "https://www.livingstonnj.org/Jobs.aspx": {
     "file": "pages/jobs-aspx.md",
-    "last_crawled": "2026-07-16T03:20:40+00:00",
+    "last_crawled": "2026-07-16T03:32:19+00:00",
     "sha256": "3f362a1596d804bf726a3b2d4517abbb17f20b8e0def100404cea227203962f3",
     "title": "Jobs \u2022 Livingston Township, NJ \u2022 CivicEngage",
     "type": "page"
@@ -3410,14 +3760,14 @@
   },
   "https://www.livingstonnj.org/directory.aspx?did=47": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:25:04+00:00",
+    "last_crawled": "2026-07-16T03:36:39+00:00",
     "sha256": "7afb61cce8297e240bdc601cda57298e620c69cd2cdeb13b5970e34a51c62ad3",
     "title": "Staff Directory \u2022 Vital Statistics",
     "type": "page"
   },
   "https://www.livingstonnj.org/directory.aspx?did=8": {
     "file": "pages/directory-aspx.md",
-    "last_crawled": "2026-07-16T03:25:37+00:00",
+    "last_crawled": "2026-07-16T03:37:11+00:00",
     "sha256": "17994c45dadbf6593c6f883301cefb62c53dfeb04f8441ab097a45d72e7d0da7",
     "title": "Staff Directory \u2022 Clerk",
     "type": "page"
@@ -3466,9 +3816,331 @@
   },
   "https://www.livingstonnj.org/list.aspx": {
     "file": "pages/list-aspx.md",
-    "last_crawled": "2026-07-16T03:24:31+00:00",
+    "last_crawled": "2026-07-16T03:36:10+00:00",
     "sha256": "a99cc7e954cd4ff9948eba5075a4881ec7053c2d99390d4ee33b018c4513b3da",
     "title": "Notify Me \u2022 Livingston Township, NJ \u2022 CivicEngage",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:36:02+00:00",
+    "sha256": "9fc74aa0ef89b8c1930259320375f9df6e3c95640049f9ce762d04ccdc5e388a",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=15": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:34:15+00:00",
+    "sha256": "07d67267810fc3800d33e4b2eb7c03aa7410abb39db2b5379450b6b56e6da10c",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=16": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:31:35+00:00",
+    "sha256": "38a1ddd7901257207479cab58bc9a2845d0b01668c8245542f84293807eea281",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=18": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:36:42+00:00",
+    "sha256": "5b1a2c3136891dda630f1ab7ee9de3406f7751d6b0a820e57daaa873b964ce9e",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=21": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:33:57+00:00",
+    "sha256": "751a6ebf601ea68477e58d9e8d0c6a9d7fff19425cb16115d980553060779697",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=43": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:34:20+00:00",
+    "sha256": "52a0301af99aced9a10cb03d9528e4ae0ef10b82e8eebf865b7d6b4519650b3b",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/faq?cat=44": {
+    "file": "pages/m-faq.md",
+    "last_crawled": "2026-07-16T03:35:57+00:00",
+    "sha256": "96f5d320e58277a523e93727360b666d4198f5bb0035ae137ba897b21fac57e3",
+    "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash": {
+    "file": "pages/m-newsflash.md",
+    "last_crawled": "2026-07-16T03:37:58+00:00",
+    "sha256": "d60110b56f0aff8c20e098e13dd3f64ab90af8473b1dd8fb3f9b57ceb447dba2",
+    "title": "News Flash \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/2041": {
+    "file": "pages/m-newsflash-home-detail-2041.md",
+    "last_crawled": "2026-07-16T03:38:00+00:00",
+    "sha256": "1e89c78b28b6edd3c2790026d9a1a821862d6778351d991e3cff035a8b5032db",
+    "title": "Lock It or Lose It \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/2042": {
+    "file": "pages/m-newsflash-home-detail-2042.md",
+    "last_crawled": "2026-07-16T03:38:08+00:00",
+    "sha256": "804aea3537c6e3bcf7b5bb79c6fe84e476e22c7dee4ea351c5f91c49f67ad0e0",
+    "title": "The S.A.F.E. Approach \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/2226": {
+    "file": "pages/m-newsflash-home-detail-2226.md",
+    "last_crawled": "2026-07-16T03:38:08+00:00",
+    "sha256": "0981ba12912ac3ed836a6db46159e77b07cf9049bf21a5e1446e9f60e487f937",
+    "title": "Report a Concern Quickly & Easily with GovAlert \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3048": {
+    "file": "pages/m-newsflash-home-detail-3048.md",
+    "last_crawled": "2026-07-16T03:38:01+00:00",
+    "sha256": "e0f4c815cd0d65ba0042cdbf6f7e1cf8c30c84c6d0a291f25278903f3b78f5e9",
+    "title": "New Biweekly Livingston Newsletter \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3079": {
+    "file": "pages/m-newsflash-home-detail-3079.md",
+    "last_crawled": "2026-07-16T03:38:07+00:00",
+    "sha256": "e39f7e72657b0ded455aef2053842bc7a27cfc4fa4246bfffd2603dc8286f66a",
+    "title": "Livingston Enhances 9-1-1 Services and Emergency Notification With Smart911 \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3131": {
+    "file": "pages/m-newsflash-home-detail-3131.md",
+    "last_crawled": "2026-07-16T03:37:58+00:00",
+    "sha256": "b68f158bea85b8f86abe16e8b9a2b7c6d3a440bff77c2366fe6b6048aba5b173",
+    "title": "Summer Nights at the Oval \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3162": {
+    "file": "pages/m-newsflash-home-detail-3162.md",
+    "last_crawled": "2026-07-16T03:38:10+00:00",
+    "sha256": "d4f28c9b6d5dac85ef11bc382d08d78d80cee691bc504954b5ee74000fef8219",
+    "title": "Mosquito and Tick Prevention \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3166": {
+    "file": "pages/m-newsflash-home-detail-3166.md",
+    "last_crawled": "2026-07-16T03:38:10+00:00",
+    "sha256": "bcb08c8b80ad5b0c0e39107fc65a977fd3eb7ca25b7fd08539e97a9b30dfd0e2",
+    "title": "Healthy Eating for Older Adults \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3194": {
+    "file": "pages/m-newsflash-home-detail-3194.md",
+    "last_crawled": "2026-07-16T03:38:00+00:00",
+    "sha256": "d3af85f0639af24ee1b482f5523f20b2087db0b3a54561e83c0039dc91261b41",
+    "title": "Vision 20/20 Priorities Survey is Live \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3204": {
+    "file": "pages/m-newsflash-home-detail-3204.md",
+    "last_crawled": "2026-07-16T03:37:59+00:00",
+    "sha256": "ee4b756b2f7bc2d3800b02eaac2cbe0772285e84b4995912f50aa6aff8a4c7d5",
+    "title": "Extreme Heat Safety Tips \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3212": {
+    "file": "pages/m-newsflash-home-detail-3212.md",
+    "last_crawled": "2026-07-16T03:38:09+00:00",
+    "sha256": "1df2f85164ca6f8c8648bfa9d8996d40fac542d0ba5dcaf5fbb39d88d23633fc",
+    "title": "Blood Pressure Screening \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/Home/Detail/3214": {
+    "file": "pages/m-newsflash-home-detail-3214.md",
+    "last_crawled": "2026-07-16T03:38:03+00:00",
+    "sha256": "a68c366d59dbbcf5df3c565f5a65aed2cbeec4a251b6c79eed7915525ea4ab5f",
+    "title": "Scheduled Water Main Work - Crest Terrace \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2034": {
+    "file": "pages/m-newsflash-home-detail-2034.md",
+    "last_crawled": "2026-07-16T03:36:52+00:00",
+    "sha256": "ce9a235d77e9259e5c84ce544a866b3b6c56d989929302663394eb34f288b6a9",
+    "title": "Welcome to Recycle Coach! \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2041": {
+    "file": "pages/m-newsflash-home-detail-2041.md",
+    "last_crawled": "2026-07-16T03:30:27+00:00",
+    "sha256": "330344fe96de01805f77432ce35a5efc5ef47991cc855ccff08440fd909264d0",
+    "title": "Lock It or Lose It \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2046": {
+    "file": "pages/m-newsflash-home-detail-2046.md",
+    "last_crawled": "2026-07-16T03:30:32+00:00",
+    "sha256": "5b835b5f10a806ae28a768a938f09bf36bbd52c6a68cd628f6095cb423f5a0eb",
+    "title": "Register for Official Emergency Alerts \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2047": {
+    "file": "pages/m-newsflash-home-detail-2047.md",
+    "last_crawled": "2026-07-16T03:30:31+00:00",
+    "sha256": "2ab18fe6cceb998ba64622a8f2824c0b486513e4d896c9a37b8cd4d8bbe500bd",
+    "title": "Take the \"Report My Service Line\" Survey \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2226": {
+    "file": "pages/m-newsflash-home-detail-2226.md",
+    "last_crawled": "2026-07-16T03:36:51+00:00",
+    "sha256": "50b12f81b57b2317fbdbb0c7cb7e23e281aca84073a3ceb57636b3a62db5e0de",
+    "title": "Report a Concern Quickly & Easily with GovAlert \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2272": {
+    "file": "pages/m-newsflash-home-detail-2272.md",
+    "last_crawled": "2026-07-16T03:36:51+00:00",
+    "sha256": "5da94edb61b6dce6d8e2548f904a38e8397ed7762432d70d4498094044484079",
+    "title": "Rear-Yard Pickup \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2437": {
+    "file": "pages/m-newsflash-home-detail-2437.md",
+    "last_crawled": "2026-07-16T03:36:50+00:00",
+    "sha256": "74f651db4bd37c1269c24fde2b38d678959657f130e20d341054dca684e9119f",
+    "title": "No Plastics Bags in Recycling \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2483": {
+    "file": "pages/m-newsflash-home-detail-2483.md",
+    "last_crawled": "2026-07-16T03:30:32+00:00",
+    "sha256": "f162dc6494f786b85b9c3d0a4ca065cbd56a87a97f2c02ee1cd956c23081151b",
+    "title": "We're Hiring! \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2868": {
+    "file": "pages/m-newsflash-home-detail-2868.md",
+    "last_crawled": "2026-07-16T03:30:29+00:00",
+    "sha256": "07e4da7c6afbf89507c2d6fce407f8df7eeb60bcd7c5ac8aa7ed895e062f9f17",
+    "title": "Statewide Drought Warning \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/2979": {
+    "file": "pages/m-newsflash-home-detail-2979.md",
+    "last_crawled": "2026-07-16T03:30:34+00:00",
+    "sha256": "9e5510e4b32c856be3288dbce6035c0dc2028f4578703d4c99a36f1dbbfdf698",
+    "title": "Parkinson's Support Group \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3015": {
+    "file": "pages/m-newsflash-home-detail-3015.md",
+    "last_crawled": "2026-07-16T03:30:38+00:00",
+    "sha256": "a32e97c085a80dea3ced757838f15b9a7f6ba167fd21262ba69a731b7c5d4811",
+    "title": "Livingston Lancers Summer Sports Camp \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3016": {
+    "file": "pages/m-newsflash-home-detail-3016.md",
+    "last_crawled": "2026-07-16T03:30:33+00:00",
+    "sha256": "735e1863572a803c1cf8b8f91ff32d257d29f1f460afaba0189f4f5505771cdc",
+    "title": "Make it a great summer at Haines Memorial Pool \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3048": {
+    "file": "pages/m-newsflash-home-detail-3048.md",
+    "last_crawled": "2026-07-16T03:30:30+00:00",
+    "sha256": "1c43bd5e332dbe6d63c3240120364c7e8c05a706c8829dd866acb2e2e657a41b",
+    "title": "New Biweekly Livingston Newsletter \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3056": {
+    "file": "pages/m-newsflash-home-detail-3056.md",
+    "last_crawled": "2026-07-16T03:30:37+00:00",
+    "sha256": "12889f17731422248d6bf08f8b4fddef761c02e6ba54257f0c11436366582f5d",
+    "title": "2026 Livingston Summer Aquatics Program Guide \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3079": {
+    "file": "pages/m-newsflash-home-detail-3079.md",
+    "last_crawled": "2026-07-16T03:30:31+00:00",
+    "sha256": "4e7a1bbde9cdd5a0ac03b8664accaf88ed1cfdac80c046079383afbc12309a38",
+    "title": "Livingston Enhances 9-1-1 Services and Emergency Notification With Smart911 \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3122": {
+    "file": "pages/m-newsflash-home-detail-3122.md",
+    "last_crawled": "2026-07-16T03:30:27+00:00",
+    "sha256": "18a8ef47020d2c40b3754e7bbbd6b466ac788265f85a195b44daceecdd162dd3",
+    "title": "Livingston\u2019s 2026 Water Quality Report \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3131": {
+    "file": "pages/m-newsflash-home-detail-3131.md",
+    "last_crawled": "2026-07-16T03:30:26+00:00",
+    "sha256": "869a9a9de9e00753c331f43e1f351fdd84426a13f6246cfed44c2d74d4504971",
+    "title": "Summer Nights at the Oval \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3147": {
+    "file": "pages/m-newsflash-home-detail-3147.md",
+    "last_crawled": "2026-07-16T03:30:37+00:00",
+    "sha256": "b9bdd5272b17cba6710b17d63fa70894d05017fc6049291fc416e6cf9a6f6842",
+    "title": "2026 Summer Adult and Senior News & Programs \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3160": {
+    "file": "pages/m-newsflash-home-detail-3160.md",
+    "last_crawled": "2026-07-16T03:30:28+00:00",
+    "sha256": "87350cb37c036ab1ff6950b4d55a738560736f573f9767bc31054036ba565221",
+    "title": "LACD Pool Party \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3162": {
+    "file": "pages/m-newsflash-home-detail-3162.md",
+    "last_crawled": "2026-07-16T03:30:28+00:00",
+    "sha256": "52d27eb90389fa2d40894065a4fcaeedada0db80af137ab21063393436b51582",
+    "title": "Mosquito and Tick Prevention \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3192": {
+    "file": "pages/m-newsflash-home-detail-3192.md",
+    "last_crawled": "2026-07-16T03:30:35+00:00",
+    "sha256": "95e60cdfa93c137da7c8392fa30c3f825b024f372237208f9e7c1bdc99ae000a",
+    "title": "Summer Bingo 2026 (ages 62+) \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3194": {
+    "file": "pages/m-newsflash-home-detail-3194.md",
+    "last_crawled": "2026-07-16T03:30:25+00:00",
+    "sha256": "0fe056d756beaaaad9b0bbd424daac26de0b677b6f743f7b48b0253110eac966",
+    "title": "Vision 20/20 Priorities Survey is Live \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3204": {
+    "file": "pages/m-newsflash-home-detail-3204.md",
+    "last_crawled": "2026-07-16T03:30:25+00:00",
+    "sha256": "638e7947d91f22ee9b319b9fe44133a92acefa46608539312623bb871638c823",
+    "title": "Extreme Heat Safety Tips \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3205": {
+    "file": "pages/m-newsflash-home-detail-3205.md",
+    "last_crawled": "2026-07-16T03:30:35+00:00",
+    "sha256": "a3208c6699db2709585f395925a163980ad975e21400c137ff89e5f016ff6f1d",
+    "title": "Floats and Tunes (ages 62+) \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3206": {
+    "file": "pages/m-newsflash-home-detail-3206.md",
+    "last_crawled": "2026-07-16T03:30:36+00:00",
+    "sha256": "9c3488e1b3e7f7d5000f6ed41d7c6c02eeff34e9459f1fd5f0addd4e1c181904",
+    "title": "Zumba Beach Class (ages 62+) \u2022 Livingston Township, NJ",
+    "type": "page"
+  },
+  "https://www.livingstonnj.org/m/newsflash/home/detail/3214": {
+    "file": "pages/m-newsflash-home-detail-3214.md",
+    "last_crawled": "2026-07-16T03:30:24+00:00",
+    "sha256": "7803100b573a8cb5084d89b5d40398ac63e339313dbbc3f45e80b409b0d25a8c",
+    "title": "Scheduled Water Main Work - Crest Terrace \u2022 Livingston Township, NJ",
     "type": "page"
   },
   "https://www.livingstonnj.org/youtube": {

@@ -1,6 +1,6 @@
 # Register for My360 Portal
 
-Source: https://www.livingstonnj.org/1646/Register-for-My360-Portal
+Source: https://livingstonnj.org/1646/Register-for-My360-Portal
 
 # Register for My360 Portal
 
