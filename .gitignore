@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+feedback_log.csv
+.DS_Store
+# NOTE: data/ and storage/ are intentionally committed — Streamlit Cloud
+# serves the index straight from the repo.

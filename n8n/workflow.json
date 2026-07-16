@@ -1,0 +1,131 @@
+{
+  "name": "Livingston Township Site Monitor",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "triggerAtDay": [1],
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "name": "Every Monday 6am",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "url": "https://www.livingstonnj.org/sitemap.xml",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "text"
+            }
+          }
+        }
+      },
+      "name": "Fetch Sitemap",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {
+        "jsCode": "const crypto = require('crypto');\nconst body = typeof $json.data === 'string' ? $json.data : JSON.stringify($json);\nconst newHash = crypto.createHash('sha256').update(body).digest('hex');\nconst staticData = $getWorkflowStaticData('global');\nconst oldHash = staticData.sitemapHash || null;\nconst changed = oldHash !== null && oldHash !== newHash;\nstaticData.sitemapHash = newHash;\nreturn [{ json: { changed, firstRun: oldHash === null, oldHash, newHash, checkedAt: new Date().toISOString() } }];"
+      },
+      "name": "Compare With Last Hash",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [440, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "leftValue": "={{ $json.changed }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        }
+      },
+      "name": "Site Changed?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [660, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8000/webhook/rescrape",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "X-Token",
+              "value": "YOUR_RESCRAPE_TOKEN"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Trigger Re-scrape",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [880, -100]
+    },
+    {
+      "parameters": {
+        "fromEmail": "yvonne.ferreira@gmail.com",
+        "toEmail": "yvonne.ferreira@gmail.com",
+        "subject": "Livingston Township site changed — re-scrape triggered",
+        "emailFormat": "text",
+        "text": "=The Livingston Township sitemap changed (checked {{ $('Compare With Last Hash').item.json.checkedAt }}).\n\nA re-scrape of livingstonnj.org has been triggered; the assistant's knowledge index will update and redeploy automatically.\n\nOld hash: {{ $('Compare With Last Hash').item.json.oldHash }}\nNew hash: {{ $('Compare With Last Hash').item.json.newHash }}",
+        "options": {}
+      },
+      "name": "Email Notification",
+      "type": "n8n-nodes-base.emailSend",
+      "typeVersion": 2.1,
+      "position": [880, 100]
+    }
+  ],
+  "connections": {
+    "Every Monday 6am": {
+      "main": [[{ "node": "Fetch Sitemap", "type": "main", "index": 0 }]]
+    },
+    "Fetch Sitemap": {
+      "main": [[{ "node": "Compare With Last Hash", "type": "main", "index": 0 }]]
+    },
+    "Compare With Last Hash": {
+      "main": [[{ "node": "Site Changed?", "type": "main", "index": 0 }]]
+    },
+    "Site Changed?": {
+      "main": [
+        [
+          { "node": "Trigger Re-scrape", "type": "main", "index": 0 },
+          { "node": "Email Notification", "type": "main", "index": 0 }
+        ],
+        []
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
